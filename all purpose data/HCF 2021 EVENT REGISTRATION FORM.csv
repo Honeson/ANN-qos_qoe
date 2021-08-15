@@ -1,640 +1,631 @@
-"Timestamp","Username","Phone Number","Surname","First name","Will you be attending the 2021 Online Event?","What is your HillCity Foundation Membership Status","Would you like to join us at the Physical event in Port Harcourt?","Will you be available for the one on one mentorship engagement on Friday?","Do you have any comments"
-"2021/07/14 11:56:17 AM GMT+1","u.umeoke@yahoo.com","+2348061335242","Umeoke","Ugochukwu","YES","Graduate Member","","","Here's my comment"
-"2021/07/22 3:52:52 AM GMT+1","musakabiru812@gmail.com","08093487637/08159014316","Musa","Kabiru","YES","Current Awardee","","","Long live to Hcf and it's Team members"
-"2021/07/22 5:12:14 AM GMT+1","sundayogundeji9@gmail.com","09023141490","OGUNDEJI","Sunday","YES","Other","","","no"
-"2021/07/22 9:25:25 PM GMT+1","collinsfrason87@gmail.com","09039763325","Collins","Nnaemeka","YES","Current Awardee","","","Anticipating"
-"2021/07/22 9:33:05 PM GMT+1","felixorji18@gmail.com","07063109247","Felix","Ifeanyichukwu","YES","Current Awardee","","",""
-"2021/07/22 9:39:17 PM GMT+1","felixorji18@gmail.com","07063109247","Felix","IfeanyiChukwu","YES","Current Awardee","","","I am anticipating the program."
-"2021/07/23 10:03:20 AM GMT+1","ikechukwuobisike@gmail.com","08109671739","OBISIKE","IKECHUKWU","YES","Other","","",""
-"2021/07/23 2:43:46 PM GMT+1","osarueseikponmwosa@gmail.com","07088382860","Ikponmwosa ","Osaruese ","YES","Other","","",""
-"2021/07/23 5:51:54 PM GMT+1","omarejivwieo@gmail.com","09052912582","Omarejivwie","Onovwakpor ","YES","Other","","",""
-"2021/07/24 12:54:14 PM GMT+1","anthonychukwunenye@gmail.com","09074493568","Eboh","Anthony","YES","Other","","",""
-"2021/07/25 3:11:38 AM GMT+1","favoritegani@gmail.com","08149482608","Irimiya","Shedrach Gani","YES","Graduate Member","","","One of it kind an exceptional program "
-"2021/07/25 2:22:55 PM GMT+1","egwuabasimon100@gmail.com","09099382719","Egwuaba","Simon","YES","Other","","",""
-"2021/07/26 6:58:04 AM GMT+1","billnkantion97@gmail.com","09078610832","Nkantion","Bill","YES","Current Awardee","","","Hill City has been impacting lives positively, I expect nothing less."
-"2021/07/26 11:37:32 AM GMT+1","naihkore@yahoo.com","08131021846","Mojafu-Ekpang ","Naihkore","YES","Current Awardee","","","I Hope for the best as Usual."
-"2021/07/26 12:02:11 PM GMT+1","samueloluwatobiloba48@gmail.com","08069842054","Adesokan","Oluwatobiloba","YES","Other","","","No"
-"2021/07/26 8:18:44 PM GMT+1","khalidsani001@gmail.com","08101210249","Sani","Khalid","YES","Graduate Member","","","Wishing a well and successful program. Kudos to HCF"
-"2021/07/27 9:29:05 PM GMT+1","naihkore@yahoo.com","08131021846","Mojafu-Ekpang","Naihkore","YES","Current Awardee","","",""
-"2021/07/28 9:36:51 AM GMT+1","abbakarkkr@gmail.com","08107173718","Adamu","Abubakar","YES","Current Awardee","","","Thank you hillcity foundation for your support. May God reward you and give you more strength to continue helping youth. "
-"2021/07/28 5:14:39 PM GMT+1","derickakachukwu@gmail.com","09072466000","Mbam","Akachukwu","YES","Other","","",""
-"2021/07/29 1:55:05 AM GMT+1","davidjohn7908@gmail.com","08138306072 ","John","David ","YES","Other","","",""
-"2021/07/29 5:41:45 AM GMT+1","iloanusichukwuagoziem@gmail.com","08168778293","Iloanusi","Chukwuagoziem","YES","Other","","",""
-"2021/07/29 12:43:39 PM GMT+1","oluwafunmilayoagunroye@yahoo.com","+2348029148362","Agunroye","Elizabeth","YES","Other","","","No"
-"2021/07/30 12:05:22 PM GMT+1","chinecherem.eze.241255@unn.edu.ng","08141345890","Eze","Chinecherem","YES","Other","","","No"
-"2021/07/30 1:29:08 PM GMT+1","yuskid98@gmail.com","08171199675","Olowode","Yusuf","YES","Other","","",""
-"2021/07/30 4:51:06 PM GMT+1","samuelabuh247@gmail.com","07063369733","Abuh","Samuel","YES","Current Awardee","","","No"
-"2021/07/30 5:07:29 PM GMT+1","robert.kyoyetera@gmail.com","+256789088755","Kyoyetera ","Robert","YES","Core Team Member","No","Option 1",""
-"2021/07/30 5:10:36 PM GMT+1","ngoziguchenna@gmail.com","+2348102989686","ngozi","Uchenna","YES","Graduate Member","","",""
-"2021/07/30 5:20:27 PM GMT+1","mogwogho@yahoo.com","08172064466","Ogwogho","Momodu","YES","Core Team Member","Yes","Option 1","Let's discover!"
-"2021/07/30 5:24:26 PM GMT+1","Itumsamuel@gmail.com","08060682838","Samuel","Itum","YES","Graduate Member","","","I look forward to this epoch event"
-"2021/07/30 5:26:06 PM GMT+1","jafarusange@gmail.com","08107256551","Ibrahim","Jafaru","YES","Graduate Member","","",""
-"2021/07/30 5:32:06 PM GMT+1","felixchally@gmail.com","07031921989","Ozurumba","Charles","YES","Graduate Member","","",""
-"2021/07/30 5:33:53 PM GMT+1","chibuezeokoronkwo6@gmail.com","070 3648 2813","Okoronkwo","Chibueze","YES","Graduate Member","","","I trust that this event is well packaged and would bring about all-round manifestation afterwards."
-"2021/07/30 5:49:25 PM GMT+1","emmanuelahmadu2016@gmail.com","07032408892","Ahmadu","Emmanuel","YES","Graduate Member","","","I am proud to be a hcf graduate member. And God bless hcf."
-"2021/07/30 5:53:57 PM GMT+1","chukwudipercy@gmail.com","250785879567","Chukwudi","Percy","YES","Graduate Member","","",""
-"2021/07/30 6:11:55 PM GMT+1","egesajesse@live.com","+256779222322","Egesa","Jesse","YES","Core Team Member","No","",""
-"2021/07/30 6:39:53 PM GMT+1","emmanuel.u.osuagwu@gmail.com","+2347036559845","Osuagwu","Emmanuel","YES","Graduate Member","","","Great initiative, kudos to the HCF team!"
-"2021/07/30 6:44:34 PM GMT+1","cyberteqz@gmail.com","07069378861","LAWAL","KEHINDE AUGUSTINE","YES","Current Awardee","","","I know that day is going to be awesome "
-"2021/07/30 6:45:24 PM GMT+1","oshieemmanuel1@gmail.com","09034090035","OSHIE","EMMANUEL ","YES","Current Awardee","","",""
-"2021/07/30 6:45:36 PM GMT+1","o.m.stevoo@gmail.com","+2348101398192","Orugbala ","Izuchukwu ","YES","Current Awardee","","","I wish to appreciate this great and Noble family for everything they've been doing in my life through this scheme. Greater heights I pray for HCF"
-"2021/07/30 6:48:50 PM GMT+1","okorose911@gmail.com","09076615475","Oko","Rose ","YES","Current Awardee","","",""
-"2021/07/30 6:49:04 PM GMT+1","giftedrash@gmail.com","08234833607","Idris","Gift","YES","Current Awardee","","",""
-"2021/07/30 6:52:10 PM GMT+1","thankgodugbedeojoh@gmail.com","+2348030782442","Mohammed","Ugbede","YES","Graduate Member","","","I wanna thank Hillcity foundation Education Support for his contribution towards my education goal. God bless you all. "
-"2021/07/30 6:54:29 PM GMT+1","okerekechimaobiclinton@gmail.com","07019266567","Okereke","Chimaobi","YES","Current Awardee","","","God bless HillCity Foundation 💪"
-"2021/07/30 6:54:59 PM GMT+1","preciousosazee16@yahoo.com","08039306735","Osazee","Isoken","YES","Current Awardee","","","I look forward to gaining a lot from this event"
-"2021/07/30 6:56:35 PM GMT+1","ugochukwu.uwazurike@hillcityfoundation.org","08166365000","Uwazuruike ","Ugochukwu ","YES","Core Team Member","No","",""
-"2021/07/30 6:57:25 PM GMT+1","oluwasheyiolawumi@gmail.com","08063580461 ","OLAWUMI ","OLUWASHEYI ","YES","Current Awardee","","","Hillcity Foundation has added lots of value to my life. I have been extremely blessed and impacted by virtue of being a member of this great family since 2019. I will forever be grateful. Thank you, Hillcity Foundation. What a previledge! God bless Hillcity Foundation. "
-"2021/07/30 6:58:36 PM GMT+1","idenyiemmanuele@gmail.com","08167597053","IDENYI","EMMANUEL","YES","Current Awardee","","","Thank you for adding life to me"
-"2021/07/30 6:59:27 PM GMT+1","agbelayi.esther@gmail.com","+2348171579474","Agbelayi","Esther","YES","Current Awardee","","","Thank you for the opportunity to be a part of hillcity"
-"2021/07/30 6:59:51 PM GMT+1","chimachibuzo22@gmail.com","08066245838","CHIMA","CHIBUZO JUDE","YES","Current Awardee","","",""
-"2021/07/30 7:00:30 PM GMT+1","enefiokgreat335@gmail.com","07061891398","Enefiok","Goodnews Great","YES","Current Awardee","","","I'm Expecting Wonderful Live changing Seminar unusual😍"
-"2021/07/30 7:01:07 PM GMT+1","nwoghachinedu108@gmail.com","09033830140","Nwogha","Chinedu Moses","YES","Current Awardee","","","I hope to learn a lot on this ride!"
-"2021/07/30 7:04:46 PM GMT+1","agbelayi.esther@gmail.com","+2348171579474","Agbelayi ","Esther","YES","Current Awardee","","",""
-"2021/07/30 7:04:46 PM GMT+1","datugunwulkatrita@gmail.com","08113554327","Datugun","Rita","YES","Current Awardee","","","Hill city is truly a city on the hill, God bless the founder, and all the management"
-"2021/07/30 7:05:30 PM GMT+1","cheymaremmanuel@gmail.com","08143206143","Chima","Emmanuel","YES","Current Awardee","","","Looking forward to the event ☺️"
-"2021/07/30 7:05:54 PM GMT+1","oluwasheyiolawumi@gmail.com","08063580461 ","OLAWUMI ","OLUWASHEYI ","YES","Current Awardee","","","I have been greatly impacted by Hillcity foundation. There has been a great value-add since year 2019 that I have been priviledged to be a member of this great family as an awardee. I will forever be grateful. Thank You, HILLCITY FOUNDATION. God bless Hillcity Foundation! "
-"2021/07/30 7:06:49 PM GMT+1","datugunwulkatrita@gmail.com","08113554327","Datugun","Rita","YES","Current Awardee","","","Hill city has change my life"
-"2021/07/30 7:07:37 PM GMT+1","musakabiru812@gmail.com","08093487637","Musa","Kabiru","YES","Current Awardee","","","Anticipating this event."
-"2021/07/30 7:08:20 PM GMT+1","wonahvictoria@gmail.com","08133662052","Wonah","Victoria ","YES","Current Awardee","","",""
-"2021/07/30 7:08:49 PM GMT+1","patiencebarikpoa@gmail.com","08149779384","Naifa","Patience","YES","Current Awardee","","",""
-"2021/07/30 7:09:44 PM GMT+1","musakabiru812@gmail.com","08093487637","Musa","Kabiru","YES","Current Awardee","","","God bless all Hill city members"
-"2021/07/30 7:10:27 PM GMT+1","amanyaw33@gmail.com","0772978678","Amanya","Winfred","YES","Core Team Member","No","Option 1","N/A"
-"2021/07/30 7:12:40 PM GMT+1","kprakedaniel0@gmail.com","+2349035048230","Kprake","Daniel","YES","Graduate Member","","",""
-"2021/07/30 7:13:15 PM GMT+1","wilsonsunday68@gmail.com","08107321942","Echara","Wilson","YES","Current Awardee","","","I can't wait to take part in the event."
-"2021/07/30 7:13:21 PM GMT+1","aniekpenosunday37@gmail.com","08155507570","Tom","Aniekpeno","YES","Current Awardee","","","Believing to have a wonderful time"
-"2021/07/30 7:13:51 PM GMT+1","kennethisrael108@gmail.com","08102504290","Kenneth","Israel Aguiyi","YES","Current Awardee","","","God bless HillCity"
-"2021/07/30 7:17:42 PM GMT+1","bridgetgold2016@gmail.com","08037032684","Ndukwe","Bridget","YES","Current Awardee","","",""
-"2021/07/30 7:19:03 PM GMT+1","estherejiroghene@gmail.com","07049354687","Ajari","Esther","YES","Current Awardee","","","No, I do not. "
-"2021/07/30 7:20:55 PM GMT+1","Ebukasebastine@gmail.com","07032147943","Iloebo","Ebuka","YES","Current Awardee","","",""
-"2021/07/30 7:23:46 PM GMT+1","pdike40@gmail.com","07041300644","Dike","Promise ","YES","Other","","",""
-"2021/07/30 7:25:12 PM GMT+1","eze.angela.237090@unn.edu.ng","09036219218","EZE","IFEDIBA","YES","Current Awardee","","","I appreciate HillCity Foundation for helping through this journey. I am so grateful. Words can't really explain how grateful I am. If not for HillCity Foundation, I would have been a school dropout. But here am I marching towards my final year. Chai! I am eternally grateful. Thank you ♥️. "
-"2021/07/30 7:32:10 PM GMT+1","ebere.cea@gmail.com","08167028670","Chime","Ebere Ann","YES","Current Awardee","","","No"
-"2021/07/30 7:54:13 PM GMT+1","offshorepastor@yahoo.com","08027411268","Edokpayi ","Emmanuel ","YES","Core Team Member","Yes","",""
-"2021/07/30 7:55:57 PM GMT+1","petertambari@gmail.com","08132030284","Peter","Tambari","YES","Current Awardee","","","Hillcity Foundation's program have been impactful. "
-"2021/07/30 7:56:23 PM GMT+1","udochukwugoodluck442@gmail.com","08167668442","UDOCHUKWU","GOODLUCK","YES","Current Awardee","","","HillCity foundation have really transformed me positively, help me to achieve my goals academically"
-"2021/07/30 7:57:01 PM GMT+1","justinraphael.2706@gmial.com ","Justin","Arizie","Justin","YES","Other","","","no"
-"2021/07/30 7:58:30 PM GMT+1","udochukwugoodluck442@gmail.com","08167668442","UDOCHUKWU","GOODLUCK","YES","Current Awardee","","","HillCity foundation have really helped me achieve my goals academically,."
-"2021/07/30 8:06:15 PM GMT+1","Ogbuukpaiokechukwu@gmail.com","08167760688","OGBU,","UKPAI OKECHUKWU PAUL","YES","Current Awardee","","","I Await My MANIFESTATION! "
-"2021/07/30 8:30:07 PM GMT+1","getiobhio@yahoo.com","+1 267 670 5966","Etiobhio","Gold","YES","Core Team Member","No","",""
-"2021/07/30 8:37:01 PM GMT+1","onyebuchinwalieze@gmail.com","08128384131","NWALIEZE","ONYEBUCHI","YES","Other","","","No"
-"2021/07/30 8:38:53 PM GMT+1","agwublessing82@gmail.com","09066311348","Agwu","Blessing","YES","Other","","","I wish to thank Hillcity foundation for their support, am really grateful.
-Long live Hillcity foundation! "
-"2021/07/30 8:42:42 PM GMT+1","victoriaonyiclassic1@yahoo.com","08143968812","Orji","Chiamaka ","YES","Current Awardee","","","Yes"
-"2021/07/30 8:52:46 PM GMT+1","bamydele224@gmail.com","07036467064","Ajongbolo","BAMIDELE","YES","Current Awardee","","","Hill city helped me this far, I am forever grateful."
-"2021/07/30 9:11:44 PM GMT+1","garubameshach@yahoo.com","09038399469","Garuba","Meshach","YES","Current Awardee","","","I really do appreciate the leadership of Hill city foundation for this platform"
-"2021/07/30 9:11:59 PM GMT+1","adaobiisiani@gmail.com","08164362893","Isiani","Lovelyn","YES","Current Awardee","","","I'm blessed to be part of this foundation"
-"2021/07/30 9:14:29 PM GMT+1","garubameshach@yahoo.com","09038399469","Garuba","Meshach","YES","Current Awardee","","","I really do appreciate Hill city foundation for this platform"
-"2021/07/30 9:17:32 PM GMT+1","faithchioma15@yahoo.com","09030436815","Amogu ","Chioma ","YES","Current Awardee","","","Hill city is really impacting lives. May God bless you all"
-"2021/07/30 9:20:22 PM GMT+1","onahchidera2017@gmail.com","09066780538","ONAH ","CHIDERA","YES","Current Awardee","","","I can't just wait to manifest and I pray that God will continue to bless this great family for organizing this event."
-"2021/07/30 9:20:45 PM GMT+1","iwokabasifrekeofonime@yahoo.com","08082449721","Monday ","Abasifreke","YES","Current Awardee","","","Hillcity foundation is a good place to be and I'm ready to be a participant of this year's event ""MANIFEST"""
-"2021/07/30 9:25:05 PM GMT+1","miriamime101@gmail.com","08124041454","Inyang","Ebenge","YES","Current Awardee","","","I'll be looking forward to the event with great expectations"
-"2021/07/30 9:30:16 PM GMT+1","okoromaryjane63@gmail.com","08036674786","Okoro","Maryjane ","YES","Current Awardee","","","I anticipate with excitement. "
-"2021/07/30 9:37:09 PM GMT+1","felixorji18@gmail.com","O7063109247","Felix","IfeanyiChukwu","YES","Current Awardee","","","Anticipating"
-"2021/07/30 9:38:15 PM GMT+1","sandraonyenwere72@gmail.com","07035629272","Onyenwere","Oluchi","YES","Graduate Member","","","Many Thanks for this great opportunity"
-"2021/07/30 9:47:58 PM GMT+1","okorojeremiah123@gmail.com","08089915780","Okoro","Jeremiah","YES","Current Awardee","","","Am anticipating a very impactful event. "
-"2021/07/30 9:51:24 PM GMT+1","okorojeremiah123@gmail.com","08089915780","Okoro","Jeremiah","YES","Current Awardee","","","Registered and anticipating an impactful event. "
-"2021/07/30 9:55:00 PM GMT+1","agenuchidinma2015@gmail.com","08145006436","Agenu","Chidinma","YES","Current Awardee","","","Yes. I am ethused by this year's Event theme 'Manifest'. I believe it's my period to Manifest what I have got in me. I can't wait!!!"
-"2021/07/30 10:08:05 PM GMT+1","lewechi80@gmail.com","08130586311","Lewechi","Chukwuemeka","YES","Current Awardee","","","I look forward to this event "
-"2021/07/30 10:22:53 PM GMT+1","amarachifavour612@gmail.com","08167132612","Okorie","Favour","YES","Current Awardee","","","Am looking forward for what God has in store for me"
-"2021/07/30 11:15:45 PM GMT+1","osiogah218@gmail.com","07037810969","Ogah","Osinachi","YES","Current Awardee","","",""
-"2021/07/30 11:26:49 PM GMT+1","ozorchinecheremblessing@gmail.com","08140138130","Ozor","Chinecherem","YES","Current Awardee","","","Looking forward to unearthing those hidden potential in me."
-"2021/07/30 11:53:24 PM GMT+1","asusheyiumoize@yahoo.co.uk","08096990027 ","UMOIZE","ONIZE","YES","Current Awardee","","",""
-"2021/07/31 12:10:28 AM GMT+1","okebugwuella@gmail.com","08167653007","Okebugwu","Ifechimerem","YES","Current Awardee","","","I'm grateful for the opportunity. Thank you HillCity"
-"2021/07/31 12:39:39 AM GMT+1","oyemeda85@gmail.com","09155288037","Oyameda ","Promise ","YES","Current Awardee","","","The hosts should have good network so we can have an excellent event. "
-"2021/07/31 12:57:24 AM GMT+1","bilyaminibrahimshuaibu9@gmail.com","08109873001","IBRAHIM","BILYAMIN","YES","Other","","","No"
-"2021/07/31 4:18:43 AM GMT+1","maryjaneoffia@gmail.com","09027451064","Offia","Chigozie","YES","Current Awardee","","","Anticipating!!!!!!!"
-"2021/07/31 4:56:24 AM GMT+1","bishopaffun@gmail.com","07065670376","Affun","Bishop","YES","Current Awardee","","","i want to thanks HCF for this Opportunity to be mentored"
-"2021/07/31 5:55:59 AM GMT+1","onuhabel1@gmail.com","08060801514","Onuh","Abel","YES","Other","","","I'd be pleased to be part of the event"
-"2021/07/31 6:37:42 AM GMT+1","adekanbiolalekan7@gmail.com","08122388144","Adekanbi","Olalekan","YES","Current Awardee","","",""
-"2021/07/31 6:43:42 AM GMT+1","adekanbiolalekan7@gmail.com","08122388144","Adekanbi","Olalekan","YES","Current Awardee","","","Can't wait to be there"
-"2021/07/31 6:50:36 AM GMT+1","owen.gideon@gmail.com","08149953522","Obasuyi","Owen","YES","Current Awardee","","",""
-"2021/07/31 7:03:53 AM GMT+1","ujongbassey61@gmail.com","08109343002","Ujong","Bassey","YES","Current Awardee","","","The registration process is good as it is easy "
-"2021/07/31 7:04:02 AM GMT+1","loveamarachi4@gmail.com","08034492869","Ugwuezema","Lovelyn","YES","Current Awardee","","","The aura oozing from this year's theme is powerful. Power to HCF!"
-"2021/07/31 7:07:46 AM GMT+1","odiliodili3@gmail.com","08160863613","Odili","Chekwube","YES","Current Awardee","","","Pls can we include a heart to heart talk in this event? 
-Some persons just need some personal counselling that can't be discussed over the phone as we do with mentors."
-"2021/07/31 7:20:39 AM GMT+1","ma.vicalex057@gmail.com","08111748601","Ojim","Victor","YES","Current Awardee","","",""
-"2021/07/31 8:05:26 AM GMT+1","thankgodubengama2019@gmail.com","09022626468","UBENGAMA","THANK-GOD","YES","Current Awardee","","","No comment"
-"2021/07/31 8:06:22 AM GMT+1","ogechukwumacdaniel7@gmail.com","08038362538","Ogechukwu","MacDaniel","YES","Current Awardee","","","It’s always awesome to be a part of this great family "
-"2021/07/31 8:07:19 AM GMT+1","chibuezeebuka2@gmail.com","08147682809","Chibueze ","CHUKWUEBUKA ","YES","Current Awardee","","",""
-"2021/07/31 8:25:23 AM GMT+1","thankgodubengama2019@gmail.com","09022626468","UBENGAMA","THANK-GOD","YES","Current Awardee","","","No comment"
-"2021/07/31 8:29:29 AM GMT+1","eclem194@gmail.com","08164797686","Otorubie","Deinma","YES","Current Awardee","","","Looking forward to a successful event"
-"2021/07/31 8:40:30 AM GMT+1","lexuxvinny14@gmail.com","07035572807","Ocheze","Vincent","YES","Current Awardee","","",""
-"2021/07/31 8:41:48 AM GMT+1","gospeletis@gmail.com","09064366785","John","Gospel ","YES","Current Awardee","","","Looking forward to an amazing time of learning during the event. I feel this will be a defining moment as I am about to round off my university education. "
-"2021/07/31 8:57:56 AM GMT+1","amosbot6@gmail.com","07065751483","Bot","Amos","YES","Current Awardee","","","Anticipating this great day"
-"2021/07/31 9:55:00 AM GMT+1","rollybest1996@gmail.com","09032831166","OKO","ROLLAND ","YES","Current Awardee","","","It will be a wonderful thing to be in attendance "
-"2021/07/31 10:01:37 AM GMT+1","blessedaghogho@gmail.com","09093404641","Omoghene ","Blessed ","YES","Current Awardee","","",""
-"2021/07/31 10:04:44 AM GMT+1","preciousohakosim@yahoo.com","08162738527","Ohakosim","Precious ","YES","Current Awardee","","","Weldone hillcity. God bless you"
-"2021/07/31 10:05:01 AM GMT+1","monthtaimos1504@gmail.com","08142473843","Osuolale","Taiwo","YES","Current Awardee","","","I look forward to the great day, where my life will encounter another progress through the words of great men set for the day... God bless hill city foundation."
-"2021/07/31 10:07:40 AM GMT+1","scoutystephen07@gmail.com","08101349938","Stephen ","Magdalene ","YES","Current Awardee","","",""
-"2021/07/31 10:11:09 AM GMT+1","amaka013@gmail.com","+2349093625806","Ononiwu","Maureen","YES","Current Awardee","","","Thanks a lot"
-"2021/07/31 10:15:01 AM GMT+1","nwangburukachristian@gmail.com","08037673201","Nwangburuka ","Christian","YES","Current Awardee","","",""
-"2021/07/31 10:21:14 AM GMT+1","cynthiaamulu@gmail.com","07064735623","Amulu","Cynthia","YES","Current Awardee","","","Thank you "
-"2021/07/31 10:40:34 AM GMT+1","adebisinurudeen2019@gmail.com","08039567695","Adebisi","Nurudeen","YES","Other","","",""
-"2021/07/31 10:40:36 AM GMT+1","adebisinurudeen2019@gmail.com","08039567695","Adebisi","Nurudeen","YES","Other","","",""
-"2021/07/31 10:59:54 AM GMT+1","joneslove123456y1@gmail.com","08051173115 ","Jones","Love","YES","Current Awardee","","","I love Hillcity family ❤"
-"2021/07/31 11:15:06 AM GMT+1","oghenetejiriemonena@gmail.com","08122497817","Emonena","Oghenetejiri","YES","Current Awardee","","",""
-"2021/07/31 11:34:49 AM GMT+1","chukwunekeikechukwu@yahoo.com","08065882923","Chukwuneke","Ikechukwu","YES","Current Awardee","","",""
-"2021/07/31 11:55:06 AM GMT+1","oputadivine99@gmail.com","09096879837","Oputa","Divine-visit","YES","Current Awardee","","","I'm happy and also grateful to be a part of HCF"
-"2021/07/31 1:08:09 PM GMT+1","osuolalekennie@gmail.com","08140529148","Osuolale","Kehinde","YES","Current Awardee","","","I like to appreciate Hillcity Foundation for this great opportunity and extension of love and care for this generation, even for this another amazing avenue to come to get equipped with certain necessities to manifest. I look forward to this glorious event. Indeed, it's a time to manifest!
-God bless Hillcity Foundation, Amen!"
-"2021/07/31 1:25:12 PM GMT+1","evangvictor52@gmail.com","08104278459","BONIFACE","Victor","YES","Current Awardee","","","Wow....with full anticipation I await this great transforming event."
-"2021/07/31 1:30:21 PM GMT+1","ovuobasolomon20@gmail.com","07048859272","Ovuoba","Odinakachukwu","YES","Current Awardee","","","No"
-"2021/07/31 1:56:26 PM GMT+1","wonahvictoria@gmail.com","08133662052","Wonah","Victoria","YES","Current Awardee","","",""
-"2021/07/31 2:08:09 PM GMT+1","ikechukwualoysius30@gmail.com","08159792712","Itumo","Aloysius","YES","Current Awardee","","","No"
-"2021/07/31 2:11:56 PM GMT+1","belzwillis@gmail.com","08084373487","Kponi","Joy","YES","Current Awardee","","","No"
-"2021/07/31 2:17:33 PM GMT+1","awoeu234@gmail.com","09121369803 ","Awo","Eunice ","YES","Current Awardee","","",""
-"2021/07/31 2:29:11 PM GMT+1","emmyval107@gmail.com","09074310153","Onyeke","Emmanuel","YES","Current Awardee","","","Thanks for the Opportunity"
-"2021/07/31 3:17:12 PM GMT+1","ojebisiolatunji@yahoo.com","09028763569","Ojebisi ","Olatunji ","YES","Current Awardee","","",""
-"2021/07/31 3:20:27 PM GMT+1","chicreativecloud@gmail.com","08086901541","Okekeigwe","Chibuike","YES","Current Awardee","","",""
-"2021/07/31 5:32:42 PM GMT+1","ityavungwanen@gmail.com","07057532575","ITYAV","UNGWANEN","YES","Current Awardee","","","Contacting Hillcity foundation is the best thing that ever happened to me. Long live Hillcity foundation, God bless Hillcity foundation Members, officials, volunteers and everyone connected to HCF. Amen."
-"2021/07/31 8:36:38 PM GMT+1","judedashe@gmail.com","07051272802","Dashe","Jude","YES","Current Awardee","","","I really appreciate your efforts,hillcityfounfation have  help me and my family.God bless hillcityfounfation God bless admin."
-"2021/07/31 8:47:13 PM GMT+1","fubarashepherd@gmail.com","08065996545","Fubara","Gift","YES","Current Awardee","","","I appreciate HillCity for the support to advance my education. I'm looking forward to an exciting, educating and exponentially nice event in August."
-"2021/07/31 8:49:47 PM GMT+1","salimmuhammadmaikano@gmail.com","08145081988","Muhammad ","Salim","YES","Current Awardee","","",""
-"2021/07/31 9:44:27 PM GMT+1","victoranoke@yahoo.com","09073376766","Anoke","Victor","YES","Current Awardee","","",""
-"2021/07/31 10:03:42 PM GMT+1","odofin4tunrayo@gmail.com","09029904381","Odofin ","Motunrayo ","YES","Current Awardee","","","Looking forward to a great event!!"
-"2021/07/31 10:04:51 PM GMT+1","loisjoshua17@gmail.com","09079800775","Joshua","Lois","YES","Current Awardee","","","No"
-"2021/07/31 10:05:24 PM GMT+1","loisjoshua17@gmail.com","09079800775","Joshua","Lois","YES","Current Awardee","","","No"
-"2021/07/31 10:10:20 PM GMT+1","loisjoshua17@gmail.com","09079800775","Joshua","Lois","YES","Current Awardee","","","No"
-"2021/07/31 10:29:53 PM GMT+1","musakabiru812@gmail.com","08093487637","Musa","Kabiru","YES","Current Awardee","","","My God bless all hands that supports hill city"
-"2021/07/31 10:50:11 PM GMT+1","obilor81@gmail.com","08168301535","OBILOR","EMMANUEL","YES","Current Awardee","","",""
-"2021/08/01 12:48:39 AM GMT+1","elliotchukwuwikeosagwu@gmail.com","08032875673","OSAGWU","ELLIOT","YES","Current Awardee","","","I am already excited about the event."
-"2021/08/01 3:16:13 AM GMT+1","comfortorubo@gmail.com","08138507004","Orubo","Comfort ","YES","Current Awardee","","","God bless hillcity"
-"2021/08/01 7:37:57 AM GMT+1","gospeletis@gmail.com","09064366785","John ","Gospel","YES","Current Awardee","","",""
-"2021/08/01 10:16:13 AM GMT+1","gilbertdede@rocketmail.com","08107077921","DEDE","OPUTAMUNO GILBERT","YES","Current Awardee","","","I anticipate the HillCity Manifest Conference. "
-"2021/08/01 11:35:37 AM GMT+1","collinsfrason87@gmail.com","09039763325","Collins","Nnaemeka","YES","Current Awardee","","","I believe the event will be super"
-"2021/08/01 12:27:19 PM GMT+1","jj393928@gmail.com","09060035983","Menyanga","Racheal","YES","Current Awardee","","",""
-"2021/08/01 1:37:14 PM GMT+1","yayanhafsatmaru@gmail.com","08032460095","muhammad","abdulazeez maru","YES","Other","","",""
-"2021/08/01 2:01:41 PM GMT+1","rinah.jocelyn@gmail.com","+256752793117","NAMUYOMBA","Rinah","YES","Core Team Member","No","No","Looking forward "
-"2021/08/01 3:16:51 PM GMT+1","nwankwotochukwu14@gmail.com","08037826536","Nwankwo","Tochukwu Emmanuel","YES","Current Awardee","","",""
-"2021/08/01 4:35:58 PM GMT+1","drmaxycarter@gmail.com","08186394840","James","Ejike","YES","Current Awardee","","",""
-"2021/08/01 5:04:58 PM GMT+1","godgosjamb@yahoo.com","08108421652","GODWIN","GOSPEL","YES","Current Awardee","","","My year of MANIFEST"
-"2021/08/01 5:25:56 PM GMT+1","emmanuel.okon23@yahoo.co.uk","08167076066","Okon","Emmanuel","YES","Current Awardee","","",""
-"2021/08/01 5:32:31 PM GMT+1","agbelayi.esther@gmail.com","+2348171579474","Agbelayi","Esther","YES","Current Awardee","","","No"
-"2021/08/01 5:56:34 PM GMT+1","glbrtsrh@gmail.com","08131331368","Gilbert","Sarah","YES","Graduate Member","","","No"
-"2021/08/01 6:16:31 PM GMT+1","glorychikaodiri0@gmail.com","08112349504","Chikaodiri ","Glory","YES","Current Awardee","","","I will be tgere"
-"2021/08/01 6:24:44 PM GMT+1","preciousadiele9@gmail.com","09095275004","Adiele","Precious","YES","Current Awardee","","",""
-"2021/08/01 6:58:07 PM GMT+1","chinonsodavid@gmail.com","08036482252","Nwosu","Chinonso","YES","Graduate Member","","","Hoping to achieve greatness and learn key steps to adding values to my lives and my community "
-"2021/08/01 7:03:15 PM GMT+1","umehkelvinc@gmail.com","08034962141 ","Umeh","Kelvin Chukwunonso ","YES","Core Team Member","Yes","No",""
-"2021/08/01 7:30:35 PM GMT+1","coimemba@yahoo.com","99999977","Imemba ","Obi","YES","Core Team Member","Yes","Yes",""
-"2021/08/01 7:35:44 PM GMT+1","saviourumoh.ssu@gmail.com","08069057575","Umoh","Saviour","YES","Graduate Member","","",""
-"2021/08/01 9:02:33 PM GMT+1","oluwasheyiolawumi@gmail.com","08063580461 ","OLAWUMI ","OLUWASHEYI ","YES","Current Awardee","","","Hillcity Foundation has really been a blessing to me academically, morally and financially. It's really a great priviledge to be a part of this great family as an awardee since 2019. I'm forever grateful. God bless Hillcity Foundation! "
-"2021/08/01 9:56:26 PM GMT+1","godspowerajah@gmail.com","08084245964","Amor","Godspower","YES","Current Awardee","","","I am hoping for transformation in all facets of my life"
-"2021/08/01 10:54:05 PM GMT+1","surgeonhand81@gmail.com","09034851764","Eborah","Emeka","YES","Other","","","No"
-"2021/08/01 11:06:46 PM GMT+1","ngwuchinecherem01@gmail.com","08159721637 ","Ngwu","Chinecherem","YES","Current Awardee","","","I can't wait to attend this event"
-"2021/08/01 11:15:42 PM GMT+1","peaceuchenna841@gmail.com","08155747389","Oko","Peace","YES","Current Awardee","","","I want to appreciate hillcity for what they're doing through the ESP and how much they've helped my academics."
-"2021/08/01 11:28:36 PM GMT+1","udennafrancisca@gmail.com","07088448756","Udenna","Ifechukwu","YES","Current Awardee","","",""
-"2021/08/02 12:53:49 AM GMT+1","frankcalebquan@gmail.com","08140010683","Frank","Caleb","YES","Current Awardee","","",""
-"2021/08/02 1:03:41 AM GMT+1","uchedonaldikechukwu@gmail.com","09067513872","Uche","Donald","YES","Current Awardee","","","No"
-"2021/08/02 7:17:15 AM GMT+1","gray8onna@gmail.com","08037246508","Oriaku","Ogonna","YES","Core Team Member","No","No",""
-"2021/08/02 7:32:19 AM GMT+1","nwankwotochukwu14@gmail.com","08037826536","NWANKWO","TOCHUKWU EMMANUEL","YES","Current Awardee","","",""
-"2021/08/02 7:46:11 AM GMT+1","samuelabuh247@gmail.com","07063369733","Abuh","Samuel","YES","Current Awardee","","","No"
-"2021/08/02 9:05:03 AM GMT+1","uniqueuwadamsel@gmail.com","08059122422","Otamere","Uwa","YES","Current Awardee","","",""
-"2021/08/02 9:08:41 AM GMT+1","okolojonathan92@gmail.com","08054415983","OKOLO","JONATHAN","YES","Current Awardee","","","Hillcity foundation has been a blessing, and a life changing foundation."
-"2021/08/02 9:12:24 AM GMT+1","okolojonathan92@gmail.com","08054415983","OKOLO","JONATHAN","YES","Current Awardee","","","Hillcity foundation has been a life changing one, and I'm not exempted from the impact it has made even in the lives of many. "
-"2021/08/02 9:24:37 AM GMT+1","katecoolamadi1@gmail.com","08140724261","Amadi","Catherine","YES","Current Awardee","","",""
-"2021/08/02 9:39:06 AM GMT+1","inahalicejames@gmail.com","08117214848","Inah","Alice","YES","Graduate Member","","","Greatful to our Lead coordinator , all the core team members , opal Hillcity partners and all the graduate members may God keep us all strong till the event day"
-"2021/08/02 9:41:54 AM GMT+1","ebiojolizzzy@gmail.com","08107173748","Elijah","Ebiojo Elizabeth","YES","Current Awardee","","","Indeed Hillcity has been a blessing to me. Long life to Hillcity foundation"
-"2021/08/02 10:18:42 AM GMT+1","agbelayi.esther@gmail.com","+2348171579474","Agbelayi","Esther","YES","Current Awardee","","","No"
-"2021/08/02 11:11:49 AM GMT+1","eghebenbruce@yahoo.com","09066240746","Benbruce","Emmanuella","YES","Current Awardee","","","God bless HillCity Foundation"
-"2021/08/02 4:58:10 PM GMT+1","beatit4oriks@gmail.com","07035329247","Alalibo","Orikarama","YES","Current Awardee","","",""
-"2021/08/02 5:00:35 PM GMT+1","beatit4oriks@gmail.com","07035329247","Alalibo","Orikarama ","YES","Current Awardee","","",""
-"2021/08/02 5:01:17 PM GMT+1","beatit4oriks@gmail.com","07035329247","Alalibo","Orikarama","YES","Current Awardee","","",""
-"2021/08/02 6:15:58 PM GMT+1","maryjaneoffia@gmail.com","09027451064","Offia","Chigozie","YES","Current Awardee","","","I anticipate!!!!!!"
-"2021/08/02 9:21:43 PM GMT+1","edemoyeblessing@gmail.com","08133040424","Edemoye ","Blessing ","YES","Current Awardee","","",""
-"2021/08/02 11:12:37 PM GMT+1","carmelitapatmen@yahoo.com","08169855400 ","Patmen ","Carmelita ","YES","Current Awardee","","","I will love to attend the event
-"
-"2021/08/03 12:16:37 AM GMT+1","okaformiraclec@gmail.com","09026166034","Okafor","Miracle","YES","Current Awardee","","","Thank you Hillcity"
-"2021/08/03 1:46:13 AM GMT+1","imadonmwinyiosamagbe@gmail.com","09063145401","Imadonmwinyi","Osamagbe","YES","Current Awardee","","","No"
-"2021/08/03 5:32:02 AM GMT+1","sicw.org.ng@gmail.com","09037355258","Ottah","Samuel","YES","Graduate Member","","",""
-"2021/08/03 5:32:20 AM GMT+1","imefoneshiet@gmail.com","09070672232","Eshiet","Imefon","YES","Current Awardee","","","Hillcity's conferences have been far different from other conferences in creation of mental and life impact. Bravo!!!"
-"2021/08/03 7:26:24 AM GMT+1","damolasoares@gmail.com","08063786315","Soares","Oladamola","YES","Core Team Member","Yes","Yes","Non"
-"2021/08/03 7:27:15 AM GMT+1","andokarihopelaasi@gmail.com","09036982879","Andokari","Laasi","YES","Current Awardee","","","Non"
-"2021/08/03 7:30:51 AM GMT+1","ebuwa101@yahoo.com","08034207091","Ahusimere","Ebuwa","YES","Core Team Member","Yes","No","I have a work/business engagement in PHC that period, so I will be heavily distracted, I will try to be physically present."
-"2021/08/03 7:50:04 AM GMT+1","frankcalebquan@gmail.com","08140010683","Frank","Caleb","YES","Current Awardee","","","Really anticipating this year's event"
-"2021/08/03 8:07:28 AM GMT+1","anyanwujudith236@gmail.com","08135725640","Anyanwu ","Judith ","YES","Graduate Member","","","No"
-"2021/08/03 8:09:25 AM GMT+1","giftthankgod4922@gmail.com","08081054922","ThankGod","Gift","YES","Current Awardee","","","I look forward to attending the meeting"
-"2021/08/03 8:37:00 AM GMT+1","obioms@yahoo.com","+13028837125","Iwuchukwu","Obioma","YES","Core Team Member","No","No","I will attend virtually"
-"2021/08/03 9:43:56 AM GMT+1","johnomeyiza@gmail.com","08140238853","John","Michael","YES","Current Awardee","","",""
-"2021/08/03 9:46:17 AM GMT+1","ishayamajidadi@gmail.com","08133449663","Nasara Majidadi","Ishaya","YES","Current Awardee","","","Am glad to be part of this great of occasion, may the Lord bless you and help us thanks."
-"2021/08/03 9:48:02 AM GMT+1","etheldred.woha1@ust.edu.ng","08065826143","Woha","Etheldred ","YES","Core Team Member","Yes","Yes","No"
-"2021/08/03 9:56:21 AM GMT+1","daudaibesi2@gmail.com","09067201494","Dauda","Ibesi","YES","Current Awardee","","","I was blessed during the message of the interview session and would love to be a part of this conference"
-"2021/08/03 9:58:37 AM GMT+1","okpegodwin1998@gmail.com","09064925702","Okpe","Godwin ","YES","Current Awardee","","","Thanks for the opportunity."
-"2021/08/03 10:02:33 AM GMT+1","janetsamaila70@gmail.com","08087537193","Samaila","Susan ","YES","Current Awardee","","",""
-"2021/08/03 10:03:50 AM GMT+1","areojamesolalekan@yahoo.com","07039415650","Areo","James","YES","Current Awardee","","","No"
-"2021/08/03 10:06:18 AM GMT+1","dabeetatajesus@gmail.com","08067438735","Isaac","Daberechi","YES","Current Awardee","","",""
-"2021/08/03 10:08:10 AM GMT+1","dabeetatajesus@gmail.com","08067438735","Isaac","Daberechi","YES","Current Awardee","","",""
-"2021/08/03 10:16:00 AM GMT+1","janetsamaila@gmail.com","08087537193","Samaila","Susan","YES","Current Awardee","","",""
-"2021/08/03 10:19:12 AM GMT+1","faithjohnmwabang@gmail.com","08108035899","John","Faith","YES","Current Awardee","","","Thanks for inviting to the program"
-"2021/08/03 10:23:32 AM GMT+1","faithjohnmwabang@gmail.com","08108035899","John","Faith","YES","Current Awardee","","","Thanks for inviting me to the program"
-"2021/08/03 10:40:41 AM GMT+1","kevinyaks205.ky@gmail.com","07013619374","Yakubu","Kevin","YES","Current Awardee","","","No"
-"2021/08/03 10:40:42 AM GMT+1","nenkimwa221@gmail.com","07038040375","John","Nenkimwa","YES","Other","","","No"
-"2021/08/03 10:43:00 AM GMT+1","nenkimwa221@gmail.com","07038040375","John","Nenkimwa","YES","Other","","","No"
-"2021/08/03 10:43:16 AM GMT+1","sharondemige@gmail.com","08095473201","Istifanus","Sharon","YES","Current Awardee","","",""
-"2021/08/03 10:44:40 AM GMT+1","sharondemige@gmail.com","08095473201","ISTIFANUS","SHARON","YES","Current Awardee","","","No."
-"2021/08/03 10:47:30 AM GMT+1","mtormough@gmail.com","07081919118","Tormough","Mdoo","YES","Current Awardee","","",""
-"2021/08/03 10:49:04 AM GMT+1","emmyval107@gmail.com","09074310153","Onyeke","Emmanuel","YES","Current Awardee","","","Thanks"
-"2021/08/03 11:20:43 AM GMT+1","bikejimba@yahoo.com","08065671834","Ikejimba ","Ben","NO","Core Team Member","Yes","Yes","No"
-"2021/08/03 12:00:17 PM GMT+1","onwochei@yahoo.co.uk","070)7258792","Onwochei ","Augustine","NO","Core Team Member","No","No",""
-"2021/08/03 12:36:50 PM GMT+1","abanachinwe@yahoo.com","08034256213","Ogbuji","Chinwe","YES","Core Team Member","Yes","No",""
-"2021/08/03 12:53:56 PM GMT+1","gospela30@gmail.com","08149219189","UCHE ","GOSPEL","YES","Current Awardee","","","I will attend"
-"2021/08/03 12:58:12 PM GMT+1","beatricegeorge@gmail.com","08103767134","George","Beatrice","YES","Current Awardee","","","Yes"
-"2021/08/03 1:02:29 PM GMT+1","gospela30@gmail.com","08149219189","UCHE","GOSPEL","YES","Current Awardee","","","I will be there"
-"2021/08/03 1:14:15 PM GMT+1","owolabi.oluwadare460@gmail.com","08104602318","Owolabi","Oluwadare","YES","Other","","","I look forward to the event and hopefully becoming an awardee"
-"2021/08/03 1:15:08 PM GMT+1","mercykendrick98@gmail.com","09075842096","Robert ","Mercy","YES","Current Awardee","","","No"
-"2021/08/03 1:26:03 PM GMT+1","ochanyaonoja5@gmail.com","08134525673","ONOJA","HELEN OCHANYA","YES","Current Awardee","","","No"
-"2021/08/03 1:32:20 PM GMT+1","iseletare@gmail.com","09073841416","Isele","Maryann","YES","Current Awardee","","","Thank you"
-"2021/08/03 1:41:34 PM GMT+1","lydiaesene@gmail.com","07036301816","Esene","Lydia","YES","Graduate Member","","",""
-"2021/08/03 1:43:01 PM GMT+1","kennethejukorlem@gmail.com","09020003084","Ejukorlem","Kenneth","YES","Current Awardee","","",""
-"2021/08/03 2:18:02 PM GMT+1","daminayusuff@gmail.com","09077238508","Damina","Yusuf","YES","Current Awardee","","",""
-"2021/08/03 2:26:57 PM GMT+1","Johntrinx007@gmail.com","09032400963","John","Victor","YES","Current Awardee","","",""
-"2021/08/03 2:56:08 PM GMT+1","michaelpeace301@gmail.com","08039720668","Michael","Peace","YES","Current Awardee","","","No"
-"2021/08/03 3:40:17 PM GMT+1","apehgrace70@gmail.com","08069118409","Apeh","Grace","YES","Current Awardee","","","No"
-"2021/08/03 3:47:13 PM GMT+1","obandejosephine17@gmail.com","09030079696 ","Obande ","Josephine Emmanuel ","YES","Other","","",""
-"2021/08/03 5:09:25 PM GMT+1","sylvesterembu@gmail.com","08108310465","Embu","Sylvester","YES","Current Awardee","","","I wait in anticipation for the event. Long live HCF"
-"2021/08/03 6:42:54 PM GMT+1","ndudimifeoma@gmail.com","08105485976","Ndudim","Ifeoma","YES","Current Awardee","","",""
-"2021/08/03 6:48:56 PM GMT+1","queenik6655@gmail.com","08092716655","Anomihe","Queen","YES","Current Awardee","","","i will be waiting for the event hopefully"
-"2021/08/03 6:58:57 PM GMT+1","chidilucky533@gmail.com","08135054233","Ephraim ","Chidi","YES","Current Awardee","","","I will love to grace this event "
-"2021/08/03 7:42:25 PM GMT+1","ochinokwugrace@gmail.com","09024798090","Ochinokwu","Grace","YES","Current Awardee","","",""
-"2021/08/03 7:45:35 PM GMT+1","ishayaj8@gmail.com","07060983622","Jonathan ","Ishaya kenipee ","YES","Current Awardee","","","May God bless your good work in Jesus name Amen "
-"2021/08/03 7:53:37 PM GMT+1","sarahochoje@gmail.com","08188233635","Ochoje ","Sarah","YES","Current Awardee","","",""
-"2021/08/03 8:11:05 PM GMT+1","buoroayokunle@gmail.com","08106111310","Buoro","Samuel","YES","Current Awardee","","","No"
-"2021/08/03 8:21:52 PM GMT+1","ny.mwantep@gmail.com","08036298837","Yohanna","Nerat","YES","Current Awardee","","",""
-"2021/08/03 8:37:05 PM GMT+1","augustineglobal5050@gmail.com","09036486392","NDUBUEZE","AUGUSTINE","YES","Current Awardee","","","I am glad to be a member of this organization, keep the good work going."
-"2021/08/03 10:00:12 PM GMT+1","agenuchidinma2015@gmail.com","08145006436","Agenu","Chidinma","YES","Current Awardee","","","Registered and Ready to Manifest"
-"2021/08/03 10:02:24 PM GMT+1","obandejosephine17@gmail.com","09030079696 ","Obande ","Josephine Emmanuel ","YES","Current Awardee","","",""
-"2021/08/03 10:03:55 PM GMT+1","obandejosephine17@gmail.com","09030079696 ","Obande ","Josephine Obande ","YES","Current Awardee","","",""
-"2021/08/03 10:14:31 PM GMT+1","yakubumicah6@gmail.com","08163515131","Yakubu","Mikah","YES","Current Awardee","","","I will like to participate in the upcoming events"
-"2021/08/03 10:16:51 PM GMT+1","saminuayuba2017@gmail.com","07087884660","Ayuba","Saminu","YES","Current Awardee","","","Am so interested in the event"
-"2021/08/03 10:37:35 PM GMT+1","robertbarkat2000@gmail.com","07019477508","Robert","Blessing","YES","Current Awardee","","",""
-"2021/08/03 10:41:49 PM GMT+1","niyioluwasola2000@gmail.com","07032221199","Akinniyi","Moshood","YES","Current Awardee","","","Not at all
-
-I will be attending"
-"2021/08/03 11:20:17 PM GMT+1","filibabdullahi@gmail.com","08189348089","Abdullahi","Filibus","YES","Current Awardee","","","I will like to attend the conference"
-"2021/08/03 11:22:11 PM GMT+1","filibabdullahi@gmail.com","08189348089","Abdullahi","filibus","YES","Current Awardee","","","I will like to attend the conference"
-"2021/08/03 11:34:27 PM GMT+1","filibabdullahi@gmail.com","08189348089","Abdullahi","Filibus","YES","Current Awardee","","","I will like to attend the conference"
-"2021/08/03 11:43:00 PM GMT+1","ochetla.adejo@gmail.com","08053929941","Adejo","Ochetla","YES","Current Awardee","","","In God we trust."
-"2021/08/04 12:55:30 AM GMT+1","victoranoke@yahoo.com","09073376766","Anoke","Victor","YES","Current Awardee","","",""
-"2021/08/04 3:05:45 AM GMT+1","isahsaratu@gmail.com","07061331407","Isah","Saratu","YES","Current Awardee","","","I will be glad to attend the program"
-"2021/08/04 4:19:18 AM GMT+1","akubomonday43@gmail.com","09037141932","AKUBO","YaKUBU","YES","Current Awardee","","","I PRAY THAT THIS MONTHS EVENT BECOMES SUCCESSFUL."
-"2021/08/04 7:15:21 AM GMT+1","hyshekwo@gmail.com","08096522012","Bulus","Emmanuel Hyshekwo","YES","Current Awardee","","","No"
-"2021/08/04 7:28:55 AM GMT+1","josphineamaka19@gmail.com","09099603437","ANOMIHE","Chiamaka","YES","Current Awardee","","","I will be looking forward to the event "
-"2021/08/04 7:38:25 AM GMT+1","fridaybeng347@gmail.com","07031857119","DANTALA","FRIDAY BENJAMIN","YES","Current Awardee","","",""
-"2021/08/04 9:17:50 AM GMT+1","wusiyusuf@yahoo.com","08056698497","Ogwogho ","Wusi","YES","Core Team Member","Yes","",""
-"2021/08/04 12:11:55 PM GMT+1","ogechukwumacdaniel7@gmail.com","08038362538","Ogechukwu","MacDaniel","YES","Current Awardee","","","Am always expectant of HCF events cos it’s always superb"
-"2021/08/04 1:45:25 PM GMT+1","janetukaegbu@gmail.com","07011925662","Ikwuonwu ","Janet","YES","Current Awardee","","","I look forward to attend the program and I hope to learn a lot"
-"2021/08/04 1:46:02 PM GMT+1","janetukaegbu@gmail.com","07011925662","Ikwuonwu ","Janet","YES","Current Awardee","","","I look forward to attend the program and I hope to learn a lot"
-"2021/08/04 4:47:28 PM GMT+1","ogardiana541@gmail.com","08093334638","Ogar","Diana","YES","Current Awardee","","","Hoping the event will be impact full "
-"2021/08/04 4:59:48 PM GMT+1","eze.angela.237090@unn.edu.ng","09036219218","EZE","IFEDIBA","YES","Current Awardee","","","Thank you HillCity ♥️"
-"2021/08/04 7:56:34 PM GMT+1","anuricajoy@gmail.com","07038125193","ISAAC","JOY ANURICA","YES","Current Awardee","","","God bless and enlarge HillCity Foundation"
-"2021/08/05 12:08:01 AM GMT+1","ugochukwu.uwazurike@hillcityfoundation.org","08166365000","Uwazuruike ","Ugochukwu","YES","Core Team Member","No","No",""
-"2021/08/05 12:26:32 AM GMT+1","elliotchukwuwikeosagwu@gma.com","08032875673","OSAGWU","ELLIOT CHUKWUWIKE","YES","Current Awardee","","","I am greatly impacted by HillCity"
-"2021/08/05 12:27:45 AM GMT+1","melodyuzozie2@gmail.com","08025459310","Uzozie","Melody","YES","Current Awardee","","","I just want to say a big thank you to hillcity foundation at large for changing lives..."
-"2021/08/05 3:32:46 AM GMT+1","adeleyedsegun@gmail.com","+2348102670801","Adeleye","Ademiku","YES","Current Awardee","","","God bless Hillcity for this opportunity."
-"2021/08/05 5:27:22 AM GMT+1","needubatambari@gmail.com","08136221033","Needu","Batambari","YES","Graduate Member","","","Hillcity has been a blessing to many lives."
-"2021/08/05 6:18:05 AM GMT+1","adekanbimichael5@gmail.com","+2348121212667","Adekanbi","Michael","YES","Graduate Member","","",""
-"2021/08/05 9:53:35 AM GMT+1","okorose911@gmail.com","09076615475","Oko","Rose","YES","Current Awardee","","","I hope to learn more"
-"2021/08/05 11:29:24 AM GMT+1","ishayablssng@gmail.com","08165102424","Ishaya","Blessing","YES","Current Awardee","","","God Bless hillcity foundation"
-"2021/08/05 3:52:17 PM GMT+1","shukurohabdurrasaq@gmail.com","08149159489","ABDURRASAQ","SHUKUROH","YES","Other","","","No, for now"
-"2021/08/05 7:33:10 PM GMT+1","faviegrace@gmail.com","07068373636","Okpakorese","Oghenenyrhovwo","YES","Current Awardee","","",""
-"2021/08/05 7:50:12 PM GMT+1","chidilucky533@gmail.com","08135054233","Ephraim ","Chidi","YES","Current Awardee","","","Am expecting an impactful session "
-"2021/08/06 12:07:16 AM GMT+1","ihiabechubiyo@gmail.com","09034956607","IHIABE","CHUBIYO","YES","Current Awardee","","","May the lord bless Hillcity for allowing God to make my education possible through them 
-"
-"2021/08/06 6:37:46 AM GMT+1","habeebmusakfr@gmail.com","08126624874","Habibu","Musa","YES","Current Awardee","","","Willing to attend the conference"
-"2021/08/06 10:07:04 AM GMT+1","idenyiemmanuele@gmail.com","08167597053","Idenyi","Emmanuel","YES","Current Awardee","","",""
-"2021/08/06 10:23:52 AM GMT+1","fesek20012004@gmail.com","09037323007","Ekweke","Deborah","YES","Current Awardee","","","I appreciate what Hillcity foundation is doing for me."
-"2021/08/06 10:40:43 AM GMT+1","ugwulucky02@gmail.com","09015673532","Ugwu","John-Lucky","YES","Current Awardee","","","God bless Hillcity Foundation for their phenomenal impact in lives"
-"2021/08/06 12:24:34 PM GMT+1","raymond.kyeyune@aiesec.net","+256773050702","Kyeyune","Raymond","YES","Core Team Member","No","Yes",""
-"2021/08/06 12:31:45 PM GMT+1","valerianabakooza7@gmail.com","0704911587","Nabakooza","Valeria ","YES","Core Team Member","Yes","Yes","No"
-"2021/08/06 2:19:06 PM GMT+1","emmanuelndukwe@ymail.com","08100844385","Ndukwe","Emmanuel","YES","Current Awardee","","","Looking forward to the 2021 HCF Conference"
-"2021/08/06 2:21:04 PM GMT+1","bridgetgold2016@gmail.com","08037032684","Ndukwe","Bridget","YES","Current Awardee","","","HCF has been a blessing to many, including myself. I thank God for the HCF team members and partners."
-"2021/08/06 3:20:30 PM GMT+1","marvelousugbaje@yahoo.com","07032178649","Ugbaje","Marvelous","YES","Current Awardee","","","So far so good Hcf has been so impactful to me academically  and business otherwise. I  want to say a big thank you to Hill city foundation. 
-"
-"2021/08/06 3:25:59 PM GMT+1","blessingacheneje07@gmail.com","09074071592","Acheneje","Blessing","NO","Current Awardee","","","Hill city foundation is the best thing that has ever happened to me 😭 God bless Hcf 🙏 
+Timestamp,Username,Phone Number,Surname,First name,Will you be attending the 2021 Online Event?,What is your HillCity Foundation Membership Status,Would you like to join us at the Physical event in Port Harcourt?,Will you be available for the one on one mentorship engagement on Friday?,Do you have any comments
+2021/08/03 12:36:50 PM GMT+1,abanachinwe@yahoo.com,8034256213,Ogbuji,Chinwe,YES,Core Team Member,Yes,No,
+2021/08/08 5:21:01 PM GMT+1,abbaabraham3@gmail.com,8140898803,Abba,Abraham,YES,Current Awardee,,,Looking forward to manifest 2021
+2021/07/28 9:36:51 AM GMT+1,abbakarkkr@gmail.com,8107173718,Adamu,Abubakar,YES,Current Awardee,,,Thank you hillcity foundation for your support. May God reward you and give you more strength to continue helping youth. 
+2021/08/09 10:13:19 AM GMT+1,Abbakarkkr@gmail.com,8107173718,Adamu,Abubakar,YES,Current Awardee,,,Thank you for your support
+2021/08/09 7:37:42 AM GMT+1,abelndukwe@gmail.com,8106288010,Ndukwe,Abel,YES,Graduate Member,,,
+2021/08/11 7:26:47 PM GMT+1,abrahamlinus208@yahoo.com,8101190007,Linus,Abraham,YES,Current Awardee,,,"Hill city, impacting lives and generations. "
+2021/08/11 7:31:36 PM GMT+1,abrahamlinus208@yahoo.com,8101190007,Linus,Abraham,YES,Current Awardee,,,Thanks to hill city foundation. 
+2021/08/14 9:24:24 AM GMT+1,abrahamlinus208@yahoo.com,08101190007l,linus,abraham,YES,Current Awardee,,,thanks to hillcity foundation.
+2021/07/30 9:11:59 PM GMT+1,adaobiisiani@gmail.com,8164362893,Isiani,Lovelyn,YES,Current Awardee,,,I'm blessed to be part of this foundation
+2021/07/31 10:40:34 AM GMT+1,adebisinurudeen2019@gmail.com,8039567695,Adebisi,Nurudeen,YES,Other,,,
+2021/07/31 10:40:36 AM GMT+1,adebisinurudeen2019@gmail.com,8039567695,Adebisi,Nurudeen,YES,Other,,,
+2021/08/05 6:18:05 AM GMT+1,adekanbimichael5@gmail.com,2.34812E+12,Adekanbi,Michael,YES,Graduate Member,,,
+2021/07/31 6:37:42 AM GMT+1,adekanbiolalekan7@gmail.com,8122388144,Adekanbi,Olalekan,YES,Current Awardee,,,
+2021/07/31 6:43:42 AM GMT+1,adekanbiolalekan7@gmail.com,8122388144,Adekanbi,Olalekan,YES,Current Awardee,,,Can't wait to be there
+2021/08/09 3:48:06 PM GMT+1,adekanbiolalekan7@gmail.com,8122388144,Adekanbi ,Olalekan,YES,Current Awardee,,,
+2021/08/05 3:32:46 AM GMT+1,adeleyedsegun@gmail.com,2.3481E+12,Adeleye,Ademiku,YES,Current Awardee,,,God bless Hillcity for this opportunity.
+2021/08/12 12:01:29 AM GMT+1,adeleyedsegun@gmail.com,2.3481E+12,Adeleye,Ademiku,YES,Current Awardee,,,"With no doubts, the event promises to manifest greatness!"
+2021/08/09 8:22:14 AM GMT+1,agathamutumba@gmail.com,2.5678E+11,Mutumba ,Agatha,YES,Core Team Member,No,Yes,
+2021/07/30 6:59:27 PM GMT+1,agbelayi.esther@gmail.com,2.34817E+12,Agbelayi,Esther,YES,Current Awardee,,,Thank you for the opportunity to be a part of hillcity
+2021/07/30 7:04:46 PM GMT+1,agbelayi.esther@gmail.com,2.34817E+12,Agbelayi ,Esther,YES,Current Awardee,,,
+2021/08/01 5:32:31 PM GMT+1,agbelayi.esther@gmail.com,2.34817E+12,Agbelayi,Esther,YES,Current Awardee,,,No
+2021/08/02 10:18:42 AM GMT+1,agbelayi.esther@gmail.com,2.34817E+12,Agbelayi,Esther,YES,Current Awardee,,,No
+2021/08/08 7:07:30 AM GMT+1,agbelayi.esther@gmail.com,2.34817E+12,Agbelayi,Esther,YES,Current Awardee,,,
+2021/08/09 7:02:21 PM GMT+1,agbelayi.esther@gmail.com,2.34817E+12,Agbelayi,Esther,YES,Current Awardee,,,
+2021/07/30 9:55:00 PM GMT+1,agenuchidinma2015@gmail.com,8145006436,Agenu,Chidinma,YES,Current Awardee,,,Yes. I am ethused by this year's Event theme 'Manifest'. I believe it's my period to Manifest what I have got in me. I can't wait!!!
+2021/08/03 10:00:12 PM GMT+1,agenuchidinma2015@gmail.com,8145006436,Agenu,Chidinma,YES,Current Awardee,,,Registered and Ready to Manifest
+2021/08/09 9:50:04 AM GMT+1,agenuchidinma2015@gmail.com,8145006436,Agenu,Chidinma,YES,Current Awardee,,,Registered and fully expectant
+2021/08/08 9:32:47 AM GMT+1,aghamaosagioduwa2@gmail.com,7069238480,AGHAMA ,OSAGIODUWA ,YES,Current Awardee,,,God bless Hillcity Foundation 
+2021/08/09 7:12:13 PM GMT+1,aghamaosagioduwa2@gmail.com,7069238480,AGHAMA ,OSAGIODUWA ,YES,Current Awardee,,,God bless Hillcity foundation 
+2021/08/14 9:06:28 AM GMT+1,agwublessing82@gmail.com,9066311348,Agwu,Blessing,YES,Current Awardee,,,"I say a very big thank you to Hillcity foundation for there support, am grateful. "
+2021/08/08 11:51:08 AM GMT+1,ahijahsule07@gmail.com,8060061266,Sule,Ahijah,YES,Other,,,"I had of it from a friend and I am interested in becoming a member, I will be grateful if my request is giving consideration"
+2021/08/09 3:07:07 PM GMT+1,ajalolydia@gmail.com,786760441,Ajalo,Lydia,YES,Current Awardee,,,"I want to thank HCF for giving me a chance to study ...HCF has been my inspiration ,i know that the one reason as to why i have to work hard is to make sure that i never disappoint HCF 
+Thank you to the management of HCF and to all our mentors ..All i say is that may the Lord continue to bless HCF 🙏and may it continue to shine "
+2021/08/07 2:56:06 AM GMT+1,akpandaniel56@gmail.com,8173521798,Akpan,Daniel,YES,Other,,,
+2021/08/04 4:19:18 AM GMT+1,akubomonday43@gmail.com,9037141932,AKUBO,YaKUBU,YES,Current Awardee,,,I PRAY THAT THIS MONTHS EVENT BECOMES SUCCESSFUL.
+2021/08/09 7:33:16 AM GMT+1,allennorah2@gmail.com,754699347,Naligo,Allen Julian,YES,Current Awardee,,,
+2021/08/09 7:36:09 AM GMT+1,allennorah2@gmail.com,754699347,Naligo,Allen Julian,YES,Current Awardee,,,
+2021/07/31 10:11:09 AM GMT+1,amaka013@gmail.com,2.34909E+12,Ononiwu,Maureen,YES,Current Awardee,,,Thanks a lot
+2021/07/30 7:10:27 PM GMT+1,amanyaw33@gmail.com,772978678,Amanya,Winfred,YES,Core Team Member,No,Option 1,N/A
+2021/07/30 10:22:53 PM GMT+1,amarachifavour612@gmail.com,8167132612,Okorie,Favour,YES,Current Awardee,,,Am looking forward for what God has in store for me
+2021/08/09 8:59:40 PM GMT+1,amarachifavour612@gmail.com,8167132612,Okorie,Favour,YES,Current Awardee,,,Looking forward for what God has install for me
+2021/07/31 8:57:56 AM GMT+1,amosbot6@gmail.com,7065751483,Bot,Amos,YES,Current Awardee,,,Anticipating this great day
+2021/08/09 3:38:10 PM GMT+1,amosbot6@gmail.com,7065751483,Bot,Amos,YES,Current Awardee,,,
+2021/08/10 7:00:19 PM GMT+1,amutuheiremarx@gmail.com,754044157,Amutuheire,Marx,YES,Current Awardee,,,No
+2021/08/03 7:27:15 AM GMT+1,andokarihopelaasi@gmail.com,9036982879,Andokari,Laasi,YES,Current Awardee,,,Non
+2021/08/09 4:54:16 PM GMT+1,andokarihopelaasi@gmail.com,9036982879,Andokari,Laasi,YES,Current Awardee,,,Appreciate the effort of hillcity foundation
+2021/07/30 7:13:21 PM GMT+1,aniekpenosunday37@gmail.com,8155507570,Tom,Aniekpeno,YES,Current Awardee,,,Believing to have a wonderful time
+2021/08/11 4:41:59 AM GMT+1,aniekpenosunday37@gmail.com,8155507570,Tom,Aniekpeno,YES,Current Awardee,,,God bless Hill City Foundation
+2021/07/24 12:54:14 PM GMT+1,anthonychukwunenye@gmail.com,9074493568,Eboh,Anthony,YES,Other,,,
+2021/08/04 7:56:34 PM GMT+1,anuricajoy@gmail.com,7038125193,ISAAC,JOY ANURICA,YES,Current Awardee,,,God bless and enlarge HillCity Foundation
+2021/08/03 8:07:28 AM GMT+1,anyanwujudith236@gmail.com,8135725640,Anyanwu ,Judith ,YES,Graduate Member,,,No
+2021/08/03 3:40:17 PM GMT+1,apehgrace70@gmail.com,8069118409,Apeh,Grace,YES,Current Awardee,,,No
+2021/08/03 10:03:50 AM GMT+1,areojamesolalekan@yahoo.com,7039415650,Areo,James,YES,Current Awardee,,,No
+2021/07/30 11:53:24 PM GMT+1,asusheyiumoize@yahoo.co.uk,8096990027,UMOIZE,ONIZE,YES,Current Awardee,,,
+2021/08/09 4:53:53 PM GMT+1,asusheyiumoize@yahoo.co.uk,8096990027,UMOIZE ,ONIZE ,YES,Current Awardee,,,"I cannot wait for the event! Thank you HCF, God bless you!"
+2021/08/03 8:37:05 PM GMT+1,augustineglobal5050@gmail.com,9036486392,NDUBUEZE,AUGUSTINE,YES,Current Awardee,,,"I am glad to be a member of this organization, keep the good work going."
+2021/08/07 5:05:12 PM GMT+1,awhabrodarlington@yahoo.com,8063295923,Awhabro,Darlington ,YES,Core Team Member,No,No,
+2021/07/31 2:17:33 PM GMT+1,awoeu234@gmail.com,9121369803,Awo,Eunice ,YES,Current Awardee,,,
+2021/08/11 9:56:42 PM GMT+1,awoeu234@gmail.com,9121369803,Awo,Eunice ,YES,Current Awardee,,,
+2021/08/10 10:49:40 AM GMT+1,ayodeleojoadebayo@gmail.com,2.34806E+12,Adebayo,Ayo,YES,Core Team Member,No,Yes,
+2021/08/09 8:25:46 PM GMT+1,Ayubagarbayaro@gmail.com,9069132619,Garba,Ayuba,YES,Current Awardee,,,I hope the Lord will do us well
+2021/08/10 12:00:50 AM GMT+1,azokamchi@ymail.com,8032912330,Eze,Chiazokam,YES,Core Team Member,Yes,Yes,None for now
+2021/08/10 4:58:38 PM GMT+1,babangeedausman@gmail.com,7063392940,Aminu,Usman Usman,YES,Current Awardee,,,"Sir coming to this event is under probability because am currently doing my IT(SIWES) in katsina state. Moreover, i have to go to work on friday so that i could be mark present on that day(20th August). Living katsina on saturday(21st August) and arriving to abuja it will be delay because from katsina to Abuja is almost 8hours, i will miss the saturday event also"
+2021/07/30 8:52:46 PM GMT+1,bamydele224@gmail.com,7036467064,Ajongbolo,BAMIDELE,YES,Current Awardee,,,"Hill city helped me this far, I am forever grateful."
+2021/08/08 8:36:48 PM GMT+1,bamydele224@gmail.com,7036467064,Ajongbolo,Bamidele,YES,Current Awardee,,,"I am highly encouraged by HillCity foundation. HillCity gave over 300 students hope when we thought of no hope, all I do is to pray for all core members. One day I'll be like you too, I'll raise as many I can."
+2021/08/13 10:29:01 AM GMT+1,basseyelizabeth34@yahoo.com,7068321940,Bassey,Elizabeth ,YES,Graduate Member,,,Hillcity Foundation please continue with the good works and may God continue to bless you richly. 
+2021/08/02 4:58:10 PM GMT+1,beatit4oriks@gmail.com,7035329247,Alalibo,Orikarama,YES,Current Awardee,,,
+2021/08/02 5:00:35 PM GMT+1,beatit4oriks@gmail.com,7035329247,Alalibo,Orikarama ,YES,Current Awardee,,,
+2021/08/02 5:01:17 PM GMT+1,beatit4oriks@gmail.com,7035329247,Alalibo,Orikarama,YES,Current Awardee,,,
+2021/08/09 9:37:21 AM GMT+1,beatit4oriks@gmail.com,7035329247,Alalibo ,Orikarama,YES,Current Awardee,,,
+2021/08/03 12:58:12 PM GMT+1,beatricegeorge@gmail.com,8103767134,George,Beatrice,YES,Current Awardee,,,Yes
+2021/08/12 6:32:49 PM GMT+1,beatricegeorgehenry@gmail.com,8103767134,George,Beatrice,YES,Current Awardee,,,Greater height
+2021/07/31 2:11:56 PM GMT+1,belzwillis@gmail.com,8084373487,Kponi,Joy,YES,Current Awardee,,,No
+2021/08/13 8:31:31 PM GMT+1,bethyephraim@gmail.com,7084029053,Ephraim,Bethesda,YES,Current Awardee,,,"I am looking forward to this event, i know i will definately learn a lot. thank you HCF."
+2021/08/03 11:20:43 AM GMT+1,bikejimba@yahoo.com,8065671834,Ikejimba ,Ben,NO,Core Team Member,Yes,Yes,No
+2021/07/26 6:58:04 AM GMT+1,billnkantion97@gmail.com,9078610832,Nkantion,Bill,YES,Current Awardee,,,"Hill City has been impacting lives positively, I expect nothing less."
+2021/07/31 12:57:24 AM GMT+1,bilyaminibrahimshuaibu9@gmail.com,8109873001,IBRAHIM,BILYAMIN,YES,Other,,,No
+2021/07/31 4:56:24 AM GMT+1,bishopaffun@gmail.com,7065670376,Affun,Bishop,YES,Current Awardee,,,i want to thanks HCF for this Opportunity to be mentored
+2021/07/31 10:01:37 AM GMT+1,blessedaghogho@gmail.com,9093404641,Omoghene ,Blessed ,YES,Current Awardee,,,
+2021/08/11 5:49:11 AM GMT+1,blessedaghogho@gmail.com,9093304641,Omoghene ,Blessed ,YES,Current Awardee,,,It's been a great journey being a part of hillcity. I will share my testimony soon.
+2021/08/06 3:25:59 PM GMT+1,blessingacheneje07@gmail.com,9074071592,Acheneje,Blessing,NO,Current Awardee,,,"Hill city foundation is the best thing that has ever happened to me 😭 God bless Hcf 🙏 
 much love from here"
-"2021/08/06 5:26:18 PM GMT+1","loveamarachi4@gmail.com","08034492869","Ugwuezema","Lovelyn","YES","Current Awardee","","","HCF has been helping a lot of students manifest when all hope seemed lost. Glory!"
-"2021/08/06 5:34:02 PM GMT+1","onyidojohn@gmail.com","08065537969","John","Chukwunanu","YES","Graduate Member","","","I'm excited, anticipating🔥🔥🔥"
-"2021/08/06 6:08:17 PM GMT+1","koshabagrace6@gmail.com","0758579264","Koshaba","Grace","YES","Current Awardee","","","I really have no comment but I would like to say thank you to the hillcity family for loving and accepting me just as I am. You have given me hope so oo oo deep and I pray for you always so that all your dreams come true just like you are helping to make mine come true. God bless you all. "
-"2021/08/06 6:15:24 PM GMT+1","tamunobelema@yahoo.com","08037460539","Ogbuji","Enyinnah","YES","Core Team Member","No","Yes",""
-"2021/08/06 6:23:19 PM GMT+1","faithasho@gmail.com","08051324547","Ashonibare","Faith","YES","Current Awardee","","","No"
-"2021/08/06 6:45:34 PM GMT+1","oluwaseunibk1@gmail.com","07082450058","Ajisafe ","Oluwaseun ","YES","Current Awardee","","","I anticipate the impactful event "
-"2021/08/06 7:53:25 PM GMT+1","ilohikenna.v@gmail.com","07061035612","ILOH","Ikenna","YES","Graduate Member","","",""
-"2021/08/06 9:25:11 PM GMT+1","hannahmicah192@gmail.com","08187670249","Micah","Hannah","YES","Current Awardee","","","No"
-"2021/08/06 10:03:46 PM GMT+1","carmelitapatmen@yahoo.com","08169855400 ","Patmen ","Carmelita ","YES","Current Awardee","","","I will be glad to attend the event "
-"2021/08/07 2:56:06 AM GMT+1","akpandaniel56@gmail.com","08173521798","Akpan","Daniel","YES","Other","","",""
-"2021/08/07 8:18:28 AM GMT+1","gloryisaac737@gmai.com","07019071904","ISAAC","GLORY","YES","Current Awardee","","",""
-"2021/08/07 10:04:45 AM GMT+1","jameschukwu11@yahoo.com","+2348187931213","Chukwu","James","YES","Current Awardee","","","I'm anticipating this year event as last year was superb, I can't wait to be impacted from great men and women. Thank you Hillcity for the opportunity granted me. "
-"2021/08/07 2:45:59 PM GMT+1","oputadivine99@gmail.com","09096879837","Oputa","Divine","YES","Current Awardee","","","No"
-"2021/08/07 4:48:07 PM GMT+1","sabsolaz@gmail.com","07034670810","Aziegbemhin ","Solomon ","YES","Core Team Member","No","No",""
-"2021/08/07 4:48:17 PM GMT+1","chinwe.tobin@gmail.com","08037106151","Tobin","Chinwe","YES","Core Team Member","Yes","No",""
-"2021/08/07 4:57:12 PM GMT+1","efeogheneabiri@gmail.com","07064604994","Aziegbemhin ","Efeoghene ","YES","HCF Partner","","","I pray for a successful event 🙏 🙌 ✨ 👏. 
+2021/07/30 7:17:42 PM GMT+1,bridgetgold2016@gmail.com,8037032684,Ndukwe,Bridget,YES,Current Awardee,,,
+2021/08/06 2:21:04 PM GMT+1,bridgetgold2016@gmail.com,8037032684,Ndukwe,Bridget,YES,Current Awardee,,,"HCF has been a blessing to many, including myself. I thank God for the HCF team members and partners."
+2021/08/11 8:28:01 PM GMT+1,bridgetgold2016@gmail.com,8037032684,Ndukwe,Bridget,YES,Current Awardee,,,
+2021/08/03 8:11:05 PM GMT+1,buoroayokunle@gmail.com,8106111310,Buoro,Samuel,YES,Current Awardee,,,No
+2021/08/10 6:42:10 PM GMT+1,buoroayokunle@gmail.com,8106111310,Buoro,Samuel,YES,Current Awardee,,,No
+2021/08/02 11:12:37 PM GMT+1,carmelitapatmen@yahoo.com,8169855400,Patmen ,Carmelita ,YES,Current Awardee,,,"I will love to attend the event
 "
-"2021/08/07 4:59:23 PM GMT+1","efeogheneabiri@gmail.com","07064604994","Aziegbemhin ","Efeoghene ","YES","HCF Partner","","","I pray for a successful event 🙏 🙌 ✨ 👏 "
-"2021/08/07 5:05:12 PM GMT+1","awhabrodarlington@yahoo.com","08063295923","Awhabro","Darlington ","YES","Core Team Member","No","No",""
-"2021/08/07 5:46:39 PM GMT+1","deejayjewel01@yahoo.com","08033861301","Idayi","Jewel","YES","Core Team Member","No","Yes","Let's go there!"
-"2021/08/07 6:07:35 PM GMT+1","joel.musa@gmail.com","07062914478","Musa","Joel","YES","Core Team Member","No","Yes","Great appreciation and commendation to the organizing team. God bless you all"
-"2021/08/07 6:12:15 PM GMT+1","Sixtusdika@gmail.com","+2347037530002","Nzeh","Sixtus","YES","Graduate Member","","",""
-"2021/08/07 6:32:38 PM GMT+1","chioma.imemba@gmail.com","08154009229","Imemba","Chioma","YES","Core Team Member","Yes","Yes",""
-"2021/08/07 6:47:43 PM GMT+1","wnweze@gmail.com","08098315401","Nweze","Wura ","YES","Core Team Member","No","No",""
-"2021/08/07 7:28:15 PM GMT+1","in2cent@gmail.com","+2347038984828","Amanum ","Innocent ","YES","Graduate Member","","",""
-"2021/08/07 7:28:31 PM GMT+1","ogwuchedavid26@gmail.com","08061461004","Ogwuche","David","YES","Current Awardee","","","No"
-"2021/08/07 7:55:42 PM GMT+1","prince.ojeabulu@yahoo.co.uk","08038890012","Ojeabulu","Prince","YES","Core Team Member","Yes","Yes",""
-"2021/08/07 7:59:55 PM GMT+1","olajidesalako@gmail.com","+31684372769","Salako","Olajide","YES","Core Team Member","No","Yes",""
-"2021/08/07 8:04:17 PM GMT+1","ckobani@gmail.com","08133975929","Obani","Chika","YES","Core Team Member","No","Yes",""
-"2021/08/07 8:04:19 PM GMT+1","e_idayi@yahoo.com","08062101439","IDAYI","EMMANUEL","YES","Core Team Member","No","No","No"
-"2021/08/07 8:08:02 PM GMT+1","sunday.nwovu@hillcityfoundation.org","08168722372","Nwovu","Sunday","YES","Graduate Member","","",""
-"2021/08/07 8:08:47 PM GMT+1","e_idayi@yahoo.com","08062101439","IDAYI","EMMANUEL","YES","Core Team Member","No","No",""
-"2021/08/07 10:41:50 PM GMT+1","petngene@yahoo.com","+31619329909 ","Ngene ","Peter","YES","Core Team Member","No","Yes",""
-"2021/08/07 11:49:26 PM GMT+1","preciousadiele9@gmail.com","09095275004","Adiele","Precious","YES","Current Awardee","","",""
-"2021/08/08 6:27:39 AM GMT+1","emma.o.obilor@gmail.com","07033933585","Obilor","Emmanuel","YES","Current Awardee","","","Nil"
-"2021/08/08 7:02:02 AM GMT+1","owen.gideon@gmail.com","08149953522","Obasuyi","Owen","YES","Current Awardee","","",""
-"2021/08/08 7:02:21 AM GMT+1","giftedrash@gmail.com","09054417317","Idris","Gift","YES","Current Awardee","","",""
-"2021/08/08 7:03:02 AM GMT+1","ebere.cea@gmail.com","08167028670","Chime","Ebere Ann","YES","Current Awardee","","","No"
-"2021/08/08 7:03:49 AM GMT+1","udochukwugoodluck442@gmail.com","08167668442","UDOCHUKWU","GOODLUCK","YES","Current Awardee","","","HillCity foundation program has really help me to achieve my academic goal. "
-"2021/08/08 7:03:49 AM GMT+1","Charlesito619@gmail.com","08062382735","Oluchukwu","Charles","YES","Other","","","None for now."
-"2021/08/08 7:06:12 AM GMT+1","nurseadeboyetitilayo@gmail.com","09037323430","Adeboye","Titilayo","YES","Current Awardee","","",""
-"2021/08/08 7:07:30 AM GMT+1","agbelayi.esther@gmail.com","+2348171579474","Agbelayi","Esther","YES","Current Awardee","","",""
-"2021/08/08 7:22:32 AM GMT+1","chinecheremiloh28@yahoo.com","08163978845","ILOH","Chinecherem","YES","Current Awardee","","",""
-"2021/08/08 7:22:32 AM GMT+1","chinecheremiloh28@yahoo.com","08163978845","ILOH","Chinecherem","YES","Current Awardee","","",""
-"2021/08/08 7:24:05 AM GMT+1","chinecheremiloh28@yahoo.com","08163978845","ILOH","Chinecherem","YES","Current Awardee","","",""
-"2021/08/08 7:27:32 AM GMT+1","okolojonathan92@gmail.com","08054415983","Okolo","Jonathan","YES","Current Awardee","","","Hillcity has given a different shape to my life both academically and also in my orientation and conception as pertaining life.
-I pray the Lord keep you growing...
-Long live Hillcity!!!"
-"2021/08/08 7:31:18 AM GMT+1","carmelitapatmen@yahoo.com","08169855400 ","Patmen ","Carmelita ","YES","Current Awardee","","",""
-"2021/08/08 7:32:28 AM GMT+1","lewechi80@gmail.com","08130586311","Lewechi","Chukwuemeka","YES","Current Awardee","","","Thank you HCF "
-"2021/08/08 7:38:52 AM GMT+1","jj393928@gmail.com","0906 003 5983","Menyanga","Racheal","YES","Current Awardee","","",""
-"2021/08/08 7:45:56 AM GMT+1","cuzochukwu58@gmail.com","07011326157","Uzochukwu","Christian ","YES","Current Awardee","","","No"
-"2021/08/08 7:47:58 AM GMT+1","giftthankgod4922@gmail.com","08081054922","ThankGod","Gift","YES","Current Awardee","","","I look forward to attending the meeting"
-"2021/08/08 7:52:01 AM GMT+1","isaacoluwanifemi@gmail.com","08103206066","Isaac","Oluwanifemi","YES","Current Awardee","","","I am looking forward to this year's event because I am sure it would be inspiring and impactful "
-"2021/08/08 7:52:34 AM GMT+1","raymondraphael321@gmail.com","+2349083363654","Aworo","Raymond","YES","Current Awardee","","","No"
-"2021/08/08 7:57:22 AM GMT+1","ephraimmatex7@gmail.com","07031289168","Mbagwu","Ephraim","YES","Other","","",""
-"2021/08/08 8:28:38 AM GMT+1","chinonduwokocha@gmail.com","08145334683","Wokocha","Chinondu","YES","Current Awardee","","","THANK YOU HILLCITY FOUNDATION FOR ALL YOU HAVE BEEN DOING...GOD BLESS THE HILLCITY FOUNDATION FAMILY.
+2021/08/06 10:03:46 PM GMT+1,carmelitapatmen@yahoo.com,8169855400,Patmen ,Carmelita ,YES,Current Awardee,,,I will be glad to attend the event 
+2021/08/08 7:31:18 AM GMT+1,carmelitapatmen@yahoo.com,8169855400,Patmen ,Carmelita ,YES,Current Awardee,,,
+2021/08/08 7:03:49 AM GMT+1,Charlesito619@gmail.com,8062382735,Oluchukwu,Charles,YES,Other,,,None for now.
+2021/07/30 7:05:30 PM GMT+1,cheymaremmanuel@gmail.com,8143206143,Chima,Emmanuel,YES,Current Awardee,,,Looking forward to the event ☺️
+2021/07/31 8:07:19 AM GMT+1,chibuezeebuka2@gmail.com,8147682809,Chibueze ,CHUKWUEBUKA ,YES,Current Awardee,,,
+2021/08/09 1:09:07 PM GMT+1,chibuezeebuka2@gmail.com,8147682809,Chibueze ,CHUKWUEBUKA ,YES,Current Awardee,,,
+2021/07/30 5:33:53 PM GMT+1,chibuezeokoronkwo6@gmail.com,070 3648 2813,Okoronkwo,Chibueze,YES,Graduate Member,,,I trust that this event is well packaged and would bring about all-round manifestation afterwards.
+2021/08/08 12:15:35 PM GMT+1,chibuezeokoronkwo6@gmail.com,070 3648 2813,Okoronkwo,Chibueze,YES,Graduate Member,,,It's time to Manifest and I can't wait for this big one!
+2021/07/31 3:20:27 PM GMT+1,chicreativecloud@gmail.com,8086901541,Okekeigwe,Chibuike,YES,Current Awardee,,,
+2021/08/03 6:58:57 PM GMT+1,chidilucky533@gmail.com,8135054233,Ephraim ,Chidi,YES,Current Awardee,,,I will love to grace this event 
+2021/08/05 7:50:12 PM GMT+1,chidilucky533@gmail.com,8135054233,Ephraim ,Chidi,YES,Current Awardee,,,Am expecting an impactful session 
+2021/08/10 11:32:03 AM GMT+1,chidilucky533@gmail.com,8135054233,Ephraim ,Chidi,YES,Current Awardee,,,Expecting to have a wonderful session 
+2021/08/10 11:34:34 AM GMT+1,chidilucky533@gmail.com,8135054233,Ephraim ,Chidi,YES,Current Awardee,,,Expecting an impactful event
+2021/07/30 6:59:51 PM GMT+1,chimachibuzo22@gmail.com,8066245838,CHIMA,CHIBUZO JUDE,YES,Current Awardee,,,
+2021/08/09 7:30:01 AM GMT+1,chimachibuzo22@gmail.com,8066245838,Chima,Chibuzo Jude,YES,Current Awardee,,,
+2021/07/30 12:05:22 PM GMT+1,chinecherem.eze.241255@unn.edu.ng,8141345890,Eze,Chinecherem,YES,Other,,,No
+2021/08/08 7:22:32 AM GMT+1,chinecheremiloh28@yahoo.com,8163978845,ILOH,Chinecherem,YES,Current Awardee,,,
+2021/08/08 7:22:32 AM GMT+1,chinecheremiloh28@yahoo.com,8163978845,ILOH,Chinecherem,YES,Current Awardee,,,
+2021/08/08 7:24:05 AM GMT+1,chinecheremiloh28@yahoo.com,8163978845,ILOH,Chinecherem,YES,Current Awardee,,,
+2021/08/11 10:12:52 PM GMT+1,chinecheremiloh28@yahoo.com,8163978845,ILOH,Chinecherem,YES,Current Awardee,,,
+2021/08/11 10:14:09 PM GMT+1,chinecheremiloh28@yahoo.com,8163978845,ILOH,Chinecherem,YES,Current Awardee,,,
+2021/08/13 8:10:18 PM GMT+1,chinecheremiloh28@yahoo.com,8163978845,ILOH,Chinecherem,YES,Current Awardee,,,
+2021/08/13 11:22:52 PM GMT+1,chinecheremiloh28@yahoo.com,8163978845,ILOH,Chinecherem,YES,Current Awardee,,,
+2021/08/12 5:26:25 AM GMT+1,chineyoguadinma@gmail.com,2.34814E+12,Oguadinma,Chinenye,YES,Current Awardee,,,
+2021/08/12 5:27:38 AM GMT+1,chineyoguadinma@gmail.com,2.34814E+12,Oguadinma,Chinenye,YES,Current Awardee,,,
+2021/08/08 10:54:06 AM GMT+1,Chini291@gmail.com,8022224207,IBEGBULEM ,CHINEDU ,YES,Core Team Member,No,No,I will join the conference virtually 
+2021/08/08 8:28:38 AM GMT+1,chinonduwokocha@gmail.com,8145334683,Wokocha,Chinondu,YES,Current Awardee,,,"THANK YOU HILLCITY FOUNDATION FOR ALL YOU HAVE BEEN DOING...GOD BLESS THE HILLCITY FOUNDATION FAMILY.
 
 PLEASE SOME OF US OUR NETWORK IN OUR AREA IS STRONG ENOUGH TO CONNECT TO THE ZOOM MEETING SOME TIMES."
-"2021/08/08 8:32:21 AM GMT+1","okerekechimaobiclinton@gmail.com","07019266567","Okereke","Chimaobi","YES","Current Awardee","","","God bless HillCity Foundation"
-"2021/08/08 9:32:47 AM GMT+1","aghamaosagioduwa2@gmail.com","07069238480","AGHAMA ","OSAGIODUWA ","YES","Current Awardee","","","God bless Hillcity Foundation "
-"2021/08/08 9:44:00 AM GMT+1","mugisly@gmail.com","+2347036833329","Ehana","Milton","YES","Core Team Member","Yes","Yes",""
-"2021/08/08 10:03:04 AM GMT+1","oluwasheyiolawumi@gmail.com","08063580461 ","Olawumi ","Oluwasheyi ","YES","Current Awardee","","","I am forever thankful to Hillcity Foundation. I have been greatly impacted. God bless this family. "
-"2021/08/08 10:11:07 AM GMT+1","petertambari@gmail.com","07039689057","Peter","Tambari","YES","Current Awardee","","","Hillcity Foundation Programs have imparted me grately"
-"2021/08/08 10:54:06 AM GMT+1","Chini291@gmail.com","08022224207","IBEGBULEM ","CHINEDU ","YES","Core Team Member","No","No","I will join the conference virtually "
-"2021/08/08 11:10:46 AM GMT+1","kiviasamuel@gmail.com","kiviasamuel@gmail.com","Uzoma ","Covenant ","YES","Current Awardee","","",""
-"2021/08/08 11:22:55 AM GMT+1","idowuisrael@yahoo.com","08162016913","AKEREJAH","ISRAEL","YES","Current Awardee","","","I look forward to a great event that will change my life positively. God bless HillCity Foundation"
-"2021/08/08 11:25:30 AM GMT+1","eruvy@yahoo.com","08025240066","Obrike","EruViano","YES","Other","","",""
-"2021/08/08 11:48:02 AM GMT+1","jessedielsoem@gmail.com","07031883759","Dielsoem","Jesse","YES","Current Awardee","","","Am so grateful to be part of the team and may God bless Hillcity"
-"2021/08/08 11:51:06 AM GMT+1","ucheokpe16@gmail.com","08067805325 ","Okpe","Sabinus ","YES","Graduate Member","","",""
-"2021/08/08 11:51:08 AM GMT+1","ahijahsule07@gmail.com","08060061266","Sule","Ahijah","YES","Other","","","I had of it from a friend and I am interested in becoming a member, I will be grateful if my request is giving consideration"
-"2021/08/08 12:15:35 PM GMT+1","chibuezeokoronkwo6@gmail.com","070 3648 2813","Okoronkwo","Chibueze","YES","Graduate Member","","","It's time to Manifest and I can't wait for this big one!"
-"2021/08/08 12:59:00 PM GMT+1","uchechukwu2027@yahoo.com","09066331571","Ogbodo","Uchechukwu Charles","YES","Other","","","I am very eager to attend this event so that I could learn something new. Thank you so much for this opportunity, HCF. "
-"2021/08/08 2:11:05 PM GMT+1","tommyubongabasi@gmail.com","09022486341","Tommy","Ubongabasi","YES","Other","","",""
-"2021/08/08 2:42:31 PM GMT+1","ezechukwujoseph42@gmail.com","09061910071","Ezechukwu","Chizitere","YES","Current Awardee","","","Hillcity is touching Life.
-Thanks for this platform.
-I really appreciate."
-"2021/08/08 2:43:22 PM GMT+1","isaacesther1999@yahoo.com","09020587184 ","Isaac","Esther","YES","Current Awardee","","","I do not receive messages about the program. I get updates from my sister "
-"2021/08/08 3:00:22 PM GMT+1","juliusokeowo8@gmail.com","07086691260","Okeowo","Julius","YES","Current Awardee","","",""
-"2021/08/08 3:19:31 PM GMT+1","Ebukasebastine@gmail.com","07032147943","Iloebo","Ebuka","YES","Current Awardee","","",""
-"2021/08/08 5:21:01 PM GMT+1","abbaabraham3@gmail.com","08140898803","Abba","Abraham","YES","Current Awardee","","","Looking forward to manifest 2021"
-"2021/08/08 5:57:36 PM GMT+1","ozorifeanyi8@gmail.com","08149545225","Ozor","Ifeanyichukwu","YES","Other","","","Thank you for providing this kind of opportunity for massive turn around in the lives of people, am deeply grateful. May God replenish the organizers greatly.amen."
-"2021/08/08 6:09:52 PM GMT+1","okorojeremiah123@gmail.com","08089915780","Okoro","Jeremiah","YES","Current Awardee","","",""
-"2021/08/08 6:41:34 PM GMT+1","edwineddychuks1305@yahoo.com","07062803549","Ikpakpa","Edwin Chukwuma","YES","Current Awardee","","","This is another awesome opportunity brought to us by hillcity foundation. I'm most grateful."
-"2021/08/08 7:04:22 PM GMT+1","tapwulnaan@gmail.com","08116554129","Dashe","Tapwulnaan","YES","Current Awardee","","","    My most glorious appreciation to  Hillcity  Foundation. For me history and testimony of life will never be written without this prestigious foundation.
-   God bless Hillcity Foundation."
-"2021/08/08 7:37:37 PM GMT+1","genevivevobotha@gmail.com","08103479034","Obotha-Adigo","Okeoghene","YES","HCF Partner","","","Thank you HillCity Foundation"
-"2021/08/08 8:03:41 PM GMT+1","frankcalebquan@gmail.com","08140010683","Frank","Caleb","YES","Current Awardee","","","I'm really excited to attend this years event"
-"2021/08/08 8:36:48 PM GMT+1","bamydele224@gmail.com","07036467064","Ajongbolo","Bamidele","YES","Current Awardee","","","I am highly encouraged by HillCity foundation. HillCity gave over 300 students hope when we thought of no hope, all I do is to pray for all core members. One day I'll be like you too, I'll raise as many I can."
-"2021/08/08 9:32:05 PM GMT+1","raymondfredrickabaphras@gmail.com","09044271191","Raymond","Fredrick","YES","Core Team Member","Yes","No","I have had a lot about hillcity foundation "
-"2021/08/08 9:46:58 PM GMT+1","emmanuel.okon23@yahoo.co.uk","08167076066","Okon","Emmanuel","YES","Current Awardee","","",""
-"2021/08/08 9:52:09 PM GMT+1","kalumiracle74@gmail.com","+23491475088","Kalu","Miracle","YES","Graduate Member","","","Am happy to part of this great family"
-"2021/08/08 10:23:54 PM GMT+1","immaculatenamubiru08@gmail.com","0750128000","NAMUBIRU","IMMACULATE","YES","Current Awardee","","","I'm so grateful to hill city foundation for making it possible for me to study and archive my dreams"
-"2021/08/08 10:26:03 PM GMT+1","immaculatenamubiru08@gmail.com","0750128000","NAMUBIRU","IMMACULATE","YES","Current Awardee","","","I am so grateful to hill city foundation for making it possible for me to study and archive my dreams "
-"2021/08/08 10:27:49 PM GMT+1","needubatambari@gmail.com","08136221033","Needu","Batambari","YES","Graduate Member","","",""
-"2021/08/09 5:54:39 AM GMT+1","coolik.ik@gmail.com","08063525904","Uche","Ikedi","YES","Other","","",""
-"2021/08/09 7:30:01 AM GMT+1","chimachibuzo22@gmail.com","08066245838","Chima","Chibuzo Jude","YES","Current Awardee","","",""
-"2021/08/09 7:33:16 AM GMT+1","allennorah2@gmail.com","0754699347","Naligo","Allen Julian","YES","Current Awardee","","",""
-"2021/08/09 7:36:09 AM GMT+1","allennorah2@gmail.com","0754699347","Naligo","Allen Julian","YES","Current Awardee","","",""
-"2021/08/09 7:37:42 AM GMT+1","abelndukwe@gmail.com","08106288010","Ndukwe","Abel","YES","Graduate Member","","",""
-"2021/08/09 8:22:14 AM GMT+1","agathamutumba@gmail.com","+256779699025","Mutumba ","Agatha","YES","Core Team Member","No","Yes",""
-"2021/08/09 8:57:13 AM GMT+1","koshabagrace6@gmail.com","0758579264","KOSHABA","GRACE","YES","Current Awardee","","",""
-"2021/08/09 9:37:15 AM GMT+1","okaroonochie@gmail.com","07052122401","Okaro ","Onochie","YES","Other","","","I'll be very happy to be a part of this foundation"
-"2021/08/09 9:37:21 AM GMT+1","beatit4oriks@gmail.com","07035329247","Alalibo ","Orikarama","YES","Current Awardee","","",""
-"2021/08/09 9:50:04 AM GMT+1","agenuchidinma2015@gmail.com","08145006436","Agenu","Chidinma","YES","Current Awardee","","","Registered and fully expectant"
-"2021/08/09 10:13:19 AM GMT+1","Abbakarkkr@gmail.com","08107173718","Adamu","Abubakar","YES","Current Awardee","","","Thank you for your support"
-"2021/08/09 10:39:58 AM GMT+1","philchizy32@gmail.com","09063534607","Eze","Chinazaekpere","YES","Other","","","I actually don't understand this ""Hillcity membership status"": How do we know if we are current awardees or Other? On a long run, the organization is doing extremely well. I hope to enjoy the program. What are expected of us during and after the program?"
-"2021/08/09 10:51:03 AM GMT+1","idrissophia03@gmail.com","09035886105","Idris","Sophia","NO","Other","","",""
-"2021/08/09 10:52:47 AM GMT+1","idrissophoa03@gmail.com","09035886105","idris","sophia","NO","Other","","","Look"
-"2021/08/09 11:13:38 AM GMT+1","idrissophia03@gmail.com","09035886105","Idris","Sophia","YES","Other","","",""
-"2021/08/09 11:26:27 AM GMT+1","samuelarawu@gmail.com","7788141599","Arawu","Samuel","YES","Graduate Member","","",""
-"2021/08/09 11:45:54 AM GMT+1","odehjoyce02@gmail.com","09079809103","Odeh","Joyce","YES","Current Awardee","","","Thank you very much for the invite. "
-"2021/08/09 11:52:13 AM GMT+1","ugochukwu.uwazurike@hillcityfoundation.org","+2348166365000","UWAZURUIKE","UGOCHUKWU","YES","Core Team Member","No","Yes",""
-"2021/08/09 11:56:40 AM GMT+1","odehjoyce02@gmail.com","09079809103","Odeh","Joyce","YES","Current Awardee","","","Thank you for the invite. "
-"2021/08/09 12:05:23 PM GMT+1","ndungenatalie@gmail.com","+256706763707","Natalie","Ndunge","YES","Current Awardee","","",""
-"2021/08/09 12:34:00 PM GMT+1","mobizuyo@gmail.com","0755880934","Obizuyo","Maureen","YES","Current Awardee","","",""
-"2021/08/09 12:40:56 PM GMT+1","peacedadiam@gmail.com","09075185314","Dadiam","Peace","YES","Other","","","No"
-"2021/08/09 12:54:05 PM GMT+1","happichiemerie@gmail.com","08061394308","Onyebueke","Happiness","YES","Graduate Member","","","I would love to volunteer for any work that might be needed to do during the program as a way of saying thank you to hillcity foundation! "
-"2021/08/09 1:06:19 PM GMT+1","ogmaroski@gmail.com","07039866108","Onoronu","Oghenemaro","YES","Core Team Member","No","Yes","None"
-"2021/08/09 1:08:44 PM GMT+1","rsolomon72@yahoo.com","08130210777","Solomon","Rachel","YES","Current Awardee","","","I am very grateful to God and Hillcity Foundation for this wonderful opportunity, God bless Hillcity Foundation"
-"2021/08/09 1:09:07 PM GMT+1","chibuezeebuka2@gmail.com","08147682809","Chibueze ","CHUKWUEBUKA ","YES","Current Awardee","","",""
-"2021/08/09 1:25:28 PM GMT+1","peacedadiam@gmail.com","09075185314","Dadiam","Peace","YES","Current Awardee","","","No"
-"2021/08/09 1:28:23 PM GMT+1","ebiojolizzzy@gmail.com","08107173748","Elijah","Ebiojo Elizabeth","YES","Current Awardee","","","Indeed Hillcity foundation has been a blessing to me. Long life to Hillcity foundation"
-"2021/08/09 2:01:30 PM GMT+1","ndudimifeoma1@gmail.com","08105485976","Ndudim","Ifeoma","YES","Current Awardee","","",""
-"2021/08/09 3:07:07 PM GMT+1","ajalolydia@gmail.com","0786760441","Ajalo","Lydia","YES","Current Awardee","","","I want to thank HCF for giving me a chance to study ...HCF has been my inspiration ,i know that the one reason as to why i have to work hard is to make sure that i never disappoint HCF 
-Thank you to the management of HCF and to all our mentors ..All i say is that may the Lord continue to bless HCF 🙏and may it continue to shine "
-"2021/08/09 3:08:17 PM GMT+1","cyberteqz@gmail.com","07069378861","LAWAL","KEHINDE AUGUSTINE ","YES","Current Awardee","","","Expecting to learn great things that day "
-"2021/08/09 3:08:57 PM GMT+1","glorychikaodiri0@gmail.com","08112349504","Chikaodiri","Glory","YES","Current Awardee","","","I will be there"
-"2021/08/09 3:09:02 PM GMT+1","felixorji18@gmail.com","07063109247","Felix","IfeanyiChukwu","YES","Current Awardee","","","Highly anticipating the event."
-"2021/08/09 3:25:11 PM GMT+1","enefiokgreat335@gmail.com","07061891398","ENEFIOK","GOODNEWS GREAT","YES","Current Awardee","","","I CANT WAIT TO BE A PART OF THIS PROGRAMME, Manifesting has been my Heart cry,I hope for the best!!
+2021/08/01 6:58:07 PM GMT+1,chinonsodavid@gmail.com,8036482252,Nwosu,Chinonso,YES,Graduate Member,,,Hoping to achieve greatness and learn key steps to adding values to my lives and my community 
+2021/08/10 3:56:37 PM GMT+1,chinonsodavid@gmail.com,8036482252,Nwosu,Chinonso,YES,Graduate Member,,,
+2021/08/07 4:48:17 PM GMT+1,chinwe.tobin@gmail.com,8037106151,Tobin,Chinwe,YES,Core Team Member,Yes,No,
+2021/08/07 6:32:38 PM GMT+1,chioma.imemba@gmail.com,8154009229,Imemba,Chioma,YES,Core Team Member,Yes,Yes,
+2021/07/30 5:53:57 PM GMT+1,chukwudipercy@gmail.com,2.50786E+11,Chukwudi,Percy,YES,Graduate Member,,,
+2021/07/31 11:34:49 AM GMT+1,chukwunekeikechukwu@yahoo.com,8065882923,Chukwuneke,Ikechukwu,YES,Current Awardee,,,
+2021/08/10 9:49:11 AM GMT+1,chukwunekeikechukwu@yahoo.com,8065882923,Chukwuneke,Ikechukwu,YES,Current Awardee,,,
+2021/08/12 7:53:57 AM GMT+1,chukwusamson94@gmail.com,8082688246,Chukwu,Samson,YES,Current Awardee,,,
+2021/08/07 8:04:17 PM GMT+1,ckobani@gmail.com,8133975929,Obani,Chika,YES,Core Team Member,No,Yes,
+2021/08/01 7:30:35 PM GMT+1,coimemba@yahoo.com,99999977,Imemba ,Obi,YES,Core Team Member,Yes,Yes,
+2021/07/22 9:25:25 PM GMT+1,collinsfrason87@gmail.com,9039763325,Collins,Nnaemeka,YES,Current Awardee,,,Anticipating
+2021/08/01 11:35:37 AM GMT+1,collinsfrason87@gmail.com,9039763325,Collins,Nnaemeka,YES,Current Awardee,,,I believe the event will be super
+2021/08/09 5:25:20 PM GMT+1,collinsfrason87@gmail.com,9039763325,Collins,Nnaemeka,YES,Current Awardee,,,Anticipating
+2021/08/01 3:16:13 AM GMT+1,comfortorubo@gmail.com,8138507004,Orubo,Comfort ,YES,Current Awardee,,,God bless hillcity
+2021/08/09 5:54:39 AM GMT+1,coolik.ik@gmail.com,8063525904,Uche,Ikedi,YES,Other,,,
+2021/08/08 7:45:56 AM GMT+1,cuzochukwu58@gmail.com,7011326157,Uzochukwu,Christian ,YES,Current Awardee,,,No
+2021/07/30 6:44:34 PM GMT+1,cyberteqz@gmail.com,7069378861,LAWAL,KEHINDE AUGUSTINE,YES,Current Awardee,,,I know that day is going to be awesome 
+2021/08/09 3:08:17 PM GMT+1,cyberteqz@gmail.com,7069378861,LAWAL,KEHINDE AUGUSTINE ,YES,Current Awardee,,,Expecting to learn great things that day 
+2021/07/31 10:21:14 AM GMT+1,cynthiaamulu@gmail.com,7064735623,Amulu,Cynthia,YES,Current Awardee,,,Thank you 
+2021/08/09 10:36:51 PM GMT+1,cynthiaamulu@gmail.com,7064735623,Amulu,Cynthia,YES,Current Awardee,,,Thank you.
+2021/08/03 10:06:18 AM GMT+1,dabeetatajesus@gmail.com,8067438735,Isaac,Daberechi,YES,Current Awardee,,,
+2021/08/03 10:08:10 AM GMT+1,dabeetatajesus@gmail.com,8067438735,Isaac,Daberechi,YES,Current Awardee,,,
+2021/08/03 2:18:02 PM GMT+1,daminayusuff@gmail.com,9077238508,Damina,Yusuf,YES,Current Awardee,,,
+2021/08/03 7:26:24 AM GMT+1,damolasoares@gmail.com,8063786315,Soares,Oladamola,YES,Core Team Member,Yes,Yes,Non
+2021/08/11 8:44:17 PM GMT+1,damolasoares@gmail.com,8063786315,Soares,Oladamola,YES,Core Team Member,Yes,Yes,I anticipate a great event
+2021/08/14 3:04:33 PM GMT+1,danpoly60@gmail.com,2.34703E+12,Edet,Polycarp,YES,Graduate Member,,,Hill City has been a life line for me and many other awardee and graduate students. It's indeed a plus to have been honed by Hill city foundation.
+2021/07/30 7:04:46 PM GMT+1,datugunwulkatrita@gmail.com,8113554327,Datugun,Rita,YES,Current Awardee,,,"Hill city is truly a city on the hill, God bless the founder, and all the management"
+2021/07/30 7:06:49 PM GMT+1,datugunwulkatrita@gmail.com,8113554327,Datugun,Rita,YES,Current Awardee,,,Hill city has change my life
+2021/08/09 4:35:52 PM GMT+1,datugunwulkatrita@gmail.com,8113554327,Datugun,Rita,YES,Current Awardee,,,"Hilcity is truly a city on a hill,you have touch many lives."
+2021/08/14 7:28:24 AM GMT+1,datugunwulkatrita@gmail.com,8113553427,Datugun,Rita,YES,Current Awardee,,,Hill city for life
+2021/08/03 9:56:21 AM GMT+1,daudaibesi2@gmail.com,9067201494,Dauda,Ibesi,YES,Current Awardee,,,I was blessed during the message of the interview session and would love to be a part of this conference
+2021/07/29 1:55:05 AM GMT+1,davidjohn7908@gmail.com,8138306072,John,David ,YES,Other,,,
+2021/08/10 12:58:25 PM GMT+1,dboylaww@gmail.com,8067978071,Lawrence,Ubong,YES,Core Team Member,Yes,No,I'm not very certain yet of not being available for Friday
+2021/08/07 5:46:39 PM GMT+1,deejayjewel01@yahoo.com,8033861301,Idayi,Jewel,YES,Core Team Member,No,Yes,Let's go there!
+2021/07/28 5:14:39 PM GMT+1,derickakachukwu@gmail.com,9072466000,Mbam,Akachukwu,YES,Other,,,
+2021/08/01 4:35:58 PM GMT+1,drmaxycarter@gmail.com,8186394840,James,Ejike,YES,Current Awardee,,,
+2021/08/10 12:38:27 AM GMT+1,drmaxycarter@gmail.com,8186394840,James,Ejike,YES,Current Awardee,,,I look forward to the best through this event and its process of life changing opportunities......I shall manifest.
+2021/08/07 8:04:19 PM GMT+1,e_idayi@yahoo.com,8062101439,IDAYI,EMMANUEL,YES,Core Team Member,No,No,No
+2021/08/07 8:08:47 PM GMT+1,e_idayi@yahoo.com,8062101439,IDAYI,EMMANUEL,YES,Core Team Member,No,No,
+2021/07/30 7:32:10 PM GMT+1,ebere.cea@gmail.com,8167028670,Chime,Ebere Ann,YES,Current Awardee,,,No
+2021/08/08 7:03:02 AM GMT+1,ebere.cea@gmail.com,8167028670,Chime,Ebere Ann,YES,Current Awardee,,,No
+2021/08/10 5:53:31 PM GMT+1,ebetosin@gmail.com,8097036651,Ojo,Ebenezer ,YES,Other,,,I would love to thank Hillcity foundation for creating an avenue like this to help students to achieve their dreams while in school. May God continually bless you.
+2021/08/02 9:41:54 AM GMT+1,ebiojolizzzy@gmail.com,8107173748,Elijah,Ebiojo Elizabeth,YES,Current Awardee,,,Indeed Hillcity has been a blessing to me. Long life to Hillcity foundation
+2021/08/09 1:28:23 PM GMT+1,ebiojolizzzy@gmail.com,8107173748,Elijah,Ebiojo Elizabeth,YES,Current Awardee,,,Indeed Hillcity foundation has been a blessing to me. Long life to Hillcity foundation
+2021/07/30 7:20:55 PM GMT+1,Ebukasebastine@gmail.com,7032147943,Iloebo,Ebuka,YES,Current Awardee,,,
+2021/08/08 3:19:31 PM GMT+1,Ebukasebastine@gmail.com,7032147943,Iloebo,Ebuka,YES,Current Awardee,,,
+2021/08/03 7:30:51 AM GMT+1,ebuwa101@yahoo.com,8034207091,Ahusimere,Ebuwa,YES,Core Team Member,Yes,No,"I have a work/business engagement in PHC that period, so I will be heavily distracted, I will try to be physically present."
+2021/07/31 8:29:29 AM GMT+1,eclem194@gmail.com,8164797686,Otorubie,Deinma,YES,Current Awardee,,,Looking forward to a successful event
+2021/08/02 9:21:43 PM GMT+1,edemoyeblessing@gmail.com,8133040424,Edemoye ,Blessing ,YES,Current Awardee,,,
+2021/08/14 7:31:19 AM GMT+1,edetlucky@hillcityfoundation.org,8180916762,EDET,Lucky,YES,Graduate Member,,,
+2021/08/08 6:41:34 PM GMT+1,edwineddychuks1305@yahoo.com,7062803549,Ikpakpa,Edwin Chukwuma,YES,Current Awardee,,,This is another awesome opportunity brought to us by hillcity foundation. I'm most grateful.
+2021/08/07 4:57:12 PM GMT+1,efeogheneabiri@gmail.com,7064604994,Aziegbemhin ,Efeoghene ,YES,HCF Partner,,,"I pray for a successful event 🙏 🙌 ✨ 👏. 
+"
+2021/08/07 4:59:23 PM GMT+1,efeogheneabiri@gmail.com,7064604994,Aziegbemhin ,Efeoghene ,YES,HCF Partner,,,I pray for a successful event 🙏 🙌 ✨ 👏 
+2021/08/13 11:07:13 PM GMT+1,efuanappier2017@gmail.com,9054942038,NAPPIER,EFUA,YES,Core Team Member,No,No,
+2021/07/30 6:11:55 PM GMT+1,egesajesse@live.com,2.56779E+11,Egesa,Jesse,YES,Core Team Member,No,,
+2021/08/02 11:11:49 AM GMT+1,eghebenbruce@yahoo.com,9066240746,Benbruce,Emmanuella,YES,Current Awardee,,,God bless HillCity Foundation
+2021/07/25 2:22:55 PM GMT+1,egwuabasimon100@gmail.com,9099382719,Egwuaba,Simon,YES,Other,,,
+2021/08/11 6:09:08 PM GMT+1,ejewoka274@gmail.com,7015967821,Eje,Woka,YES,Current Awardee,,,No
+2021/08/12 11:04:38 PM GMT+1,Ekaihwilson@gmail.com,8143678438,Effiong,Praise,YES,Current Awardee,,,
+2021/08/12 12:52:16 AM GMT+1,ekomdaniel64@gmail.com,8134563675,Essien,Ekomobong,YES,Current Awardee,,,No
+2021/08/10 11:48:31 AM GMT+1,eliotchukwuwikeosagwu@gmail.com,8032875673,OSAGWU,ELLIOT,YES,Current Awardee,,,I hope to be imparted at the event
+2021/08/14 8:01:20 AM GMT+1,elizabethuche77@gmail.com,9049821760,Chukwuemeka,Uchechi,YES,Current Awardee,,,
+2021/08/14 8:03:43 AM GMT+1,elizabethuche77@gmail.com,9049821760,Chukwuemeka,Uchechi,YES,Current Awardee,,,Thanks for the invite
+2021/08/05 12:26:32 AM GMT+1,elliotchukwuwikeosagwu@gma.com,8032875673,OSAGWU,ELLIOT CHUKWUWIKE,YES,Current Awardee,,,I am greatly impacted by HillCity
+2021/08/01 12:48:39 AM GMT+1,elliotchukwuwikeosagwu@gmail.com,8032875673,OSAGWU,ELLIOT,YES,Current Awardee,,,I am already excited about the event.
+2021/08/08 6:27:39 AM GMT+1,emma.o.obilor@gmail.com,7033933585,Obilor,Emmanuel,YES,Current Awardee,,,Nil
+2021/08/01 5:25:56 PM GMT+1,emmanuel.okon23@yahoo.co.uk,8167076066,Okon,Emmanuel,YES,Current Awardee,,,
+2021/08/08 9:46:58 PM GMT+1,emmanuel.okon23@yahoo.co.uk,8167076066,Okon,Emmanuel,YES,Current Awardee,,,
+2021/08/10 1:34:49 AM GMT+1,emmanuel.okon23@yahoo.co.uk,8167076066,Okon,Emmanuel,YES,Current Awardee,,,
+2021/07/30 6:39:53 PM GMT+1,emmanuel.u.osuagwu@gmail.com,2.34704E+12,Osuagwu,Emmanuel,YES,Graduate Member,,,"Great initiative, kudos to the HCF team!"
+2021/07/30 5:49:25 PM GMT+1,emmanuelahmadu2016@gmail.com,7032408892,Ahmadu,Emmanuel,YES,Graduate Member,,,I am proud to be a hcf graduate member. And God bless hcf.
+2021/08/06 2:19:06 PM GMT+1,emmanuelndukwe@ymail.com,8100844385,Ndukwe,Emmanuel,YES,Current Awardee,,,Looking forward to the 2021 HCF Conference
+2021/07/31 2:29:11 PM GMT+1,emmyval107@gmail.com,9074310153,Onyeke,Emmanuel,YES,Current Awardee,,,Thanks for the Opportunity
+2021/08/03 10:49:04 AM GMT+1,emmyval107@gmail.com,9074310153,Onyeke,Emmanuel,YES,Current Awardee,,,Thanks
+2021/08/14 7:50:58 PM GMT+1,emrys4god@gmail.com,7037795452,Ihebunna,Ogochukwu,YES,Graduate Member,,,I'll be glad to attend the online seminar
+2021/07/30 7:00:30 PM GMT+1,enefiokgreat335@gmail.com,7061891398,Enefiok,Goodnews Great,YES,Current Awardee,,,I'm Expecting Wonderful Live changing Seminar unusual😍
+2021/08/09 3:25:11 PM GMT+1,enefiokgreat335@gmail.com,7061891398,ENEFIOK,GOODNEWS GREAT,YES,Current Awardee,,,"I CANT WAIT TO BE A PART OF THIS PROGRAMME, Manifesting has been my Heart cry,I hope for the best!!
 
 Thanks once again Hill city🙇‍♂️🙇‍♂️"
-"2021/08/09 3:29:13 PM GMT+1","maxoluwatosin@gmail.com","07087840509","Ajanaku ","Oluwatosin ","YES","Current Awardee","","",""
-"2021/08/09 3:38:10 PM GMT+1","amosbot6@gmail.com","07065751483","Bot","Amos","YES","Current Awardee","","",""
-"2021/08/09 3:48:06 PM GMT+1","adekanbiolalekan7@gmail.com","08122388144","Adekanbi ","Olalekan","YES","Current Awardee","","",""
-"2021/08/09 4:21:30 PM GMT+1","lewechi80@gmail.com","08130586311","Lewechi","Chukwuemeka ","YES","Current Awardee","","","Thank you HCF, am looking forward to this event. "
-"2021/08/09 4:34:46 PM GMT+1","giftedrash@gmail.com","09054417317","Idris","Gift","YES","Current Awardee","","",""
-"2021/08/09 4:35:52 PM GMT+1","datugunwulkatrita@gmail.com","08113554327","Datugun","Rita","YES","Current Awardee","","","Hilcity is truly a city on a hill,you have touch many lives."
-"2021/08/09 4:53:53 PM GMT+1","asusheyiumoize@yahoo.co.uk","08096990027","UMOIZE ","ONIZE ","YES","Current Awardee","","","I cannot wait for the event! Thank you HCF, God bless you!"
-"2021/08/09 4:54:16 PM GMT+1","andokarihopelaasi@gmail.com","09036982879","Andokari","Laasi","YES","Current Awardee","","","Appreciate the effort of hillcity foundation"
-"2021/08/09 5:15:52 PM GMT+1","hopeamarachi52@gmail.com","09050587904","Uzochukwu","Goodhope","YES","Current Awardee","","","No"
-"2021/08/09 5:17:29 PM GMT+1","odhitech22@gmail.com","+2347069686383","EBAH","ODEH ISAIAH","YES","Other","","","No"
-"2021/08/09 5:23:53 PM GMT+1","jesuseyijesuleye59@gmail.com","08035209276","Jesuleye","Jesuseyi","YES","Current Awardee","","","I look forward to getting more inspired to achieve my goals, and to learn the process of paying the price for greatness, when and how best to go about it. The Hill City Foundation is a gold mine of knowledge and experience from its various mentors and core team members, and I hungrily desire to learn how they all made it notwithstanding the unfavorable environment they were surrounded with, and to apply this knowledge to succeeding in my career and achieving my Life goals. "
-"2021/08/09 5:25:20 PM GMT+1","collinsfrason87@gmail.com","09039763325","Collins","Nnaemeka","YES","Current Awardee","","","Anticipating"
-"2021/08/09 5:30:27 PM GMT+1","hosea.nkojo@gmail.com","+256 782166459","NKOJO","Hosea","YES","Core Team Member","No","Yes","Looking forward "
-"2021/08/09 5:49:34 PM GMT+1","etimtoroabasi456@yahoo.com","09061813721","Etim","Toroabasi ","YES","Current Awardee","","","I look forward to being   impacted  by  the  speakers that would grace this event.  Thank you. "
-"2021/08/09 5:52:00 PM GMT+1","imadonmwinyiosamagbe@gmail.com","09063145401","Imadonmwinyi","Osamagbe","YES","Current Awardee","","","Thank You Hill city.I look forward to the meeting"
-"2021/08/09 5:52:51 PM GMT+1","okohgregonye@gmail.com","08061264762","Okoh","Greg","YES","Current Awardee","","","None"
-"2021/08/09 6:36:54 PM GMT+1","udochukwugoodluck442@gmail.com","08167668442","UDOCHUKWU","GOODLUCK","YES","Current Awardee","","",""
-"2021/08/09 6:40:52 PM GMT+1","gospeletis@gmail.com","09064366785","John ","Gospel","YES","Current Awardee","","","Looking forward to the life-changing impact the event is going to provide. "
-"2021/08/09 6:44:48 PM GMT+1","faithchioma15@yahoo.com","09030436815","Amogu","Chioma","YES","Current Awardee","","","Hillcity has impacted my life. God bless you"
-"2021/08/09 6:47:07 PM GMT+1","evangvictor52@gmail.com","08104278459","BONIFACE","Victor okorie","YES","Current Awardee","","","Am highly expectant in the upcoming event."
-"2021/08/09 7:02:21 PM GMT+1","agbelayi.esther@gmail.com","+2348171579474","Agbelayi","Esther","YES","Current Awardee","","",""
-"2021/08/09 7:03:46 PM GMT+1","fubarashepherd@gmail.com","08065996545","Fubara","Gift","YES","Current Awardee","","","I'm looking forward to the event because I believe it will be exciting and educative."
-"2021/08/09 7:08:57 PM GMT+1","ucheprecious39@gmail.com","07018923280","Uche","Precious","NO","Other","","",""
-"2021/08/09 7:11:15 PM GMT+1","noromoses@yahoo.com","08167836955","Dagwi","Noro Moses","YES","Current Awardee","","","I might miss the event because of exams"
-"2021/08/09 7:12:13 PM GMT+1","aghamaosagioduwa2@gmail.com","07069238480","AGHAMA ","OSAGIODUWA ","YES","Current Awardee","","","God bless Hillcity foundation "
-"2021/08/09 7:13:13 PM GMT+1","noromoses@yahoo.com","08167836955","Dagwi","Noro Moses","YES","Current Awardee","","","Great impact"
-"2021/08/09 7:35:48 PM GMT+1","idenyiemmanuele@gmail.com","08167597053","IDENYI","EMMANUEL","YES","Current Awardee","","","Thank you for adding value to my life"
-"2021/08/09 7:57:11 PM GMT+1","olamideoduneye@gmail.com","08134044285","Oduneye","Olamide","YES","Current Awardee","","",""
-"2021/08/09 8:16:39 PM GMT+1","geeteeblaze@gmail.com","08076184639","Mark","Godstime","YES","Current Awardee","","","Looking forward to the event"
-"2021/08/09 8:25:46 PM GMT+1","Ayubagarbayaro@gmail.com","09069132619","Garba","Ayuba","YES","Current Awardee","","","I hope the Lord will do us well"
-"2021/08/09 8:59:40 PM GMT+1","amarachifavour612@gmail.com","08167132612","Okorie","Favour","YES","Current Awardee","","","Looking forward for what God has install for me"
-"2021/08/09 9:18:30 PM GMT+1","obandejosephine17@gmail.com","09030079696 ","Obande ","Josephine Emmanuel ","YES","Current Awardee","","",""
-"2021/08/09 10:06:21 PM GMT+1","obilor81@gmail.com","08168301535","OBILOR","EMMANUEL","YES","Current Awardee","","","Thank you Hill City for this privilege"
-"2021/08/09 10:36:51 PM GMT+1","cynthiaamulu@gmail.com","07064735623","Amulu","Cynthia","YES","Current Awardee","","","Thank you."
-"2021/08/09 10:39:08 PM GMT+1","oluwasheyiolawumi@gmail.com","08063580461 ","Olawumi ","Oluwasheyi ","YES","Current Awardee","","","I have been greatly impacted. Thank you, Hillcity Foundation
+2021/08/08 7:57:22 AM GMT+1,ephraimmatex7@gmail.com,7031289168,Mbagwu,Ephraim,YES,Other,,,
+2021/08/14 6:43:59 PM GMT+1,ephraimmatex7@gmail.com,7031289168,Mbagwu,Ephraim,YES,Current Awardee,,,
+2021/08/08 11:25:30 AM GMT+1,eruvy@yahoo.com,8025240066,Obrike,EruViano,YES,Other,,,
+2021/07/30 7:19:03 PM GMT+1,estherejiroghene@gmail.com,7049354687,Ajari,Esther,YES,Current Awardee,,,"No, I do not. "
+2021/08/11 1:29:47 AM GMT+1,estherejiroghene@gmail.com,2.34705E+12,Ajari,Esther,YES,Current Awardee,,,
+2021/08/03 9:48:02 AM GMT+1,etheldred.woha1@ust.edu.ng,8065826143,Woha,Etheldred ,YES,Core Team Member,Yes,Yes,No
+2021/08/14 7:43:13 AM GMT+1,etimtoroabasi456@yahoo.com,9061813721,Etim ,Toroabasi ,YES,Current Awardee,,,I want to get knowledge from the experience of speakers at the event. 
+2021/07/31 1:25:12 PM GMT+1,evangvictor52@gmail.com,8104278459,BONIFACE,Victor,YES,Current Awardee,,,Wow....with full anticipation I await this great transforming event.
+2021/08/09 6:47:07 PM GMT+1,evangvictor52@gmail.com,8104278459,BONIFACE,Victor okorie,YES,Current Awardee,,,Am highly expectant in the upcoming event.
+2021/08/14 1:05:42 PM GMT+1,exentrikadonis@gmail.com,8163824200,idagu,shalom,YES,Graduate Member,,,
+2021/07/30 7:25:12 PM GMT+1,eze.angela.237090@unn.edu.ng,9036219218,EZE,IFEDIBA,YES,Current Awardee,,,"I appreciate HillCity Foundation for helping through this journey. I am so grateful. Words can't really explain how grateful I am. If not for HillCity Foundation, I would have been a school dropout. But here am I marching towards my final year. Chai! I am eternally grateful. Thank you ♥️. "
+2021/08/04 4:59:48 PM GMT+1,eze.angela.237090@unn.edu.ng,9036219218,EZE,IFEDIBA,YES,Current Awardee,,,Thank you HillCity ♥️
+2021/08/10 5:58:30 AM GMT+1,eze.angela.237090@unn.edu.ng,9036219218,EZE,IFEDIBA,YES,Current Awardee,,,Thank you HillCity ♥️
+2021/08/08 2:42:31 PM GMT+1,ezechukwujoseph42@gmail.com,9061910071,Ezechukwu,Chizitere,YES,Current Awardee,,,"Hillcity is touching Life.
+Thanks for this platform.
+I really appreciate."
+2021/08/06 6:23:19 PM GMT+1,faithasho@gmail.com,8051324547,Ashonibare,Faith,YES,Current Awardee,,,No
+2021/07/30 9:17:32 PM GMT+1,faithchioma15@yahoo.com,9030436815,Amogu ,Chioma ,YES,Current Awardee,,,Hill city is really impacting lives. May God bless you all
+2021/08/09 6:44:48 PM GMT+1,faithchioma15@yahoo.com,9030436815,Amogu,Chioma,YES,Current Awardee,,,Hillcity has impacted my life. God bless you
+2021/08/03 10:19:12 AM GMT+1,faithjohnmwabang@gmail.com,8108035899,John,Faith,YES,Current Awardee,,,Thanks for inviting to the program
+2021/08/03 10:23:32 AM GMT+1,faithjohnmwabang@gmail.com,8108035899,John,Faith,YES,Current Awardee,,,Thanks for inviting me to the program
+2021/08/13 10:36:28 PM GMT+1,falavik@gmail.com,8066651919,Falasinnu,Victor,YES,Other,,,
+2021/08/05 7:33:10 PM GMT+1,faviegrace@gmail.com,7068373636,Okpakorese,Oghenenyrhovwo,YES,Current Awardee,,,
+2021/08/13 3:10:41 PM GMT+1,faviegrace@gmail.com,7068373636,Okpakorese,Oghenenyerhovwo,YES,Current Awardee,,,
+2021/07/25 3:11:38 AM GMT+1,favoritegani@gmail.com,8149482608,Irimiya,Shedrach Gani,YES,Graduate Member,,,One of it kind an exceptional program 
+2021/08/12 1:02:53 PM GMT+1,favouryt977@gmail.com,9051430745, Martians Amabipi,Favour,YES,Current Awardee,,,
+2021/07/30 5:32:06 PM GMT+1,felixchally@gmail.com,7031921989,Ozurumba,Charles,YES,Graduate Member,,,
+2021/08/10 11:47:57 AM GMT+1,felixchally@gmail.com,7031921989,Ozurumba,Charles,YES,Graduate Member,,,
+2021/07/22 9:33:05 PM GMT+1,felixorji18@gmail.com,7063109247,Felix,Ifeanyichukwu,YES,Current Awardee,,,
+2021/07/22 9:39:17 PM GMT+1,felixorji18@gmail.com,7063109247,Felix,IfeanyiChukwu,YES,Current Awardee,,,I am anticipating the program.
+2021/07/30 9:37:09 PM GMT+1,felixorji18@gmail.com,O7063109247,Felix,IfeanyiChukwu,YES,Current Awardee,,,Anticipating
+2021/08/09 3:09:02 PM GMT+1,felixorji18@gmail.com,7063109247,Felix,IfeanyiChukwu,YES,Current Awardee,,,Highly anticipating the event.
+2021/08/14 8:40:22 AM GMT+1,felixorji18@gmail.com,7063109247,Felix,IfeanyiChukwu,YES,Current Awardee,,,Anticipating.
+2021/08/06 10:23:52 AM GMT+1,fesek20012004@gmail.com,9037323007,Ekweke,Deborah,YES,Current Awardee,,,I appreciate what Hillcity foundation is doing for me.
+2021/08/10 4:20:24 PM GMT+1,festusali@gmail.com,2.3481E+12,Ali,Festus,YES,Other,,,I would love to attend the event and learn from industry leaders that will be impacting knowledge on the scheduled days.
+2021/08/03 11:20:17 PM GMT+1,filibabdullahi@gmail.com,8189348089,Abdullahi,Filibus,YES,Current Awardee,,,I will like to attend the conference
+2021/08/03 11:22:11 PM GMT+1,filibabdullahi@gmail.com,8189348089,Abdullahi,filibus,YES,Current Awardee,,,I will like to attend the conference
+2021/08/03 11:34:27 PM GMT+1,filibabdullahi@gmail.com,8189348089,Abdullahi,Filibus,YES,Current Awardee,,,I will like to attend the conference
+2021/08/14 6:43:45 AM GMT+1,firimab@gmail.com,9028001524,Firima,Bestman,YES,Current Awardee,,,I'll be attending
+2021/08/10 7:10:05 PM GMT+1,florence.acha.1@gmail.com,8162395946,Acha,Florence ,YES,Graduate Member,,,
+2021/08/02 12:53:49 AM GMT+1,frankcalebquan@gmail.com,8140010683,Frank,Caleb,YES,Current Awardee,,,
+2021/08/03 7:50:04 AM GMT+1,frankcalebquan@gmail.com,8140010683,Frank,Caleb,YES,Current Awardee,,,Really anticipating this year's event
+2021/08/08 8:03:41 PM GMT+1,frankcalebquan@gmail.com,8140010683,Frank,Caleb,YES,Current Awardee,,,I'm really excited to attend this years event
+2021/08/04 7:38:25 AM GMT+1,fridaybeng347@gmail.com,7031857119,DANTALA,FRIDAY BENJAMIN,YES,Current Awardee,,,
+2021/07/31 8:47:13 PM GMT+1,fubarashepherd@gmail.com,8065996545,Fubara,Gift,YES,Current Awardee,,,"I appreciate HillCity for the support to advance my education. I'm looking forward to an exciting, educating and exponentially nice event in August."
+2021/08/09 7:03:46 PM GMT+1,fubarashepherd@gmail.com,8065996545,Fubara,Gift,YES,Current Awardee,,,I'm looking forward to the event because I believe it will be exciting and educative.
+2021/07/30 9:11:44 PM GMT+1,garubameshach@yahoo.com,9038399469,Garuba,Meshach,YES,Current Awardee,,,I really do appreciate the leadership of Hill city foundation for this platform
+2021/07/30 9:14:29 PM GMT+1,garubameshach@yahoo.com,9038399469,Garuba,Meshach,YES,Current Awardee,,,I really do appreciate Hill city foundation for this platform
+2021/08/09 8:16:39 PM GMT+1,geeteeblaze@gmail.com,8076184639,Mark,Godstime,YES,Current Awardee,,,Looking forward to the event
+2021/08/14 12:25:08 PM GMT+1,geeteeblaze@gmail.com,8076184639,Mark,Godstime,YES,Current Awardee,,,Looking forward to manifest this year 2021
+2021/08/08 7:37:37 PM GMT+1,genevivevobotha@gmail.com,8103479034,Obotha-Adigo,Okeoghene,YES,HCF Partner,,,Thank you HillCity Foundation
+2021/07/30 8:30:07 PM GMT+1,getiobhio@yahoo.com,+1 267 670 5966,Etiobhio,Gold,YES,Core Team Member,No,,
+2021/07/30 6:49:04 PM GMT+1,giftedrash@gmail.com,8234833607,Idris,Gift,YES,Current Awardee,,,
+2021/08/08 7:02:21 AM GMT+1,giftedrash@gmail.com,9054417317,Idris,Gift,YES,Current Awardee,,,
+2021/08/09 4:34:46 PM GMT+1,giftedrash@gmail.com,9054417317,Idris,Gift,YES,Current Awardee,,,
+2021/08/03 8:09:25 AM GMT+1,giftthankgod4922@gmail.com,8081054922,ThankGod,Gift,YES,Current Awardee,,,I look forward to attending the meeting
+2021/08/08 7:47:58 AM GMT+1,giftthankgod4922@gmail.com,8081054922,ThankGod,Gift,YES,Current Awardee,,,I look forward to attending the meeting
+2021/08/01 10:16:13 AM GMT+1,gilbertdede@rocketmail.com,8107077921,DEDE,OPUTAMUNO GILBERT,YES,Current Awardee,,,I anticipate the HillCity Manifest Conference. 
+2021/08/01 5:56:34 PM GMT+1,glbrtsrh@gmail.com,8131331368,Gilbert,Sarah,YES,Graduate Member,,,No
+2021/08/01 6:16:31 PM GMT+1,glorychikaodiri0@gmail.com,8112349504,Chikaodiri ,Glory,YES,Current Awardee,,,I will be tgere
+2021/08/09 3:08:57 PM GMT+1,glorychikaodiri0@gmail.com,8112349504,Chikaodiri,Glory,YES,Current Awardee,,,I will be there
+2021/08/07 8:18:28 AM GMT+1,gloryisaac737@gmai.com,7019071904,ISAAC,GLORY,YES,Current Awardee,,,
+2021/08/01 5:04:58 PM GMT+1,godgosjamb@yahoo.com,8108421652,GODWIN,GOSPEL,YES,Current Awardee,,,My year of MANIFEST
+2021/08/01 9:56:26 PM GMT+1,godspowerajah@gmail.com,8084245964,Amor,Godspower,YES,Current Awardee,,,I am hoping for transformation in all facets of my life
+2021/08/11 9:51:06 PM GMT+1,godspowerajah@gmail.com,8084245964,Amor,Godspower,YES,Current Awardee,,,Expecting a transformation in my life 
+2021/08/14 11:48:48 AM GMT+1,godswillopute@gmail.com,7038315952,Opute,Godswill,YES,Graduate Member,,,
+2021/08/12 3:29:18 PM GMT+1,godwinowogoga@ymail.com,8076645487,Akpa,Godwin,YES,Graduate Member,,,Hope for another awesome moment with HCF.
+2021/08/12 3:29:57 PM GMT+1,godwinowogoga@ymail.com,8076645487,Akpa,Godwin,YES,Graduate Member,,,Hope for another awesome moment with HCF.
+2021/08/03 12:53:56 PM GMT+1,gospela30@gmail.com,8149219189,UCHE ,GOSPEL,YES,Current Awardee,,,I will attend
+2021/08/03 1:02:29 PM GMT+1,gospela30@gmail.com,8149219189,UCHE,GOSPEL,YES,Current Awardee,,,I will be there
+2021/07/31 8:41:48 AM GMT+1,gospeletis@gmail.com,9064366785,John,Gospel ,YES,Current Awardee,,,Looking forward to an amazing time of learning during the event. I feel this will be a defining moment as I am about to round off my university education. 
+2021/08/01 7:37:57 AM GMT+1,gospeletis@gmail.com,9064366785,John ,Gospel,YES,Current Awardee,,,
+2021/08/09 6:40:52 PM GMT+1,gospeletis@gmail.com,9064366785,John ,Gospel,YES,Current Awardee,,,Looking forward to the life-changing impact the event is going to provide. 
+2021/08/11 9:59:41 PM GMT+1,goziem2015@gmail.com,8037432041,Opara,Chigozie Francisca,YES,Graduate Member,,,
+2021/08/11 10:05:32 PM GMT+1,goziem2015@gmail.com,8037432041,Opara,Chigozie Francisca,YES,Graduate Member,,,"I look forward to an enriching experience, Hillcity rocks"
+2021/08/02 7:17:15 AM GMT+1,gray8onna@gmail.com,8037246508,Oriaku,Ogonna,YES,Core Team Member,No,No,
+2021/08/06 6:37:46 AM GMT+1,habeebmusakfr@gmail.com,8126624874,Habibu,Musa,YES,Current Awardee,,,Willing to attend the conference
+2021/08/09 11:55:09 PM GMT+1,habeebmusakfr@gmail.com,8126624874,HABIBU,MUSA,NO,Current Awardee,,,NO
+2021/08/06 9:25:11 PM GMT+1,hannahmicah192@gmail.com,8187670249,Micah,Hannah,YES,Current Awardee,,,No
+2021/08/09 12:54:05 PM GMT+1,happichiemerie@gmail.com,8061394308,Onyebueke,Happiness,YES,Graduate Member,,,I would love to volunteer for any work that might be needed to do during the program as a way of saying thank you to hillcity foundation! 
+2021/08/09 5:15:52 PM GMT+1,hopeamarachi52@gmail.com,9050587904,Uzochukwu,Goodhope,YES,Current Awardee,,,No
+2021/08/09 5:30:27 PM GMT+1,hosea.nkojo@gmail.com,+256 782166459,NKOJO,Hosea,YES,Core Team Member,No,Yes,Looking forward 
+2021/08/04 7:15:21 AM GMT+1,hyshekwo@gmail.com,8096522012,Bulus,Emmanuel Hyshekwo,YES,Current Awardee,,,No
+2021/08/14 7:56:08 PM GMT+1,ibrahimabdul505@gmail.com,8105519075,ABDULAZEEZ ,IBRAHIM ,YES,Other,,,
+2021/07/30 6:58:36 PM GMT+1,idenyiemmanuele@gmail.com,8167597053,IDENYI,EMMANUEL,YES,Current Awardee,,,Thank you for adding life to me
+2021/08/06 10:07:04 AM GMT+1,idenyiemmanuele@gmail.com,8167597053,Idenyi,Emmanuel,YES,Current Awardee,,,
+2021/08/09 7:35:48 PM GMT+1,idenyiemmanuele@gmail.com,8167597053,IDENYI,EMMANUEL,YES,Current Awardee,,,Thank you for adding value to my life
+2021/08/08 11:22:55 AM GMT+1,idowuisrael@yahoo.com,8162016913,AKEREJAH,ISRAEL,YES,Current Awardee,,,I look forward to a great event that will change my life positively. God bless HillCity Foundation
+2021/08/09 10:51:03 AM GMT+1,idrissophia03@gmail.com,9035886105,Idris,Sophia,NO,Other,,,
+2021/08/09 11:13:38 AM GMT+1,idrissophia03@gmail.com,9035886105,Idris,Sophia,YES,Other,,,
+2021/08/09 10:52:47 AM GMT+1,idrissophoa03@gmail.com,9035886105,idris,sophia,NO,Other,,,Look
+2021/08/06 12:07:16 AM GMT+1,ihiabechubiyo@gmail.com,9034956607,IHIABE,CHUBIYO,YES,Current Awardee,,,"May the lord bless Hillcity for allowing God to make my education possible through them 
 "
-"2021/08/09 11:17:10 PM GMT+1","peaceuchenna841@gmail.com","08155747389","Oko","Peace ","YES","Current Awardee","","","Thank you hillcity for all you do."
-"2021/08/09 11:41:33 PM GMT+1","jj393928@gmail.com","09060035983","Menyanga","Racheal","YES","Current Awardee","","",""
-"2021/08/09 11:45:32 PM GMT+1","uzorire@gmail.com","08130405886","Irechukwu","Uzoma","YES","Graduate Member","","","No"
-"2021/08/09 11:55:09 PM GMT+1","habeebmusakfr@gmail.com","08126624874","HABIBU","MUSA","NO","Current Awardee","","","NO"
-"2021/08/10 12:00:50 AM GMT+1","azokamchi@ymail.com","08032912330","Eze","Chiazokam","YES","Core Team Member","Yes","Yes","None for now"
-"2021/08/10 12:38:27 AM GMT+1","drmaxycarter@gmail.com","08186394840","James","Ejike","YES","Current Awardee","","","I look forward to the best through this event and its process of life changing opportunities......I shall manifest."
-"2021/08/10 1:09:51 AM GMT+1","jacobsamuel2958@gmail.com","09086589031","Nwaneche","Samuel","YES","Other","","","Yes oh
-I can't wait to come closer and learn more about this HCF"
-"2021/08/10 1:34:49 AM GMT+1","emmanuel.okon23@yahoo.co.uk","08167076066","Okon","Emmanuel","YES","Current Awardee","","",""
-"2021/08/10 3:43:49 AM GMT+1","osaking2000@yahoo.com","08020522679","OSAGIE","Kingsley","YES","Core Team Member","Yes","Yes","Joining the event physical is tentative."
-"2021/08/10 4:04:48 AM GMT+1","odofin4tunrayo@gmail.com","09029904381","Odofin ","Motunrayo ","YES","Current Awardee","","",""
-"2021/08/10 5:58:30 AM GMT+1","eze.angela.237090@unn.edu.ng","09036219218","EZE","IFEDIBA","YES","Current Awardee","","","Thank you HillCity ♥️"
-"2021/08/10 6:18:38 AM GMT+1","sifonibok10@gmail.com","07010740733","Ibok","Sifon","YES","Current Awardee","","","Looking forward to this great experience. "
-"2021/08/10 6:25:00 AM GMT+1","okebugwuella@gmail.com","08167653007","Okebugwu","Ifechimerem","YES","Current Awardee","","","None"
-"2021/08/10 7:09:07 AM GMT+1","victoriaonyiclassic1@yahoo.com","08143968812","Orji","Chiamaka Victoria ","YES","Current Awardee","","",""
-"2021/08/10 7:58:10 AM GMT+1","sochimaokafor5@gmail.com","08162999117","Okafor","Sochima","YES","Other","","","I look forward to witnessing this wonderful event
+2021/07/31 2:08:09 PM GMT+1,ikechukwualoysius30@gmail.com,8159792712,Itumo,Aloysius,YES,Current Awardee,,,No
+2021/08/14 3:28:31 PM GMT+1,ikechukwualoysius30@gmail.com,8159792712,Itumo,Aloysius,YES,Current Awardee,,,No
+2021/07/23 10:03:20 AM GMT+1,ikechukwuobisike@gmail.com,8109671739,OBISIKE,IKECHUKWU,YES,Other,,,
+2021/07/29 5:41:45 AM GMT+1,iloanusichukwuagoziem@gmail.com,8168778293,Iloanusi,Chukwuagoziem,YES,Other,,,
+2021/08/06 7:53:25 PM GMT+1,ilohikenna.v@gmail.com,7061035612,ILOH,Ikenna,YES,Graduate Member,,,
+2021/08/03 1:46:13 AM GMT+1,imadonmwinyiosamagbe@gmail.com,9063145401,Imadonmwinyi,Osamagbe,YES,Current Awardee,,,No
+2021/08/09 5:52:00 PM GMT+1,imadonmwinyiosamagbe@gmail.com,9063145401,Imadonmwinyi,Osamagbe,YES,Current Awardee,,,Thank You Hill city.I look forward to the meeting
+2021/08/03 5:32:20 AM GMT+1,imefoneshiet@gmail.com,9070672232,Eshiet,Imefon,YES,Current Awardee,,,Hillcity's conferences have been far different from other conferences in creation of mental and life impact. Bravo!!!
+2021/08/12 1:10:27 PM GMT+1,imefoneshiet@gmail.com,9070672232,Eshiet,Imefon,YES,Current Awardee,,,
+2021/08/08 10:23:54 PM GMT+1,immaculatenamubiru08@gmail.com,750128000,NAMUBIRU,IMMACULATE,YES,Current Awardee,,,I'm so grateful to hill city foundation for making it possible for me to study and archive my dreams
+2021/08/08 10:26:03 PM GMT+1,immaculatenamubiru08@gmail.com,750128000,NAMUBIRU,IMMACULATE,YES,Current Awardee,,,I am so grateful to hill city foundation for making it possible for me to study and archive my dreams 
+2021/08/07 7:28:15 PM GMT+1,in2cent@gmail.com,2.34704E+12,Amanum ,Innocent ,YES,Graduate Member,,,
+2021/08/02 9:39:06 AM GMT+1,inahalicejames@gmail.com,8117214848,Inah,Alice,YES,Graduate Member,,,"Greatful to our Lead coordinator , all the core team members , opal Hillcity partners and all the graduate members may God keep us all strong till the event day"
+2021/08/10 4:04:41 PM GMT+1,inahalicejames@gmail.com,8117214848,Inah,Alice,YES,Graduate Member,,,Kindly  include medics in our event & jobs searc as a  Medical Radiographer 
+2021/08/08 2:43:22 PM GMT+1,isaacesther1999@yahoo.com,9020587184,Isaac,Esther,YES,Current Awardee,,,I do not receive messages about the program. I get updates from my sister 
+2021/08/08 7:52:01 AM GMT+1,isaacoluwanifemi@gmail.com,8103206066,Isaac,Oluwanifemi,YES,Current Awardee,,,I am looking forward to this year's event because I am sure it would be inspiring and impactful 
+2021/08/14 3:49:35 PM GMT+1,isaacoluwanifemi@gmail.com,8103206066,Isaac,Oluwanifemi,YES,Current Awardee,,,I am looking forward to the HCF 2021 event 
+2021/08/13 5:40:38 PM GMT+1,isahmustapha17@gmail.com,8101066189,Isah,Mustapha,YES,Current Awardee,,,Yes sir 
+2021/08/04 3:05:45 AM GMT+1,isahsaratu@gmail.com,7061331407,Isah,Saratu,YES,Current Awardee,,,I will be glad to attend the program
+2021/08/03 1:32:20 PM GMT+1,iseletare@gmail.com,9073841416,Isele,Maryann,YES,Current Awardee,,,Thank you
+2021/08/05 11:29:24 AM GMT+1,ishayablssng@gmail.com,8165102424,Ishaya,Blessing,YES,Current Awardee,,,God Bless hillcity foundation
+2021/08/03 7:45:35 PM GMT+1,ishayaj8@gmail.com,7060983622,Jonathan ,Ishaya kenipee ,YES,Current Awardee,,,May God bless your good work in Jesus name Amen 
+2021/08/03 9:46:17 AM GMT+1,ishayamajidadi@gmail.com,8133449663,Nasara Majidadi,Ishaya,YES,Current Awardee,,,"Am glad to be part of this great of occasion, may the Lord bless you and help us thanks."
+2021/07/30 5:24:26 PM GMT+1,Itumsamuel@gmail.com,8060682838,Samuel,Itum,YES,Graduate Member,,,I look forward to this epoch event
+2021/08/10 12:54:23 PM GMT+1,Itumsamuel@gmail.com,8060682838,Samuel,Itum,YES,Graduate Member,,,
+2021/07/31 5:32:42 PM GMT+1,ityavungwanen@gmail.com,7057532575,ITYAV,UNGWANEN,YES,Current Awardee,,,"Contacting Hillcity foundation is the best thing that ever happened to me. Long live Hillcity foundation, God bless Hillcity foundation Members, officials, volunteers and everyone connected to HCF. Amen."
+2021/07/30 9:20:45 PM GMT+1,iwokabasifrekeofonime@yahoo.com,8082449721,Monday ,Abasifreke,YES,Current Awardee,,,"Hillcity foundation is a good place to be and I'm ready to be a participant of this year's event ""MANIFEST"""
+2021/08/10 10:09:42 PM GMT+1,iwokabasifrekeofonime@yahoo.com,8082449721,Monday,Abasifreke,YES,Current Awardee,,,I'm expecting the best since Hillcity offers the best. 
+2021/08/14 6:36:57 PM GMT+1,jacobsamuel2958@gmail.com,9086589031,Nwaneche,Samuel,YES,Current Awardee,,,I'm very much happy to be among the participants
+2021/07/30 5:26:06 PM GMT+1,jafarusange@gmail.com,8107256551,Ibrahim,Jafaru,YES,Graduate Member,,,
+2021/08/07 10:04:45 AM GMT+1,jameschukwu11@yahoo.com,2.34819E+12,Chukwu,James,YES,Current Awardee,,,"I'm anticipating this year event as last year was superb, I can't wait to be impacted from great men and women. Thank you Hillcity for the opportunity granted me. "
+2021/08/14 10:47:02 PM GMT+1,jameschukwu11@yahoo.com,8187931213,Chukwu,James,YES,Current Awardee,,,"DARE last year was a success and also impactful but ths year, MANIFEST is one I can't afford to miss. "
+2021/08/03 10:16:00 AM GMT+1,janetsamaila@gmail.com,8087537193,Samaila,Susan,YES,Current Awardee,,,
+2021/08/03 10:02:33 AM GMT+1,janetsamaila70@gmail.com,8087537193,Samaila,Susan ,YES,Current Awardee,,,
+2021/08/04 1:45:25 PM GMT+1,janetukaegbu@gmail.com,7011925662,Ikwuonwu ,Janet,YES,Current Awardee,,,I look forward to attend the program and I hope to learn a lot
+2021/08/04 1:46:02 PM GMT+1,janetukaegbu@gmail.com,7011925662,Ikwuonwu ,Janet,YES,Current Awardee,,,I look forward to attend the program and I hope to learn a lot
+2021/08/08 11:48:02 AM GMT+1,jessedielsoem@gmail.com,7031883759,Dielsoem,Jesse,YES,Current Awardee,,,Am so grateful to be part of the team and may God bless Hillcity
+2021/08/15 5:31:03 PM GMT+1,jessedielsoem@gmail.com,7031883759,DIELSOEM,JESSE,YES,Current Awardee,,,Indeed am very very happy to be part of this year event.my God will bless HCT Foundation for me.THANKS. 
+2021/08/09 5:23:53 PM GMT+1,jesuseyijesuleye59@gmail.com,8035209276,Jesuleye,Jesuseyi,YES,Current Awardee,,,"I look forward to getting more inspired to achieve my goals, and to learn the process of paying the price for greatness, when and how best to go about it. The Hill City Foundation is a gold mine of knowledge and experience from its various mentors and core team members, and I hungrily desire to learn how they all made it notwithstanding the unfavorable environment they were surrounded with, and to apply this knowledge to succeeding in my career and achieving my Life goals. "
+2021/08/01 12:27:19 PM GMT+1,jj393928@gmail.com,9060035983,Menyanga,Racheal,YES,Current Awardee,,,
+2021/08/08 7:38:52 AM GMT+1,jj393928@gmail.com,0906 003 5983,Menyanga,Racheal,YES,Current Awardee,,,
+2021/08/09 11:41:33 PM GMT+1,jj393928@gmail.com,9060035983,Menyanga,Racheal,YES,Current Awardee,,,
+2021/08/07 6:07:35 PM GMT+1,joel.musa@gmail.com,7062914478,Musa,Joel,YES,Core Team Member,No,Yes,Great appreciation and commendation to the organizing team. God bless you all
+2021/08/12 12:34:50 AM GMT+1,johnoliva456@gmail.com,7050351169,Oliva,John,YES,Other,,,I look forward to having a knowledge filled session
+2021/08/03 9:43:56 AM GMT+1,johnomeyiza@gmail.com,8140238853,John,Michael,YES,Current Awardee,,,
+2021/08/03 2:26:57 PM GMT+1,Johntrinx007@gmail.com,9032400963,John,Victor,YES,Current Awardee,,,
+2021/07/31 10:59:54 AM GMT+1,joneslove123456y1@gmail.com,8051173115,Jones,Love,YES,Current Awardee,,,I love Hillcity family ❤
+2021/08/12 7:39:48 AM GMT+1,joneslove123456y1@gmail.com,9067096670,Jones ,Love,YES,Current Awardee,,,I love Hillcity family 
+2021/08/04 7:28:55 AM GMT+1,josphineamaka19@gmail.com,9099603437,ANOMIHE,Chiamaka,YES,Current Awardee,,,I will be looking forward to the event 
+2021/07/31 8:36:38 PM GMT+1,judedashe@gmail.com,7051272802,Dashe,Jude,YES,Current Awardee,,,"I really appreciate your efforts,hillcityfounfation have  help me and my family.God bless hillcityfounfation God bless admin."
+2021/08/08 3:00:22 PM GMT+1,juliusokeowo8@gmail.com,7086691260,Okeowo,Julius,YES,Current Awardee,,,
+2021/07/30 7:57:01 PM GMT+1,justinraphael.2706@gmial.com ,Justin,Arizie,Justin,YES,Other,,,no
+2021/08/08 9:52:09 PM GMT+1,kalumiracle74@gmail.com,23491475088,Kalu,Miracle,YES,Graduate Member,,,Am happy to part of this great family
+2021/08/02 9:24:37 AM GMT+1,katecoolamadi1@gmail.com,8140724261,Amadi,Catherine,YES,Current Awardee,,,
+2021/08/12 7:53:28 AM GMT+1,kenechukwuenem5869@gmail.com,7066897268,Enem,Kenechukwu,YES,Graduate Member,,,I want to add value to my self and learn more about leadership 
+2021/08/13 10:35:56 AM GMT+1,kenechukwuenem5869@gmail.com,2.34707E+12,Enem,Kenechukwu,YES,Other,,,
+2021/08/03 1:43:01 PM GMT+1,kennethejukorlem@gmail.com,9020003084,Ejukorlem,Kenneth,YES,Current Awardee,,,
+2021/07/30 7:13:51 PM GMT+1,kennethisrael108@gmail.com,8102504290,Kenneth,Israel Aguiyi,YES,Current Awardee,,,God bless HillCity
+2021/08/11 10:47:26 AM GMT+1,kennethokezie900@gmail.com,8025599597,Adiele,Kenneth,YES,Other,,,"I believe this even will be blessing to me, so I'll be in attendance. "
+2021/08/03 10:40:41 AM GMT+1,kevinyaks205.ky@gmail.com,7013619374,Yakubu,Kevin,YES,Current Awardee,,,No
+2021/07/26 8:18:44 PM GMT+1,khalidsani001@gmail.com,8101210249,Sani,Khalid,YES,Graduate Member,,,Wishing a well and successful program. Kudos to HCF
+2021/08/08 11:10:46 AM GMT+1,kiviasamuel@gmail.com,kiviasamuel@gmail.com,Uzoma ,Covenant ,YES,Current Awardee,,,
+2021/08/06 6:08:17 PM GMT+1,koshabagrace6@gmail.com,758579264,Koshaba,Grace,YES,Current Awardee,,,I really have no comment but I would like to say thank you to the hillcity family for loving and accepting me just as I am. You have given me hope so oo oo deep and I pray for you always so that all your dreams come true just like you are helping to make mine come true. God bless you all. 
+2021/08/09 8:57:13 AM GMT+1,koshabagrace6@gmail.com,758579264,KOSHABA,GRACE,YES,Current Awardee,,,
+2021/07/30 7:12:40 PM GMT+1,kprakedaniel0@gmail.com,2.34904E+12,Kprake,Daniel,YES,Graduate Member,,,
+2021/08/12 4:53:41 PM GMT+1,lawaltosin17@gmail.com,9024936591,Lawal,Oluwatosin ,NO,Current Awardee,,,No
+2021/07/30 10:08:05 PM GMT+1,lewechi80@gmail.com,8130586311,Lewechi,Chukwuemeka,YES,Current Awardee,,,I look forward to this event 
+2021/08/08 7:32:28 AM GMT+1,lewechi80@gmail.com,8130586311,Lewechi,Chukwuemeka,YES,Current Awardee,,,Thank you HCF 
+2021/08/09 4:21:30 PM GMT+1,lewechi80@gmail.com,8130586311,Lewechi,Chukwuemeka ,YES,Current Awardee,,,"Thank you HCF, am looking forward to this event. "
+2021/07/31 8:40:30 AM GMT+1,lexuxvinny14@gmail.com,7035572807,Ocheze,Vincent,YES,Current Awardee,,,
+2021/08/14 12:43:57 PM GMT+1,linuxchinasa6@gmail.com,9066376714,Anyaegbu ,Deborah Chinasa,YES,Current Awardee,,,No comment for now tnxz..
+2021/07/31 10:04:51 PM GMT+1,loisjoshua17@gmail.com,9079800775,Joshua,Lois,YES,Current Awardee,,,No
+2021/07/31 10:05:24 PM GMT+1,loisjoshua17@gmail.com,9079800775,Joshua,Lois,YES,Current Awardee,,,No
+2021/07/31 10:10:20 PM GMT+1,loisjoshua17@gmail.com,9079800775,Joshua,Lois,YES,Current Awardee,,,No
+2021/08/10 2:55:42 PM GMT+1,loisjoshua17@gmail.com,9079800775,Joshua,Lois,YES,Current Awardee,,,No
+2021/07/31 7:04:02 AM GMT+1,loveamarachi4@gmail.com,8034492869,Ugwuezema,Lovelyn,YES,Current Awardee,,,The aura oozing from this year's theme is powerful. Power to HCF!
+2021/08/06 5:26:18 PM GMT+1,loveamarachi4@gmail.com,8034492869,Ugwuezema,Lovelyn,YES,Current Awardee,,,HCF has been helping a lot of students manifest when all hope seemed lost. Glory!
+2021/08/03 1:41:34 PM GMT+1,lydiaesene@gmail.com,7036301816,Esene,Lydia,YES,Graduate Member,,,
+2021/07/31 7:20:39 AM GMT+1,ma.vicalex057@gmail.com,8111748601,Ojim,Victor,YES,Current Awardee,,,
+2021/08/14 12:32:35 AM GMT+1,ma.vicalex057@gmail.com,8111748601,Ojim,Victor,YES,Current Awardee,,,
+2021/08/14 4:47:29 PM GMT+1,makerie4@gmail.com,8106286907,MAKERI,EMMANUEL,YES,Other,,,"This is a great work to success going on here, unfortunately many of us don't know about it."
+2021/08/10 12:20:26 PM GMT+1,makyzconcept@gmail.com,2.34816E+12,Jonathan,Chiamaka,YES,Other,,,No 
+2021/08/06 3:20:30 PM GMT+1,marvelousugbaje@yahoo.com,7032178649,Ugbaje,Marvelous,YES,Current Awardee,,,"So far so good Hcf has been so impactful to me academically  and business otherwise. I  want to say a big thank you to Hill city foundation. 
 "
-"2021/08/10 8:13:11 AM GMT+1","oladipoabdulmaleekolaitan@gmail.com","09025068570","Oladipo","Abdulmaleek","YES","Current Awardee","","",""
-"2021/08/10 9:03:42 AM GMT+1","oghenetejiriemonena@gmail.com","08122497817","Emonena","Oghenetejiri","YES","Current Awardee","","","Thank you for the award."
-"2021/08/10 9:22:25 AM GMT+1","okorojeremiah123@gmail.com","08089915780","Okoro","Jeremiah","YES","Current Awardee","","","Anticipating an impactful event. "
-"2021/08/10 9:37:30 AM GMT+1","thankgodubengama2019@gmail.com","09022626468","Ubengama","ThankGod","YES","Current Awardee","","","No"
-"2021/08/10 9:49:11 AM GMT+1","chukwunekeikechukwu@yahoo.com","08065882923","Chukwuneke","Ikechukwu","YES","Current Awardee","","",""
-"2021/08/10 10:49:40 AM GMT+1","ayodeleojoadebayo@gmail.com","+2348055097556","Adebayo","Ayo","YES","Core Team Member","No","Yes",""
-"2021/08/10 10:50:26 AM GMT+1","vinebranchinvestmentsa@gmail.com","+27833348728","Edwin","Chimaobi","YES","Core Team Member","No","No",""
-"2021/08/10 11:32:03 AM GMT+1","chidilucky533@gmail.com","08135054233","Ephraim ","Chidi","YES","Current Awardee","","","Expecting to have a wonderful session "
-"2021/08/10 11:34:34 AM GMT+1","chidilucky533@gmail.com","08135054233","Ephraim ","Chidi","YES","Current Awardee","","","Expecting an impactful event"
-"2021/08/10 11:47:57 AM GMT+1","felixchally@gmail.com","07031921989","Ozurumba","Charles","YES","Graduate Member","","",""
-"2021/08/10 11:48:31 AM GMT+1","eliotchukwuwikeosagwu@gmail.com","08032875673","OSAGWU","ELLIOT","YES","Current Awardee","","","I hope to be imparted at the event"
-"2021/08/10 12:20:26 PM GMT+1","makyzconcept@gmail.com","+2348161365422","Jonathan","Chiamaka","YES","Other","","","No "
-"2021/08/10 12:48:05 PM GMT+1","sandraonyenwere72@gmail.com","07035629272","Onyenwere","Oluchi","YES","Graduate Member","","","Thanks"
-"2021/08/10 12:54:23 PM GMT+1","Itumsamuel@gmail.com","08060682838","Samuel","Itum","YES","Graduate Member","","",""
-"2021/08/10 12:58:25 PM GMT+1","dboylaww@gmail.com","08067978071","Lawrence","Ubong","YES","Core Team Member","Yes","No","I'm not very certain yet of not being available for Friday"
-"2021/08/10 1:24:04 PM GMT+1","rollybest1996@gmail.com","09032831166","OKO","ROLLAND","YES","Current Awardee","","","Looking forward to gain more knowledge "
-"2021/08/10 2:14:51 PM GMT+1","talbortfranklin2019@gmail.com","07012346707","TALBORT","FRANKLYN","YES","Current Awardee","","","I will not miss the event."
-"2021/08/10 2:33:57 PM GMT+1","nwangburukachristian@gmail.com","08037673201","Nwangburuka ","Christian ","YES","Current Awardee","","","No"
-"2021/08/10 2:39:56 PM GMT+1","vic3.ize@gmail.com","08166549074","Izegaegbe","Victory ","YES","Graduate Member","","",""
-"2021/08/10 2:55:42 PM GMT+1","loisjoshua17@gmail.com","09079800775","Joshua","Lois","YES","Current Awardee","","","No"
-"2021/08/10 3:18:08 PM GMT+1","nwoghachinedu108@gmail.com","09033830140","Nwogha","Chinedu Moses","YES","Current Awardee","","","Thank you HILLCITY"
-"2021/08/10 3:56:37 PM GMT+1","chinonsodavid@gmail.com","08036482252","Nwosu","Chinonso","YES","Graduate Member","","",""
-"2021/08/10 4:00:23 PM GMT+1","osiogah218@gmail.com","07037810968","Ogah","Osinachi","YES","Current Awardee","","",""
-"2021/08/10 4:03:36 PM GMT+1","naihkore@yahoo.com","08131021846","Mojafu-Ekpang","Naihkore","YES","Current Awardee","","","I am Hoping for the Best as Usual. Thank You. "
-"2021/08/10 4:04:41 PM GMT+1","inahalicejames@gmail.com","08117214848","Inah","Alice","YES","Graduate Member","","","Kindly  include medics in our event & jobs searc as a  Medical Radiographer "
-"2021/08/10 4:20:24 PM GMT+1","festusali@gmail.com","+2348100383180","Ali","Festus","YES","Other","","","I would love to attend the event and learn from industry leaders that will be impacting knowledge on the scheduled days."
-"2021/08/10 4:45:59 PM GMT+1","saritachomzy@gmail.com","09067553139","OBI-OGWAH","SARAH","YES","Current Awardee","","",""
-"2021/08/10 4:49:14 PM GMT+1","saritachomzy@gmail.com","09067553139","OBI-OGWAH","SARAH ","YES","Current Awardee","","","Being part of the Hill city foundation program is a very big help to me as a student."
-"2021/08/10 4:58:38 PM GMT+1","babangeedausman@gmail.com","07063392940","Aminu","Usman Usman","YES","Current Awardee","","","Sir coming to this event is under probability because am currently doing my IT(SIWES) in katsina state. Moreover, i have to go to work on friday so that i could be mark present on that day(20th August). Living katsina on saturday(21st August) and arriving to abuja it will be delay because from katsina to Abuja is almost 8hours, i will miss the saturday event also"
-"2021/08/10 5:36:17 PM GMT+1","osagie.florence@tlfarms.ng","08020522649","Osagie","Florence","YES","Core Team Member","No","No","No"
-"2021/08/10 5:53:31 PM GMT+1","ebetosin@gmail.com","08097036651","Ojo","Ebenezer ","YES","Other","","","I would love to thank Hillcity foundation for creating an avenue like this to help students to achieve their dreams while in school. May God continually bless you."
-"2021/08/10 6:21:55 PM GMT+1","odiliodili3@gmail.com","08160863613","Odili","Chekwube","YES","Current Awardee","","",""
-"2021/08/10 6:42:10 PM GMT+1","buoroayokunle@gmail.com","08106111310","Buoro","Samuel","YES","Current Awardee","","","No"
-"2021/08/10 7:00:19 PM GMT+1","amutuheiremarx@gmail.com","0754044157","Amutuheire","Marx","YES","Current Awardee","","","No"
-"2021/08/10 7:10:05 PM GMT+1","florence.acha.1@gmail.com","08162395946","Acha","Florence ","YES","Graduate Member","","",""
-"2021/08/10 8:11:36 PM GMT+1","okolojonathan92@gmail.com","08054415983","Okolo","Jonathan","YES","Current Awardee","","","Hillcity has been a blessing.."
-"2021/08/10 10:09:42 PM GMT+1","iwokabasifrekeofonime@yahoo.com","08082449721","Monday","Abasifreke","YES","Current Awardee","","","I'm expecting the best since Hillcity offers the best. "
-"2021/08/11 1:29:47 AM GMT+1","estherejiroghene@gmail.com","+2347049354687","Ajari","Esther","YES","Current Awardee","","",""
-"2021/08/11 4:41:59 AM GMT+1","aniekpenosunday37@gmail.com","08155507570","Tom","Aniekpeno","YES","Current Awardee","","","God bless Hill City Foundation"
-"2021/08/11 5:49:11 AM GMT+1","blessedaghogho@gmail.com","09093304641","Omoghene ","Blessed ","YES","Current Awardee","","","It's been a great journey being a part of hillcity. I will share my testimony soon."
-"2021/08/11 7:50:35 AM GMT+1","uchechukwu2027@yahoo.com","09066331571","Ogbodo","Charles Uchechukwu","YES","Other","","","It is a thing of Joy, to be given the Privilege to participate in such a wonderful event. I look forward to learning from this. I am really very appreciative of this opportunity. Thank you Hillcity Foundation. "
-"2021/08/11 10:06:56 AM GMT+1","oyemeda85@gmail.com","09155288037","Oyameda","Promise","YES","Current Awardee","","",""
-"2021/08/11 10:47:26 AM GMT+1","kennethokezie900@gmail.com","08025599597","Adiele","Kenneth","YES","Other","","","I believe this even will be blessing to me, so I'll be in attendance. "
-"2021/08/11 4:10:09 PM GMT+1","melodyuzozie2@gmail.com","08025459310","Uzozie ","Melody ","YES","Current Awardee","","","Special applications to the hillcity family "
-"2021/08/11 4:30:16 PM GMT+1","pioussylvanus1@gmail.com","08088465092","Sylvanus","Soseipriala","YES","Current Awardee","","","It's been two amazing years With HillCity and I look forward to gaining more insight and knowledge during this year's event."
-"2021/08/11 6:09:08 PM GMT+1","ejewoka274@gmail.com","07015967821","Eje","Woka","YES","Other","","","No"
-"2021/08/11 7:26:47 PM GMT+1","abrahamlinus208@yahoo.com","08101190007","Linus","Abraham","YES","Current Awardee","","","Hill city, impacting lives and generations. "
-"2021/08/11 7:31:36 PM GMT+1","abrahamlinus208@yahoo.com","08101190007","Linus","Abraham","YES","Current Awardee","","","Thanks to hill city foundation. "
-"2021/08/11 8:28:01 PM GMT+1","bridgetgold2016@gmail.com","08037032684","Ndukwe","Bridget","YES","Current Awardee","","",""
-"2021/08/11 8:44:17 PM GMT+1","damolasoares@gmail.com","08063786315","Soares","Oladamola","YES","Core Team Member","Yes","Yes","I anticipate a great event"
-"2021/08/11 8:46:34 PM GMT+1","orevaobotha@gmail.com","08136627568","Obotha-Adigo","Orevaoghene","YES","Core Team Member","Yes","Yes","I anticipate a great Event"
-"2021/08/11 9:51:06 PM GMT+1","godspowerajah@gmail.com","08084245964","Amor","Godspower","YES","Current Awardee","","","Expecting a transformation in my life "
-"2021/08/11 9:54:03 PM GMT+1","noromoses@yahoo.com","08167836955","Dagwi","Noro Moses","YES","Current Awardee","","","Great people"
-"2021/08/11 9:56:42 PM GMT+1","awoeu234@gmail.com","09121369803 ","Awo","Eunice ","YES","Current Awardee","","",""
-"2021/08/11 9:59:41 PM GMT+1","goziem2015@gmail.com","08037432041","Opara","Chigozie Francisca","YES","Graduate Member","","",""
-"2021/08/11 10:05:32 PM GMT+1","goziem2015@gmail.com","08037432041","Opara","Chigozie Francisca","YES","Graduate Member","","","I look forward to an enriching experience, Hillcity rocks"
-"2021/08/11 10:12:52 PM GMT+1","chinecheremiloh28@yahoo.com","08163978845","ILOH","Chinecherem","YES","Current Awardee","","",""
-"2021/08/11 10:14:09 PM GMT+1","chinecheremiloh28@yahoo.com","08163978845","ILOH","Chinecherem","YES","Current Awardee","","",""
-"2021/08/11 10:20:56 PM GMT+1","raymondraphael321@gmail.com","+2349083363654","Aworo","Raymond","YES","Current Awardee","","","No"
-"2021/08/12 12:01:29 AM GMT+1","adeleyedsegun@gmail.com","+2348102670801","Adeleye","Ademiku","YES","Current Awardee","","","With no doubts, the event promises to manifest greatness!"
-"2021/08/12 12:34:50 AM GMT+1","johnoliva456@gmail.com","07050351169","Oliva","John","YES","Other","","","I look forward to having a knowledge filled session"
-"2021/08/12 12:52:16 AM GMT+1","ekomdaniel64@gmail.com","08134563675","Essien","Ekomobong","YES","Current Awardee","","","No"
-"2021/08/12 5:26:25 AM GMT+1","chineyoguadinma@gmail.com","+2348136186321","Oguadinma","Chinenye","YES","Current Awardee","","",""
-"2021/08/12 5:27:38 AM GMT+1","chineyoguadinma@gmail.com","+2348136186321","Oguadinma","Chinenye","YES","Current Awardee","","",""
-"2021/08/12 6:15:20 AM GMT+1","onyinyechinwankwegu@gmail.com","07060878919","Nwankwegu","Onyinyechi","YES","Current Awardee","","","Am grateful to God for rendering me help through Hillcity Foundation"
-"2021/08/12 6:27:41 AM GMT+1","robinrul781227@gmail.com","08138618984","Okon","Paulinus","YES","Current Awardee","","",""
-"2021/08/12 7:39:48 AM GMT+1","joneslove123456y1@gmail.com","09067096670 ","Jones ","Love","YES","Current Awardee","","","I love Hillcity family "
-"2021/08/12 7:53:28 AM GMT+1","kenechukwuenem5869@gmail.com","07066897268","Enem","Kenechukwu","YES","Graduate Member","","","I want to add value to my self and learn more about leadership "
-"2021/08/12 7:53:57 AM GMT+1","chukwusamson94@gmail.com","08082688246","Chukwu","Samson","YES","Current Awardee","","",""
-"2021/08/12 8:05:36 AM GMT+1","sunny4official@gmail.com","08168722372","Nwovu","Sunday","YES","Current Awardee","","",""
-"2021/08/12 8:50:05 AM GMT+1","ujongbassey61@gmail.com","08109343002","Ujong","Bassey","YES","Current Awardee","","","The  registration process is such an easy one "
-"2021/08/12 9:10:08 AM GMT+1","linuxchinasa6@gmail.com","09066376714","Anyaegbu Chinasa","Deborah","YES","Other","","","I wanted to ask if Something actually came up on the day of the event and for some reason I couldn't make it, Would it anything?"
-"2021/08/12 10:59:47 AM GMT+1","okolojonathan92@gmail.com","0805441598","OKOLO","Jonathan","YES","Current Awardee","","",""
-"2021/08/12 1:02:53 PM GMT+1","favouryt977@gmail.com","09051430745"," Martians Amabipi","Favour","YES","Current Awardee","","",""
-"2021/08/12 1:10:27 PM GMT+1","imefoneshiet@gmail.com","09070672232","Eshiet","Imefon","YES","Current Awardee","","",""
-"2021/08/12 3:29:18 PM GMT+1","godwinowogoga@ymail.com","08076645487","Akpa","Godwin","YES","Graduate Member","","","Hope for another awesome moment with HCF."
-"2021/08/12 3:29:57 PM GMT+1","godwinowogoga@ymail.com","08076645487","Akpa","Godwin","YES","Graduate Member","","","Hope for another awesome moment with HCF."
-"2021/08/12 4:53:41 PM GMT+1","lawaltosin17@gmail.com","09024936591","Lawal","Oluwatosin ","NO","Current Awardee","","","No"
-"2021/08/12 6:32:49 PM GMT+1","beatricegeorgehenry@gmail.com","08103767134","George","Beatrice","YES","Current Awardee","","","Greater height"
-"2021/08/12 6:49:16 PM GMT+1","wilsonsunday68@gmail.com","08107321942","Echara","Wilson Sunday","YES","Current Awardee","","","I can't wait to grace the event."
-"2021/08/12 11:04:38 PM GMT+1","Ekaihwilson@gmail.com","08143678438","Effiong","Praise","YES","Current Awardee","","",""
-"2021/08/13 8:49:55 AM GMT+1","sandrangozikaoffor@gmail.com","08067358677","Offor","Sandra","YES","Other","","","No"
-"2021/08/13 10:29:01 AM GMT+1","basseyelizabeth34@yahoo.com","07068321940","Bassey","Elizabeth ","YES","Graduate Member","","","Hillcity Foundation please continue with the good works and may God continue to bless you richly. "
-"2021/08/13 10:35:56 AM GMT+1","kenechukwuenem5869@gmail.com","+2347066807268","Enem","Kenechukwu","YES","Other","","",""
-"2021/08/13 3:10:41 PM GMT+1","faviegrace@gmail.com","07068373636","Okpakorese","Oghenenyerhovwo","YES","Current Awardee","","",""
-"2021/08/13 5:40:38 PM GMT+1","isahmustapha17@gmail.com","08101066189","Isah","Mustapha","YES","Current Awardee","","","Yes sir "
-"2021/08/13 7:24:39 PM GMT+1","okanaanthony12@gmail.com","07032828790","Okana","Anthony","YES","Current Awardee","","","No"
-"2021/08/13 8:10:18 PM GMT+1","chinecheremiloh28@yahoo.com","08163978845","ILOH","Chinecherem","YES","Current Awardee","","",""
-"2021/08/13 8:31:31 PM GMT+1","bethyephraim@gmail.com","07084029053","Ephraim","Bethesda","YES","Current Awardee","","","I am looking forward to this event, i know i will definately learn a lot. thank you HCF."
-"2021/08/13 10:36:28 PM GMT+1","falavik@gmail.com","08066651919","Falasinnu","Victor","YES","Other","","",""
-"2021/08/13 11:07:13 PM GMT+1","efuanappier2017@gmail.com","09054942038","NAPPIER","EFUA","YES","Core Team Member","No","No",""
-"2021/08/13 11:11:14 PM GMT+1","odehjoyce02@gmail.com","09079809103","Odeh","Joyce","YES","Current Awardee","","",""
-"2021/08/13 11:15:45 PM GMT+1","saritachomzy@gmail.com","09067553139","OBI-OGWAH","SARAH","YES","Current Awardee","","",""
-"2021/08/13 11:22:52 PM GMT+1","chinecheremiloh28@yahoo.com","08163978845","ILOH","Chinecherem","YES","Current Awardee","","",""
-"2021/08/13 11:28:23 PM GMT+1","uchechukwu2027@yahoo.com","09066331571","Ogbodo","Charles Uchechukwu","YES","Current Awardee","","","It is really a great privilege that I was considered for this opportunity. I am deeply appreciative of this, and I look forward to participating in the event to learn. Thank you so much, Hillcity Foundation. "
-"2021/08/14 12:32:35 AM GMT+1","ma.vicalex057@gmail.com","08111748601","Ojim","Victor","YES","Current Awardee","","",""
-"2021/08/14 5:37:54 AM GMT+1","tommyubongabasi@gmail.com","09022486341","Tommy","Ubongabasi","YES","Current Awardee","","","I am looking forward to the event. "
-"2021/08/14 6:43:45 AM GMT+1","firimab@gmail.com","09028001524","Firima","Bestman","YES","Current Awardee","","","I'll be attending"
-"2021/08/14 7:28:24 AM GMT+1","datugunwulkatrita@gmail.com","08113553427","Datugun","Rita","YES","Current Awardee","","","Hill city for life"
-"2021/08/14 7:31:19 AM GMT+1","edetlucky@hillcityfoundation.org","08180916762","EDET","Lucky","YES","Graduate Member","","",""
-"2021/08/14 7:43:13 AM GMT+1","etimtoroabasi456@yahoo.com","09061813721","Etim ","Toroabasi ","YES","Current Awardee","","","I want to get knowledge from the experience of speakers at the event. "
-"2021/08/14 7:45:13 AM GMT+1","ogbuukpaiokechukwu@gmail.com","08167760688","OGBU-UKPAI","OKECHUKWU PAUL","YES","Current Awardee","","","I Cannot Wait to MANIFEST Greatness. "
-"2021/08/14 7:49:19 AM GMT+1","okorose911@gmail.com","09076615475","Oko","Rose","YES","Current Awardee","","","To learn Wilde"
-"2021/08/14 8:01:20 AM GMT+1","elizabethuche77@gmail.com","09049821760","Chukwuemeka","Uchechi","YES","Current Awardee","","",""
-"2021/08/14 8:03:43 AM GMT+1","elizabethuche77@gmail.com","09049821760","Chukwuemeka","Uchechi","YES","Current Awardee","","","Thanks for the invite"
-"2021/08/14 8:26:31 AM GMT+1","salimmuhammadmaikano@gmail.com","08145081988","Muhammad","Salim","YES","Current Awardee","","","I want to thank you for the organization for giving us knowledge to face the world"
-"2021/08/14 8:39:44 AM GMT+1","odofin4tunrayo@gmail.com","09029904381","Odofin ","Motunrayo ","YES","Current Awardee","","",""
-"2021/08/14 8:40:22 AM GMT+1","felixorji18@gmail.com","07063109247","Felix","IfeanyiChukwu","YES","Current Awardee","","","Anticipating."
-"2021/08/14 9:00:38 AM GMT+1","ukathompson@gmail.com","08109453764","uka","Thompson","YES","Current Awardee","","",""
-"2021/08/14 9:06:28 AM GMT+1","agwublessing82@gmail.com","09066311348","Agwu","Blessing","YES","Current Awardee","","","I say a very big thank you to Hillcity foundation for there support, am grateful. "
-"2021/08/14 9:24:24 AM GMT+1","abrahamlinus208@yahoo.com","08101190007l","linus","abraham","YES","Current Awardee","","","thanks to hillcity foundation."
-"2021/08/14 10:12:36 AM GMT+1","talbortfranklin2019@gmail.com","07012346707","TALBORT","FRANKLYN","YES","Current Awardee","","",""
-"2021/08/14 10:15:05 AM GMT+1","nobledaniel104@gmail.com","08146717950","Daniel","Noble","YES","Current Awardee","","",""
-"2021/08/14 10:35:46 AM GMT+1","pureandcrystal22@gmail.com","07033585604","Williams","Joy","YES","Current Awardee","","","I am looking forward to attending  the 
+2021/07/31 4:18:43 AM GMT+1,maryjaneoffia@gmail.com,9027451064,Offia,Chigozie,YES,Current Awardee,,,Anticipating!!!!!!!
+2021/08/02 6:15:58 PM GMT+1,maryjaneoffia@gmail.com,9027451064,Offia,Chigozie,YES,Current Awardee,,,I anticipate!!!!!!
+2021/08/09 3:29:13 PM GMT+1,maxoluwatosin@gmail.com,7087840509,Ajanaku ,Oluwatosin ,YES,Current Awardee,,,
+2021/08/05 12:27:45 AM GMT+1,melodyuzozie2@gmail.com,8025459310,Uzozie,Melody,YES,Current Awardee,,,I just want to say a big thank you to hillcity foundation at large for changing lives...
+2021/08/11 4:10:09 PM GMT+1,melodyuzozie2@gmail.com,8025459310,Uzozie ,Melody ,YES,Current Awardee,,,Special applications to the hillcity family 
+2021/08/03 1:15:08 PM GMT+1,mercykendrick98@gmail.com,9075842096,Robert ,Mercy,YES,Current Awardee,,,No
+2021/08/03 2:56:08 PM GMT+1,michaelpeace301@gmail.com,8039720668,Michael,Peace,YES,Current Awardee,,,No
+2021/07/30 9:25:05 PM GMT+1,miriamime101@gmail.com,8124041454,Inyang,Ebenge,YES,Current Awardee,,,I'll be looking forward to the event with great expectations
+2021/08/09 12:34:00 PM GMT+1,mobizuyo@gmail.com,755880934,Obizuyo,Maureen,YES,Current Awardee,,,
+2021/07/30 5:20:27 PM GMT+1,mogwogho@yahoo.com,8172064466,Ogwogho,Momodu,YES,Core Team Member,Yes,Option 1,Let's discover!
+2021/07/31 10:05:01 AM GMT+1,monthtaimos1504@gmail.com,8142473843,Osuolale,Taiwo,YES,Current Awardee,,,"I look forward to the great day, where my life will encounter another progress through the words of great men set for the day... God bless hill city foundation."
+2021/08/03 10:47:30 AM GMT+1,mtormough@gmail.com,7081919118,Tormough,Mdoo,YES,Current Awardee,,,
+2021/08/08 9:44:00 AM GMT+1,mugisly@gmail.com,2.34704E+12,Ehana,Milton,YES,Core Team Member,Yes,Yes,
+2021/07/22 3:52:52 AM GMT+1,musakabiru812@gmail.com,08093487637/08159014316,Musa,Kabiru,YES,Current Awardee,,,Long live to Hcf and it's Team members
+2021/07/30 7:07:37 PM GMT+1,musakabiru812@gmail.com,8093487637,Musa,Kabiru,YES,Current Awardee,,,Anticipating this event.
+2021/07/30 7:09:44 PM GMT+1,musakabiru812@gmail.com,8093487637,Musa,Kabiru,YES,Current Awardee,,,God bless all Hill city members
+2021/07/31 10:29:53 PM GMT+1,musakabiru812@gmail.com,8093487637,Musa,Kabiru,YES,Current Awardee,,,My God bless all hands that supports hill city
+2021/08/14 9:20:18 PM GMT+1,musakabiru812@gmail.com,8093487637,Musa,Kabiru,YES,Current Awardee,,,
+2021/07/26 11:37:32 AM GMT+1,naihkore@yahoo.com,8131021846,Mojafu-Ekpang ,Naihkore,YES,Current Awardee,,,I Hope for the best as Usual.
+2021/07/27 9:29:05 PM GMT+1,naihkore@yahoo.com,8131021846,Mojafu-Ekpang,Naihkore,YES,Current Awardee,,,
+2021/08/10 4:03:36 PM GMT+1,naihkore@yahoo.com,8131021846,Mojafu-Ekpang,Naihkore,YES,Current Awardee,,,I am Hoping for the Best as Usual. Thank You. 
+2021/08/15 2:42:50 PM GMT+1,namukasasolar@gmail.com,755807544,Namukasa,Solar,YES,Current Awardee,,,No thank you
+2021/08/03 6:42:54 PM GMT+1,ndudimifeoma@gmail.com,8105485976,Ndudim,Ifeoma,YES,Current Awardee,,,
+2021/08/09 2:01:30 PM GMT+1,ndudimifeoma1@gmail.com,8105485976,Ndudim,Ifeoma,YES,Current Awardee,,,
+2021/08/09 12:05:23 PM GMT+1,ndungenatalie@gmail.com,2.56707E+11,Natalie,Ndunge,YES,Current Awardee,,,
+2021/08/05 5:27:22 AM GMT+1,needubatambari@gmail.com,8136221033,Needu,Batambari,YES,Graduate Member,,,Hillcity has been a blessing to many lives.
+2021/08/08 10:27:49 PM GMT+1,needubatambari@gmail.com,8136221033,Needu,Batambari,YES,Graduate Member,,,
+2021/08/03 10:40:42 AM GMT+1,nenkimwa221@gmail.com,7038040375,John,Nenkimwa,YES,Other,,,No
+2021/08/03 10:43:00 AM GMT+1,nenkimwa221@gmail.com,7038040375,John,Nenkimwa,YES,Other,,,No
+2021/07/30 5:10:36 PM GMT+1,ngoziguchenna@gmail.com,2.3481E+12,ngozi,Uchenna,YES,Graduate Member,,,
+2021/08/01 11:06:46 PM GMT+1,ngwuchinecherem01@gmail.com,8159721637,Ngwu,Chinecherem,YES,Current Awardee,,,I can't wait to attend this event
+2021/08/03 10:41:49 PM GMT+1,niyioluwasola2000@gmail.com,7032221199,Akinniyi,Moshood,YES,Current Awardee,,,"Not at all
+
+I will be attending"
+2021/08/14 10:15:05 AM GMT+1,nobledaniel104@gmail.com,8146717950,Daniel,Noble,YES,Current Awardee,,,
+2021/08/09 7:11:15 PM GMT+1,noromoses@yahoo.com,8167836955,Dagwi,Noro Moses,YES,Current Awardee,,,I might miss the event because of exams
+2021/08/09 7:13:13 PM GMT+1,noromoses@yahoo.com,8167836955,Dagwi,Noro Moses,YES,Current Awardee,,,Great impact
+2021/08/11 9:54:03 PM GMT+1,noromoses@yahoo.com,8167836955,Dagwi,Noro Moses,YES,Current Awardee,,,Great people
+2021/08/08 7:06:12 AM GMT+1,nurseadeboyetitilayo@gmail.com,9037323430,Adeboye,Titilayo,YES,Current Awardee,,,
+2021/07/31 10:15:01 AM GMT+1,nwangburukachristian@gmail.com,8037673201,Nwangburuka ,Christian,YES,Current Awardee,,,
+2021/08/10 2:33:57 PM GMT+1,nwangburukachristian@gmail.com,8037673201,Nwangburuka ,Christian ,YES,Current Awardee,,,No
+2021/08/01 3:16:51 PM GMT+1,nwankwotochukwu14@gmail.com,8037826536,Nwankwo,Tochukwu Emmanuel,YES,Current Awardee,,,
+2021/08/02 7:32:19 AM GMT+1,nwankwotochukwu14@gmail.com,8037826536,NWANKWO,TOCHUKWU EMMANUEL,YES,Current Awardee,,,
+2021/07/30 7:01:07 PM GMT+1,nwoghachinedu108@gmail.com,9033830140,Nwogha,Chinedu Moses,YES,Current Awardee,,,I hope to learn a lot on this ride!
+2021/08/10 3:18:08 PM GMT+1,nwoghachinedu108@gmail.com,9033830140,Nwogha,Chinedu Moses,YES,Current Awardee,,,Thank you HILLCITY
+2021/08/03 8:21:52 PM GMT+1,ny.mwantep@gmail.com,8036298837,Yohanna,Nerat,YES,Current Awardee,,,
+2021/07/30 6:45:36 PM GMT+1,o.m.stevoo@gmail.com,2.3481E+12,Orugbala ,Izuchukwu ,YES,Current Awardee,,,I wish to appreciate this great and Noble family for everything they've been doing in my life through this scheme. Greater heights I pray for HCF
+2021/08/03 3:47:13 PM GMT+1,obandejosephine17@gmail.com,9030079696,Obande ,Josephine Emmanuel ,YES,Other,,,
+2021/08/03 10:02:24 PM GMT+1,obandejosephine17@gmail.com,9030079696,Obande ,Josephine Emmanuel ,YES,Current Awardee,,,
+2021/08/03 10:03:55 PM GMT+1,obandejosephine17@gmail.com,9030079696,Obande ,Josephine Obande ,YES,Current Awardee,,,
+2021/08/09 9:18:30 PM GMT+1,obandejosephine17@gmail.com,9030079696,Obande ,Josephine Emmanuel ,YES,Current Awardee,,,
+2021/07/31 10:50:11 PM GMT+1,obilor81@gmail.com,8168301535,OBILOR,EMMANUEL,YES,Current Awardee,,,
+2021/08/09 10:06:21 PM GMT+1,obilor81@gmail.com,8168301535,OBILOR,EMMANUEL,YES,Current Awardee,,,Thank you Hill City for this privilege
+2021/08/03 8:37:00 AM GMT+1,obioms@yahoo.com,13028837125,Iwuchukwu,Obioma,YES,Core Team Member,No,No,I will attend virtually
+2021/08/03 1:26:03 PM GMT+1,ochanyaonoja5@gmail.com,8134525673,ONOJA,HELEN OCHANYA,YES,Current Awardee,,,No
+2021/08/03 11:43:00 PM GMT+1,ochetla.adejo@gmail.com,8053929941,Adejo,Ochetla,YES,Current Awardee,,,In God we trust.
+2021/08/03 7:42:25 PM GMT+1,ochinokwugrace@gmail.com,9024798090,Ochinokwu,Grace,YES,Current Awardee,,,
+2021/08/09 11:45:54 AM GMT+1,odehjoyce02@gmail.com,9079809103,Odeh,Joyce,YES,Current Awardee,,,Thank you very much for the invite. 
+2021/08/09 11:56:40 AM GMT+1,odehjoyce02@gmail.com,9079809103,Odeh,Joyce,YES,Current Awardee,,,Thank you for the invite. 
+2021/08/13 11:11:14 PM GMT+1,odehjoyce02@gmail.com,9079809103,Odeh,Joyce,YES,Current Awardee,,,
+2021/08/09 5:17:29 PM GMT+1,odhitech22@gmail.com,2.34707E+12,EBAH,ODEH ISAIAH,YES,Other,,,No
+2021/07/31 7:07:46 AM GMT+1,odiliodili3@gmail.com,8160863613,Odili,Chekwube,YES,Current Awardee,,,"Pls can we include a heart to heart talk in this event? 
+Some persons just need some personal counselling that can't be discussed over the phone as we do with mentors."
+2021/08/10 6:21:55 PM GMT+1,odiliodili3@gmail.com,8160863613,Odili,Chekwube,YES,Current Awardee,,,
+2021/07/31 10:03:42 PM GMT+1,odofin4tunrayo@gmail.com,9029904381,Odofin ,Motunrayo ,YES,Current Awardee,,,Looking forward to a great event!!
+2021/08/10 4:04:48 AM GMT+1,odofin4tunrayo@gmail.com,9029904381,Odofin ,Motunrayo ,YES,Current Awardee,,,
+2021/08/14 8:39:44 AM GMT+1,odofin4tunrayo@gmail.com,9029904381,Odofin ,Motunrayo ,YES,Current Awardee,,,
+2021/07/30 7:54:13 PM GMT+1,offshorepastor@yahoo.com,8027411268,Edokpayi ,Emmanuel ,YES,Core Team Member,Yes,,
+2021/08/04 4:47:28 PM GMT+1,ogardiana541@gmail.com,8093334638,Ogar,Diana,YES,Current Awardee,,,Hoping the event will be impact full 
+2021/07/30 8:06:15 PM GMT+1,Ogbuukpaiokechukwu@gmail.com,8167760688,"OGBU,",UKPAI OKECHUKWU PAUL,YES,Current Awardee,,,I Await My MANIFESTATION! 
+2021/08/14 7:45:13 AM GMT+1,ogbuukpaiokechukwu@gmail.com,8167760688,OGBU-UKPAI,OKECHUKWU PAUL,YES,Current Awardee,,,I Cannot Wait to MANIFEST Greatness. 
+2021/07/31 8:06:22 AM GMT+1,ogechukwumacdaniel7@gmail.com,8038362538,Ogechukwu,MacDaniel,YES,Current Awardee,,,It’s always awesome to be a part of this great family 
+2021/08/04 12:11:55 PM GMT+1,ogechukwumacdaniel7@gmail.com,8038362538,Ogechukwu,MacDaniel,YES,Current Awardee,,,Am always expectant of HCF events cos it’s always superb
+2021/07/31 11:15:06 AM GMT+1,oghenetejiriemonena@gmail.com,8122497817,Emonena,Oghenetejiri,YES,Current Awardee,,,
+2021/08/10 9:03:42 AM GMT+1,oghenetejiriemonena@gmail.com,8122497817,Emonena,Oghenetejiri,YES,Current Awardee,,,Thank you for the award.
+2021/08/09 1:06:19 PM GMT+1,ogmaroski@gmail.com,7039866108,Onoronu,Oghenemaro,YES,Core Team Member,No,Yes,None
+2021/08/07 7:28:31 PM GMT+1,ogwuchedavid26@gmail.com,8061461004,Ogwuche,David,YES,Current Awardee,,,No
+2021/07/31 3:17:12 PM GMT+1,ojebisiolatunji@yahoo.com,9028763569,Ojebisi ,Olatunji ,YES,Current Awardee,,,
+2021/08/03 12:16:37 AM GMT+1,okaformiraclec@gmail.com,9026166034,Okafor,Miracle,YES,Current Awardee,,,Thank you Hillcity
+2021/08/13 7:24:39 PM GMT+1,okanaanthony12@gmail.com,7032828790,Okana,Anthony,YES,Current Awardee,,,No
+2021/08/09 9:37:15 AM GMT+1,okaroonochie@gmail.com,7052122401,Okaro ,Onochie,YES,Other,,,I'll be very happy to be a part of this foundation
+2021/07/31 12:10:28 AM GMT+1,okebugwuella@gmail.com,8167653007,Okebugwu,Ifechimerem,YES,Current Awardee,,,I'm grateful for the opportunity. Thank you HillCity
+2021/08/10 6:25:00 AM GMT+1,okebugwuella@gmail.com,8167653007,Okebugwu,Ifechimerem,YES,Current Awardee,,,None
+2021/07/30 6:54:29 PM GMT+1,okerekechimaobiclinton@gmail.com,7019266567,Okereke,Chimaobi,YES,Current Awardee,,,God bless HillCity Foundation 💪
+2021/08/08 8:32:21 AM GMT+1,okerekechimaobiclinton@gmail.com,7019266567,Okereke,Chimaobi,YES,Current Awardee,,,God bless HillCity Foundation
+2021/08/09 5:52:51 PM GMT+1,okohgregonye@gmail.com,8061264762,Okoh,Greg,YES,Current Awardee,,,None
+2021/08/02 9:08:41 AM GMT+1,okolojonathan92@gmail.com,8054415983,OKOLO,JONATHAN,YES,Current Awardee,,,"Hillcity foundation has been a blessing, and a life changing foundation."
+2021/08/02 9:12:24 AM GMT+1,okolojonathan92@gmail.com,8054415983,OKOLO,JONATHAN,YES,Current Awardee,,,"Hillcity foundation has been a life changing one, and I'm not exempted from the impact it has made even in the lives of many. "
+2021/08/08 7:27:32 AM GMT+1,okolojonathan92@gmail.com,8054415983,Okolo,Jonathan,YES,Current Awardee,,,"Hillcity has given a different shape to my life both academically and also in my orientation and conception as pertaining life.
+I pray the Lord keep you growing...
+Long live Hillcity!!!"
+2021/08/10 8:11:36 PM GMT+1,okolojonathan92@gmail.com,8054415983,Okolo,Jonathan,YES,Current Awardee,,,Hillcity has been a blessing..
+2021/08/12 10:59:47 AM GMT+1,okolojonathan92@gmail.com,805441598,OKOLO,Jonathan,YES,Current Awardee,,,
+2021/07/30 9:47:58 PM GMT+1,okorojeremiah123@gmail.com,8089915780,Okoro,Jeremiah,YES,Current Awardee,,,Am anticipating a very impactful event. 
+2021/07/30 9:51:24 PM GMT+1,okorojeremiah123@gmail.com,8089915780,Okoro,Jeremiah,YES,Current Awardee,,,Registered and anticipating an impactful event. 
+2021/08/08 6:09:52 PM GMT+1,okorojeremiah123@gmail.com,8089915780,Okoro,Jeremiah,YES,Current Awardee,,,
+2021/08/10 9:22:25 AM GMT+1,okorojeremiah123@gmail.com,8089915780,Okoro,Jeremiah,YES,Current Awardee,,,Anticipating an impactful event. 
+2021/07/30 9:30:16 PM GMT+1,okoromaryjane63@gmail.com,8036674786,Okoro,Maryjane ,YES,Current Awardee,,,I anticipate with excitement. 
+2021/07/30 6:48:50 PM GMT+1,okorose911@gmail.com,9076615475,Oko,Rose ,YES,Current Awardee,,,
+2021/08/05 9:53:35 AM GMT+1,okorose911@gmail.com,9076615475,Oko,Rose,YES,Current Awardee,,,I hope to learn more
+2021/08/14 7:49:19 AM GMT+1,okorose911@gmail.com,9076615475,Oko,Rose,YES,Current Awardee,,,To learn Wilde
+2021/08/03 9:58:37 AM GMT+1,okpegodwin1998@gmail.com,9064925702,Okpe,Godwin ,YES,Current Awardee,,,Thanks for the opportunity.
+2021/08/10 8:13:11 AM GMT+1,oladipoabdulmaleekolaitan@gmail.com,9025068570,Oladipo,Abdulmaleek,YES,Current Awardee,,,
+2021/08/07 7:59:55 PM GMT+1,olajidesalako@gmail.com,31684372769,Salako,Olajide,YES,Core Team Member,No,Yes,
+2021/08/09 7:57:11 PM GMT+1,olamideoduneye@gmail.com,8134044285,Oduneye,Olamide,YES,Current Awardee,,,
+2021/07/29 12:43:39 PM GMT+1,oluwafunmilayoagunroye@yahoo.com,2.34803E+12,Agunroye,Elizabeth,YES,Other,,,No
+2021/08/06 6:45:34 PM GMT+1,oluwaseunibk1@gmail.com,7082450058,Ajisafe ,Oluwaseun ,YES,Current Awardee,,,I anticipate the impactful event 
+2021/07/30 6:57:25 PM GMT+1,oluwasheyiolawumi@gmail.com,8063580461,OLAWUMI ,OLUWASHEYI ,YES,Current Awardee,,,"Hillcity Foundation has added lots of value to my life. I have been extremely blessed and impacted by virtue of being a member of this great family since 2019. I will forever be grateful. Thank you, Hillcity Foundation. What a previledge! God bless Hillcity Foundation. "
+2021/07/30 7:05:54 PM GMT+1,oluwasheyiolawumi@gmail.com,8063580461,OLAWUMI ,OLUWASHEYI ,YES,Current Awardee,,,"I have been greatly impacted by Hillcity foundation. There has been a great value-add since year 2019 that I have been priviledged to be a member of this great family as an awardee. I will forever be grateful. Thank You, HILLCITY FOUNDATION. God bless Hillcity Foundation! "
+2021/08/01 9:02:33 PM GMT+1,oluwasheyiolawumi@gmail.com,8063580461,OLAWUMI ,OLUWASHEYI ,YES,Current Awardee,,,"Hillcity Foundation has really been a blessing to me academically, morally and financially. It's really a great priviledge to be a part of this great family as an awardee since 2019. I'm forever grateful. God bless Hillcity Foundation! "
+2021/08/08 10:03:04 AM GMT+1,oluwasheyiolawumi@gmail.com,8063580461,Olawumi ,Oluwasheyi ,YES,Current Awardee,,,I am forever thankful to Hillcity Foundation. I have been greatly impacted. God bless this family. 
+2021/08/09 10:39:08 PM GMT+1,oluwasheyiolawumi@gmail.com,8063580461,Olawumi ,Oluwasheyi ,YES,Current Awardee,,,"I have been greatly impacted. Thank you, Hillcity Foundation
+"
+2021/07/23 5:51:54 PM GMT+1,omarejivwieo@gmail.com,9052912582,Omarejivwie,Onovwakpor ,YES,Other,,,
+2021/07/30 9:20:22 PM GMT+1,onahchidera2017@gmail.com,9066780538,ONAH ,CHIDERA,YES,Current Awardee,,,I can't just wait to manifest and I pray that God will continue to bless this great family for organizing this event.
+2021/07/31 5:55:59 AM GMT+1,onuhabel1@gmail.com,8060801514,Onuh,Abel,YES,Other,,,I'd be pleased to be part of the event
+2021/08/03 12:00:17 PM GMT+1,onwochei@yahoo.co.uk,070)7258792,Onwochei ,Augustine,NO,Core Team Member,No,No,
+2021/08/14 11:20:11 AM GMT+1,onyeagoziri32@gmail.com,9032996360,IGWE,NDUBUISI ,YES,Current Awardee,,,I wish to get connected to my mentor 
+2021/07/30 8:37:01 PM GMT+1,onyebuchinwalieze@gmail.com,8128384131,NWALIEZE,ONYEBUCHI,YES,Other,,,No
+2021/08/06 5:34:02 PM GMT+1,onyidojohn@gmail.com,8065537969,John,Chukwunanu,YES,Graduate Member,,,"I'm excited, anticipating🔥🔥🔥"
+2021/08/12 6:15:20 AM GMT+1,onyinyechinwankwegu@gmail.com,7060878919,Nwankwegu,Onyinyechi,YES,Current Awardee,,,Am grateful to God for rendering me help through Hillcity Foundation
+2021/07/31 11:55:06 AM GMT+1,oputadivine99@gmail.com,9096879837,Oputa,Divine-visit,YES,Current Awardee,,,I'm happy and also grateful to be a part of HCF
+2021/08/07 2:45:59 PM GMT+1,oputadivine99@gmail.com,9096879837,Oputa,Divine,YES,Current Awardee,,,No
+2021/08/11 8:46:34 PM GMT+1,orevaobotha@gmail.com,8136627568,Obotha-Adigo,Orevaoghene,YES,Core Team Member,Yes,Yes,I anticipate a great Event
+2021/08/10 5:36:17 PM GMT+1,osagie.florence@tlfarms.ng,8020522649,Osagie,Florence,YES,Core Team Member,No,No,No
+2021/08/10 3:43:49 AM GMT+1,osaking2000@yahoo.com,8020522679,OSAGIE,Kingsley,YES,Core Team Member,Yes,Yes,Joining the event physical is tentative.
+2021/07/23 2:43:46 PM GMT+1,osarueseikponmwosa@gmail.com,7088382860,Ikponmwosa ,Osaruese ,YES,Other,,,
+2021/07/30 6:45:24 PM GMT+1,oshieemmanuel1@gmail.com,9034090035,OSHIE,EMMANUEL ,YES,Current Awardee,,,
+2021/07/30 11:15:45 PM GMT+1,osiogah218@gmail.com,7037810969,Ogah,Osinachi,YES,Current Awardee,,,
+2021/08/10 4:00:23 PM GMT+1,osiogah218@gmail.com,7037810968,Ogah,Osinachi,YES,Current Awardee,,,
+2021/07/31 1:08:09 PM GMT+1,osuolalekennie@gmail.com,8140529148,Osuolale,Kehinde,YES,Current Awardee,,,"I like to appreciate Hillcity Foundation for this great opportunity and extension of love and care for this generation, even for this another amazing avenue to come to get equipped with certain necessities to manifest. I look forward to this glorious event. Indeed, it's a time to manifest!
+God bless Hillcity Foundation, Amen!"
+2021/07/31 1:30:21 PM GMT+1,ovuobasolomon20@gmail.com,7048859272,Ovuoba,Odinakachukwu,YES,Current Awardee,,,No
+2021/07/31 6:50:36 AM GMT+1,owen.gideon@gmail.com,8149953522,Obasuyi,Owen,YES,Current Awardee,,,
+2021/08/08 7:02:02 AM GMT+1,owen.gideon@gmail.com,8149953522,Obasuyi,Owen,YES,Current Awardee,,,
+2021/08/03 1:14:15 PM GMT+1,owolabi.oluwadare460@gmail.com,8104602318,Owolabi,Oluwadare,YES,Other,,,I look forward to the event and hopefully becoming an awardee
+2021/07/31 12:39:39 AM GMT+1,oyemeda85@gmail.com,9155288037,Oyameda ,Promise ,YES,Current Awardee,,,The hosts should have good network so we can have an excellent event. 
+2021/08/11 10:06:56 AM GMT+1,oyemeda85@gmail.com,9155288037,Oyameda,Promise,YES,Current Awardee,,,
+2021/07/30 11:26:49 PM GMT+1,ozorchinecheremblessing@gmail.com,8140138130,Ozor,Chinecherem,YES,Current Awardee,,,Looking forward to unearthing those hidden potential in me.
+2021/08/08 5:57:36 PM GMT+1,ozorifeanyi8@gmail.com,8149545225,Ozor,Ifeanyichukwu,YES,Other,,,"Thank you for providing this kind of opportunity for massive turn around in the lives of people, am deeply grateful. May God replenish the organizers greatly.amen."
+2021/07/30 7:08:49 PM GMT+1,patiencebarikpoa@gmail.com,8149779384,Naifa,Patience,YES,Current Awardee,,,
+2021/07/30 7:23:46 PM GMT+1,pdike40@gmail.com,7041300644,Dike,Promise ,YES,Other,,,
+2021/08/09 12:40:56 PM GMT+1,peacedadiam@gmail.com,9075185314,Dadiam,Peace,YES,Other,,,No
+2021/08/09 1:25:28 PM GMT+1,peacedadiam@gmail.com,9075185314,Dadiam,Peace,YES,Current Awardee,,,No
+2021/08/01 11:15:42 PM GMT+1,peaceuchenna841@gmail.com,8155747389,Oko,Peace,YES,Current Awardee,,,I want to appreciate hillcity for what they're doing through the ESP and how much they've helped my academics.
+2021/08/09 11:17:10 PM GMT+1,peaceuchenna841@gmail.com,8155747389,Oko,Peace ,YES,Current Awardee,,,Thank you hillcity for all you do.
+2021/08/14 6:54:17 PM GMT+1,peter.justina.kabgwa@gmail.com,9079076612,Peter,Justina,YES,Current Awardee,,,No
+2021/08/14 5:36:27 PM GMT+1,peternonso19@gmail.com,8039251728,Magbo,Peter,YES,Graduate Member,,,
+2021/07/30 7:55:57 PM GMT+1,petertambari@gmail.com,8132030284,Peter,Tambari,YES,Current Awardee,,,Hillcity Foundation's program have been impactful. 
+2021/08/08 10:11:07 AM GMT+1,petertambari@gmail.com,7039689057,Peter,Tambari,YES,Current Awardee,,,Hillcity Foundation Programs have imparted me grately
+2021/08/07 10:41:50 PM GMT+1,petngene@yahoo.com,31619329909,Ngene ,Peter,YES,Core Team Member,No,Yes,
+2021/08/09 10:39:58 AM GMT+1,philchizy32@gmail.com,9063534607,Eze,Chinazaekpere,YES,Other,,,"I actually don't understand this ""Hillcity membership status"": How do we know if we are current awardees or Other? On a long run, the organization is doing extremely well. I hope to enjoy the program. What are expected of us during and after the program?"
+2021/08/15 11:27:53 AM GMT+1,piapnaandashe@gmail.com,7047474971,Dashe,Millicent ,YES,Current Awardee,,,
+2021/08/11 4:30:16 PM GMT+1,pioussylvanus1@gmail.com,8088465092,Sylvanus,Soseipriala,YES,Current Awardee,,,It's been two amazing years With HillCity and I look forward to gaining more insight and knowledge during this year's event.
+2021/08/01 6:24:44 PM GMT+1,preciousadiele9@gmail.com,9095275004,Adiele,Precious,YES,Current Awardee,,,
+2021/08/07 11:49:26 PM GMT+1,preciousadiele9@gmail.com,9095275004,Adiele,Precious,YES,Current Awardee,,,
+2021/07/31 10:04:44 AM GMT+1,preciousohakosim@yahoo.com,8162738527,Ohakosim,Precious ,YES,Current Awardee,,,Weldone hillcity. God bless you
+2021/07/30 6:54:59 PM GMT+1,preciousosazee16@yahoo.com,8039306735,Osazee,Isoken,YES,Current Awardee,,,I look forward to gaining a lot from this event
+2021/08/14 10:11:04 PM GMT+1,preciseihechi9@gmail.com,8160079773,Chima,Precious,YES,Other,,,
+2021/08/14 10:12:36 PM GMT+1,preciseihechi9@gmail.com,8160079773,Chima,Precious,YES,Other,,,
+2021/08/07 7:55:42 PM GMT+1,prince.ojeabulu@yahoo.co.uk,8038890012,Ojeabulu,Prince,YES,Core Team Member,Yes,Yes,
+2021/08/14 10:35:46 AM GMT+1,pureandcrystal22@gmail.com,7033585604,Williams,Joy,YES,Current Awardee,,,"I am looking forward to attending  the 
 2021 Virtual  Event."
-"2021/08/14 11:20:11 AM GMT+1","onyeagoziri32@gmail.com","09032996360","IGWE","NDUBUISI ","YES","Current Awardee","","","I wish to get connected to my mentor "
-"2021/08/14 11:48:48 AM GMT+1","godswillopute@gmail.com","07038315952","Opute","Godswill","YES","Graduate Member","","",""
-"2021/08/14 12:25:08 PM GMT+1","geeteeblaze@gmail.com","08076184639","Mark","Godstime","YES","Current Awardee","","","Looking forward to manifest this year 2021"
-"2021/08/14 12:43:57 PM GMT+1","linuxchinasa6@gmail.com","09066376714","Anyaegbu ","Deborah Chinasa","YES","Current Awardee","","","No comment for now tnxz.."
-"2021/08/14 1:05:42 PM GMT+1","exentrikadonis@gmail.com","08163824200","idagu","shalom","YES","Graduate Member","","",""
-"2021/08/14 3:04:33 PM GMT+1","danpoly60@gmail.com","+2347032378298","Edet","Polycarp","YES","Graduate Member","","","Hill City has been a life line for me and many other awardee and graduate students. It's indeed a plus to have been honed by Hill city foundation."
-"2021/08/14 3:25:46 PM GMT+1","tori.mpamah@gmail.com","09026014463","Mpamah","Victoria ","YES","Current Awardee","","",""
-"2021/08/14 3:28:31 PM GMT+1","ikechukwualoysius30@gmail.com","08159792712","Itumo","Aloysius","YES","Current Awardee","","","No"
-"2021/08/14 3:49:35 PM GMT+1","isaacoluwanifemi@gmail.com","08103206066","Isaac","Oluwanifemi","YES","Current Awardee","","","I am looking forward to the HCF 2021 event "
-"2021/08/14 4:47:29 PM GMT+1","makerie4@gmail.com","08106286907","MAKERI","EMMANUEL","YES","Other","","","This is a great work to success going on here, unfortunately many of us don't know about it."
-"2021/08/14 5:36:27 PM GMT+1","peternonso19@gmail.com","08039251728","Magbo","Peter","YES","Graduate Member","","",""
-"2021/08/14 6:17:33 PM GMT+1","tolulopemobolaji2019@gmail.com","08161376289","Mobolaji","Tolulope","YES","Current Awardee","","","Looking forward to the event"
-"2021/08/14 6:23:56 PM GMT+1","tolulopemobolaji2019@gmail.com","08161376289","Mobolaji","Tolulope","YES","Current Awardee","","","Looking forward to the event"
-"2021/08/14 6:25:27 PM GMT+1","tolulopemobolaji2019@gmail.com","08161376289","Mobolaji","Tolulope","YES","Current Awardee","","","Looking forward to the event"
-"2021/08/14 6:36:57 PM GMT+1","jacobsamuel2958@gmail.com","09086589031","Nwaneche","Samuel","YES","Current Awardee","","","I'm very much happy to be among the participants"
-"2021/08/14 6:43:59 PM GMT+1","ephraimmatex7@gmail.com","07031289168","Mbagwu","Ephraim","YES","Current Awardee","","",""
-"2021/08/14 6:54:17 PM GMT+1","peter.justina.kabgwa@gmail.com","09079076612","Peter","Justina","YES","Current Awardee","","","No"
-"2021/08/14 7:50:58 PM GMT+1","emrys4god@gmail.com","07037795452","Ihebunna","Ogochukwu","YES","Graduate Member","","","I'll be glad to attend the online seminar"
-"2021/08/14 7:56:08 PM GMT+1","ibrahimabdul505@gmail.com","08105519075","ABDULAZEEZ ","IBRAHIM ","YES","Other","","",""
-"2021/08/14 9:20:18 PM GMT+1","musakabiru812@gmail.com","08093487637","Musa","Kabiru","YES","Current Awardee","","",""
-"2021/08/14 10:11:04 PM GMT+1","preciseihechi9@gmail.com","08160079773","Chima","Precious","YES","Other","","",""
-"2021/08/14 10:12:36 PM GMT+1","preciseihechi9@gmail.com","08160079773","Chima","Precious","YES","Other","","",""
-"2021/08/14 10:47:02 PM GMT+1","jameschukwu11@yahoo.com","08187931213","Chukwu","James","YES","Current Awardee","","","DARE last year was a success and also impactful but ths year, MANIFEST is one I can't afford to miss. "
-"2021/08/15 11:27:53 AM GMT+1","piapnaandashe@gmail.com","07047474971","Dashe","Millicent ","YES","Current Awardee","","",""
-"2021/08/15 2:42:50 PM GMT+1","namukasasolar@gmail.com","0755807544","Namukasa","Solar","YES","Current Awardee","","","No thank you"
-"2021/08/15 5:31:03 PM GMT+1","jessedielsoem@gmail.com","07031883759","DIELSOEM","JESSE","YES","Current Awardee","","","Indeed am very very happy to be part of this year event.my God will bless HCT Foundation for me.THANKS. "
+2021/08/03 6:48:56 PM GMT+1,queenik6655@gmail.com,8092716655,Anomihe,Queen,YES,Current Awardee,,,i will be waiting for the event hopefully
+2021/08/06 12:24:34 PM GMT+1,raymond.kyeyune@aiesec.net,2.56773E+11,Kyeyune,Raymond,YES,Core Team Member,No,Yes,
+2021/08/08 9:32:05 PM GMT+1,raymondfredrickabaphras@gmail.com,9044271191,Raymond,Fredrick,YES,Core Team Member,Yes,No,I have had a lot about hillcity foundation 
+2021/08/08 7:52:34 AM GMT+1,raymondraphael321@gmail.com,2.34908E+12,Aworo,Raymond,YES,Current Awardee,,,No
+2021/08/11 10:20:56 PM GMT+1,raymondraphael321@gmail.com,2.34908E+12,Aworo,Raymond,YES,Current Awardee,,,No
+2021/08/01 2:01:41 PM GMT+1,rinah.jocelyn@gmail.com,2.56753E+11,NAMUYOMBA,Rinah,YES,Core Team Member,No,No,Looking forward 
+2021/07/30 5:07:29 PM GMT+1,robert.kyoyetera@gmail.com,2.56789E+11,Kyoyetera ,Robert,YES,Core Team Member,No,Option 1,
+2021/08/03 10:37:35 PM GMT+1,robertbarkat2000@gmail.com,7019477508,Robert,Blessing,YES,Current Awardee,,,
+2021/08/12 6:27:41 AM GMT+1,robinrul781227@gmail.com,8138618984,Okon,Paulinus,YES,Current Awardee,,,
+2021/07/31 9:55:00 AM GMT+1,rollybest1996@gmail.com,9032831166,OKO,ROLLAND ,YES,Current Awardee,,,It will be a wonderful thing to be in attendance 
+2021/08/10 1:24:04 PM GMT+1,rollybest1996@gmail.com,9032831166,OKO,ROLLAND,YES,Current Awardee,,,Looking forward to gain more knowledge 
+2021/08/09 1:08:44 PM GMT+1,rsolomon72@yahoo.com,8130210777,Solomon,Rachel,YES,Current Awardee,,,"I am very grateful to God and Hillcity Foundation for this wonderful opportunity, God bless Hillcity Foundation"
+2021/08/07 4:48:07 PM GMT+1,sabsolaz@gmail.com,7034670810,Aziegbemhin ,Solomon ,YES,Core Team Member,No,No,
+2021/07/31 8:49:47 PM GMT+1,salimmuhammadmaikano@gmail.com,8145081988,Muhammad ,Salim,YES,Current Awardee,,,
+2021/08/14 8:26:31 AM GMT+1,salimmuhammadmaikano@gmail.com,8145081988,Muhammad,Salim,YES,Current Awardee,,,I want to thank you for the organization for giving us knowledge to face the world
+2021/08/03 10:16:51 PM GMT+1,saminuayuba2017@gmail.com,7087884660,Ayuba,Saminu,YES,Current Awardee,,,Am so interested in the event
+2021/07/30 4:51:06 PM GMT+1,samuelabuh247@gmail.com,7063369733,Abuh,Samuel,YES,Current Awardee,,,No
+2021/08/02 7:46:11 AM GMT+1,samuelabuh247@gmail.com,7063369733,Abuh,Samuel,YES,Current Awardee,,,No
+2021/08/09 11:26:27 AM GMT+1,samuelarawu@gmail.com,7788141599,Arawu,Samuel,YES,Graduate Member,,,
+2021/07/26 12:02:11 PM GMT+1,samueloluwatobiloba48@gmail.com,8069842054,Adesokan,Oluwatobiloba,YES,Other,,,No
+2021/08/13 8:49:55 AM GMT+1,sandrangozikaoffor@gmail.com,8067358677,Offor,Sandra,YES,Other,,,No
+2021/07/30 9:38:15 PM GMT+1,sandraonyenwere72@gmail.com,7035629272,Onyenwere,Oluchi,YES,Graduate Member,,,Many Thanks for this great opportunity
+2021/08/10 12:48:05 PM GMT+1,sandraonyenwere72@gmail.com,7035629272,Onyenwere,Oluchi,YES,Graduate Member,,,Thanks
+2021/08/03 7:53:37 PM GMT+1,sarahochoje@gmail.com,8188233635,Ochoje ,Sarah,YES,Current Awardee,,,
+2021/08/10 4:45:59 PM GMT+1,saritachomzy@gmail.com,9067553139,OBI-OGWAH,SARAH,YES,Current Awardee,,,
+2021/08/10 4:49:14 PM GMT+1,saritachomzy@gmail.com,9067553139,OBI-OGWAH,SARAH ,YES,Current Awardee,,,Being part of the Hill city foundation program is a very big help to me as a student.
+2021/08/13 11:15:45 PM GMT+1,saritachomzy@gmail.com,9067553139,OBI-OGWAH,SARAH,YES,Current Awardee,,,
+2021/08/01 7:35:44 PM GMT+1,saviourumoh.ssu@gmail.com,8069057575,Umoh,Saviour,YES,Graduate Member,,,
+2021/07/31 10:07:40 AM GMT+1,scoutystephen07@gmail.com,8101349938,Stephen ,Magdalene ,YES,Current Awardee,,,
+2021/08/03 10:43:16 AM GMT+1,sharondemige@gmail.com,8095473201,Istifanus,Sharon,YES,Current Awardee,,,
+2021/08/03 10:44:40 AM GMT+1,sharondemige@gmail.com,8095473201,ISTIFANUS,SHARON,YES,Current Awardee,,,No.
+2021/08/05 3:52:17 PM GMT+1,shukurohabdurrasaq@gmail.com,8149159489,ABDURRASAQ,SHUKUROH,YES,Other,,,"No, for now"
+2021/08/03 5:32:02 AM GMT+1,sicw.org.ng@gmail.com,9037355258,Ottah,Samuel,YES,Graduate Member,,,
+2021/08/10 6:18:38 AM GMT+1,sifonibok10@gmail.com,7010740733,Ibok,Sifon,YES,Current Awardee,,,Looking forward to this great experience. 
+2021/08/07 6:12:15 PM GMT+1,Sixtusdika@gmail.com,2.34704E+12,Nzeh,Sixtus,YES,Graduate Member,,,
+2021/08/10 7:58:10 AM GMT+1,sochimaokafor5@gmail.com,8162999117,Okafor,Sochima,YES,Other,,,"I look forward to witnessing this wonderful event
+"
+2021/08/07 8:08:02 PM GMT+1,sunday.nwovu@hillcityfoundation.org,8168722372,Nwovu,Sunday,YES,Graduate Member,,,
+2021/07/22 5:12:14 AM GMT+1,sundayogundeji9@gmail.com,9023141490,OGUNDEJI,Sunday,YES,Other,,,no
+2021/08/12 8:05:36 AM GMT+1,sunny4official@gmail.com,8168722372,Nwovu,Sunday,YES,Current Awardee,,,
+2021/08/01 10:54:05 PM GMT+1,surgeonhand81@gmail.com,9034851764,Eborah,Emeka,YES,Other,,,No
+2021/08/03 5:09:25 PM GMT+1,sylvesterembu@gmail.com,8108310465,Embu,Sylvester,YES,Current Awardee,,,I wait in anticipation for the event. Long live HCF
+2021/08/10 2:14:51 PM GMT+1,talbortfranklin2019@gmail.com,7012346707,TALBORT,FRANKLYN,YES,Current Awardee,,,I will not miss the event.
+2021/08/14 10:12:36 AM GMT+1,talbortfranklin2019@gmail.com,7012346707,TALBORT,FRANKLYN,YES,Current Awardee,,,
+2021/08/06 6:15:24 PM GMT+1,tamunobelema@yahoo.com,8037460539,Ogbuji,Enyinnah,YES,Core Team Member,No,Yes,
+2021/08/08 7:04:22 PM GMT+1,tapwulnaan@gmail.com,8116554129,Dashe,Tapwulnaan,YES,Current Awardee,,,"    My most glorious appreciation to  Hillcity  Foundation. For me history and testimony of life will never be written without this prestigious foundation.
+   God bless Hillcity Foundation."
+2021/07/31 8:05:26 AM GMT+1,thankgodubengama2019@gmail.com,9022626468,UBENGAMA,THANK-GOD,YES,Current Awardee,,,No comment
+2021/07/31 8:25:23 AM GMT+1,thankgodubengama2019@gmail.com,9022626468,UBENGAMA,THANK-GOD,YES,Current Awardee,,,No comment
+2021/08/10 9:37:30 AM GMT+1,thankgodubengama2019@gmail.com,9022626468,Ubengama,ThankGod,YES,Current Awardee,,,No
+2021/07/30 6:52:10 PM GMT+1,thankgodugbedeojoh@gmail.com,2.34803E+12,Mohammed,Ugbede,YES,Graduate Member,,,I wanna thank Hillcity foundation Education Support for his contribution towards my education goal. God bless you all. 
+2021/08/14 6:17:33 PM GMT+1,tolulopemobolaji2019@gmail.com,8161376289,Mobolaji,Tolulope,YES,Current Awardee,,,Looking forward to the event
+2021/08/14 6:23:56 PM GMT+1,tolulopemobolaji2019@gmail.com,8161376289,Mobolaji,Tolulope,YES,Current Awardee,,,Looking forward to the event
+2021/08/14 6:25:27 PM GMT+1,tolulopemobolaji2019@gmail.com,8161376289,Mobolaji,Tolulope,YES,Current Awardee,,,Looking forward to the event
+2021/08/14 5:37:54 AM GMT+1,tommyubongabasi@gmail.com,9022486341,Tommy,Ubongabasi,YES,Current Awardee,,,I am looking forward to the event. 
+2021/08/14 3:25:46 PM GMT+1,tori.mpamah@gmail.com,9026014463,Mpamah,Victoria ,YES,Current Awardee,,,
+2021/07/14 11:56:17 AM GMT+1,u.umeoke@yahoo.com,2.34806E+12,Umeoke,Ugochukwu,YES,Graduate Member,,,Here's my comment
+2021/08/13 11:28:23 PM GMT+1,uchechukwu2027@yahoo.com,9066331571,Ogbodo,Charles Uchechukwu,YES,Current Awardee,,,"It is really a great privilege that I was considered for this opportunity. I am deeply appreciative of this, and I look forward to participating in the event to learn. Thank you so much, Hillcity Foundation. "
+2021/08/02 1:03:41 AM GMT+1,uchedonaldikechukwu@gmail.com,9067513872,Uche,Donald,YES,Current Awardee,,,No
+2021/08/08 11:51:06 AM GMT+1,ucheokpe16@gmail.com,8067805325,Okpe,Sabinus ,YES,Graduate Member,,,
+2021/08/09 7:08:57 PM GMT+1,ucheprecious39@gmail.com,7018923280,Uche,Precious,NO,Other,,,
+2021/08/01 11:28:36 PM GMT+1,udennafrancisca@gmail.com,7088448756,Udenna,Ifechukwu,YES,Current Awardee,,,
+2021/07/30 7:56:23 PM GMT+1,udochukwugoodluck442@gmail.com,8167668442,UDOCHUKWU,GOODLUCK,YES,Current Awardee,,,"HillCity foundation have really transformed me positively, help me to achieve my goals academically"
+2021/07/30 7:58:30 PM GMT+1,udochukwugoodluck442@gmail.com,8167668442,UDOCHUKWU,GOODLUCK,YES,Current Awardee,,,"HillCity foundation have really helped me achieve my goals academically,."
+2021/08/08 7:03:49 AM GMT+1,udochukwugoodluck442@gmail.com,8167668442,UDOCHUKWU,GOODLUCK,YES,Current Awardee,,,HillCity foundation program has really help me to achieve my academic goal. 
+2021/08/09 6:36:54 PM GMT+1,udochukwugoodluck442@gmail.com,8167668442,UDOCHUKWU,GOODLUCK,YES,Current Awardee,,,
+2021/07/30 6:56:35 PM GMT+1,ugochukwu.uwazurike@hillcityfoundation.org,8166365000,Uwazuruike ,Ugochukwu ,YES,Core Team Member,No,,
+2021/08/05 12:08:01 AM GMT+1,ugochukwu.uwazurike@hillcityfoundation.org,8166365000,Uwazuruike ,Ugochukwu,YES,Core Team Member,No,No,
+2021/08/09 11:52:13 AM GMT+1,ugochukwu.uwazurike@hillcityfoundation.org,2.34817E+12,UWAZURUIKE,UGOCHUKWU,YES,Core Team Member,No,Yes,
+2021/08/06 10:40:43 AM GMT+1,ugwulucky02@gmail.com,9015673532,Ugwu,John-Lucky,YES,Current Awardee,,,God bless Hillcity Foundation for their phenomenal impact in lives
+2021/07/31 7:03:53 AM GMT+1,ujongbassey61@gmail.com,8109343002,Ujong,Bassey,YES,Current Awardee,,,The registration process is good as it is easy 
+2021/08/12 8:50:05 AM GMT+1,ujongbassey61@gmail.com,8109343002,Ujong,Bassey,YES,Current Awardee,,,The  registration process is such an easy one 
+2021/08/14 9:00:38 AM GMT+1,ukathompson@gmail.com,8109453764,uka,Thompson,YES,Current Awardee,,,
+2021/08/01 7:03:15 PM GMT+1,umehkelvinc@gmail.com,8034962141,Umeh,Kelvin Chukwunonso ,YES,Core Team Member,Yes,No,
+2021/08/02 9:05:03 AM GMT+1,uniqueuwadamsel@gmail.com,8059122422,Otamere,Uwa,YES,Current Awardee,,,
+2021/08/09 11:45:32 PM GMT+1,uzorire@gmail.com,8130405886,Irechukwu,Uzoma,YES,Graduate Member,,,No
+2021/08/06 12:31:45 PM GMT+1,valerianabakooza7@gmail.com,704911587,Nabakooza,Valeria ,YES,Core Team Member,Yes,Yes,No
+2021/08/10 2:39:56 PM GMT+1,vic3.ize@gmail.com,8166549074,Izegaegbe,Victory ,YES,Graduate Member,,,
+2021/07/31 9:44:27 PM GMT+1,victoranoke@yahoo.com,9073376766,Anoke,Victor,YES,Current Awardee,,,
+2021/08/04 12:55:30 AM GMT+1,victoranoke@yahoo.com,9073376766,Anoke,Victor,YES,Current Awardee,,,
+2021/07/30 8:42:42 PM GMT+1,victoriaonyiclassic1@yahoo.com,8143968812,Orji,Chiamaka ,YES,Current Awardee,,,Yes
+2021/08/10 7:09:07 AM GMT+1,victoriaonyiclassic1@yahoo.com,8143968812,Orji,Chiamaka Victoria ,YES,Current Awardee,,,
+2021/08/10 10:50:26 AM GMT+1,vinebranchinvestmentsa@gmail.com,27833348728,Edwin,Chimaobi,YES,Core Team Member,No,No,
+2021/07/30 7:13:15 PM GMT+1,wilsonsunday68@gmail.com,8107321942,Echara,Wilson,YES,Current Awardee,,,I can't wait to take part in the event.
+2021/08/12 6:49:16 PM GMT+1,wilsonsunday68@gmail.com,8107321942,Echara,Wilson Sunday,YES,Current Awardee,,,I can't wait to grace the event.
+2021/08/07 6:47:43 PM GMT+1,wnweze@gmail.com,8098315401,Nweze,Wura ,YES,Core Team Member,No,No,
+2021/07/30 7:08:20 PM GMT+1,wonahvictoria@gmail.com,8133662052,Wonah,Victoria ,YES,Current Awardee,,,
+2021/07/31 1:56:26 PM GMT+1,wonahvictoria@gmail.com,8133662052,Wonah,Victoria,YES,Current Awardee,,,
+2021/08/04 9:17:50 AM GMT+1,wusiyusuf@yahoo.com,8056698497,Ogwogho ,Wusi,YES,Core Team Member,Yes,,
+2021/08/03 10:14:31 PM GMT+1,yakubumicah6@gmail.com,8163515131,Yakubu,Mikah,YES,Current Awardee,,,I will like to participate in the upcoming events
+2021/08/01 1:37:14 PM GMT+1,yayanhafsatmaru@gmail.com,8032460095,muhammad,abdulazeez maru,YES,Other,,,
+2021/07/30 1:29:08 PM GMT+1,yuskid98@gmail.com,8171199675,Olowode,Yusuf,YES,Other,,,
